@@ -1,5 +1,6 @@
 # the_thread
 
+```text
 the-thread-series/
 ├── .github/
 │   └── ISSUE_TEMPLATE/        # For tracking episode production stages
@@ -15,6 +16,7 @@ the-thread-series/
 ├── media/
 │   └── placeholders/          # Low-res visual placeholders before final video edit
 └── README.md                  # Series overview, execution thesis, and project roadmap
+```
 
 
 An unscripted YouTube series connecting modern defense and aerospace technology to the strategic logic of the ancient world. Each episode pulls a thread from the one before it — no predetermined destination, just a sustained argument about how power, engineering, and sacrifice actually work.
