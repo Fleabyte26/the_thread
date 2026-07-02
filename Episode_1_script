@@ -1,0 +1,83 @@
+# THE THREAD — Episode 1: The Invisible Ecosystem
+
+**Status:** Draft in progress
+**Format:** Third-person narration throughout. No first-person breaks.
+**Sourcing discipline:** Every factual claim below is checkable. Speculation is explicitly flagged as speculation — never blended with sourced fact.
+
+---
+
+## COLD OPEN
+
+*(No music. No prologue.)*
+
+When will the next B-21 fly?
+
+*(Beat.)*
+
+Simple question. Nobody outside a very small circle actually knows the answer.
+
+*(Cut to the aircraft — refueling shot, or the silhouette against the cloud bank.)*
+
+Two are flying right now. Two more are permanently grounded, built only to be broken in a lab. Two more are somewhere in between, and nobody's told the public which.
+
+That's not a gap in the reporting. That's the way the program wants it.
+
+---
+
+## THE HONEST ACCOUNTING
+
+Here's what we know about these four, according to *The Aviationist*: G-1 and G-2, dedicated ground-test articles, proving out the airframe under stress it'll never fly through. T-1, flying since November 2023, the one expanding the envelope. T-2, flying since September 2025, now deep into mission-systems and weapons-integration testing at Edwards.
+
+G-1 and G-2 were both built to be tested to failure, not flown. That's the job. Neither will likely ever leave the ground.
+
+*[SPECULATION — flagged]* Two more airframes are scheduled for delivery before the end of 2026. Nobody's confirmed exact months. If the production pace holds, a third airframe could plausibly be ready by October, a fourth by December — though nobody has said that. That's just the shape of the curve.
+
+---
+
+## MANUFACTURING PHILOSOPHY
+
+Here's the thing most people get wrong about how a stealth bomber gets built: they picture a factory floor. One building, one assembly line, wings moving down a track toward a tail section.
+
+That's the 777 model. And it's not what's happening in Palmdale.
+
+Picture the floor at Palmdale, and picture Charleston, not Everett. Not thousands of rivets going in one at a time along a slow-moving line — a small number of massive, pre-finished sections, arriving whole, lowered into place, and joined. Six major sections instead of two composite barrels, but the same underlying logic: the hard work already happened somewhere else. What's left at final assembly isn't fabrication. It's convergence.
+
+Officially, it's called Modular Open Systems Architecture. Unofficially — this is a Kubernetes bird. Not one interdependent code blob, but modules, capsules, pieces that can be revised and re-incorporated into the whole without touching everything else around them.
+
+These aren't confirmed changes between airframes, worth being clear about: the inlet geometry, the missing pitot boom, the sensor windows, the cockpit finish — these are spotter observations, pieced together from released photos, not something Northrop or the Air Force has put on the record. Even the public differences between airframe 1 and 2 have to be reconstructed by outsiders looking at pixels, because the program simply doesn't explain itself.
+
+We know the pool of suppliers. We don't know who does what — and that's by design. The Air Force is keeping this one better hidden than they kept the B-2's supply chain thirty years ago. It is what it is.
+
+---
+
+## THE NUMBERS
+
+It is what it is, and the detail matters. Twenty-one aircraft funded under the current production lots. Four and a half billion dollars committed to expand the line. And Northrop — not the taxpayer — has already absorbed more than two billion dollars in losses getting to this point, the price of a fixed-price contract signed a decade before the design was even mature. On top of that, Northrop is putting a further two and a half billion of its own money into expanding production capacity now.
+
+*[SPECULATION — flagged]* Depending on how the accounting actually works — something the public record doesn't spell out — funds may have been committed for as few as fifteen additional airframes, or as many as twenty-seven aircraft total. Nobody outside the program has said which.
+
+---
+
+## WHEN "OPERATIONAL" ISN'T OPERATIONAL
+
+One aircraft is expected on the ramp at Ellsworth in 2027 — not new production, but a converted test jet.
+
+*[SPECULATION — flagged]* Call it a year and a half to two years for that conversion. Not because anyone's said so — nobody has — but because the industry's own history, from Boeing's own multi-year 787 rework years, says these things rarely move as fast as the press release promises. A second conversion, call it a year — shorter, on the logic that whatever's learned doing the first doesn't have to be relearned on the second.
+
+Becoming operational isn't just removing test instrumentation. It's weapons integration, electronic warfare certification, nuclear certification — and some of what it's supposed to carry, like the LRSO cruise missile, isn't even in production yet. "On the ramp at Ellsworth in 2027" and "combat-ready" are not the same sentence.
+
+The Air Force is still certifying new weapons for the F-16 — an aircraft that entered service in 1979. Full weapons certification isn't a milestone a platform hits and moves past. It's a permanent condition of owning the aircraft. Whatever the B-21 carries at initial operational capability will be a fraction of what it eventually carries — and "eventually" doesn't have a fixed end date.
+
+---
+
+## OPEN THREAD
+
+*(No forced pivot. Whatever comes next should arrive the way everything in this section did — because the research led there, not because a parallel needed filling.)*
+
+---
+
+## PRODUCTION NOTES
+
+- Visual reference: pull 787 Charleston barrel-join time-lapse footage, not 777 Everett rivet-line footage, for the manufacturing philosophy section.
+- All figures above are sourced to public reporting as of July 2026 (Aviationist, TWZ, Air & Space Forces Magazine, Northrop Grumman press releases, Air Force official statements). Flagged speculation is Kris's own reasoning, built on industry precedent, not on B-21-specific sourcing.
+- Ancient Greek/Roman parallels intentionally absent from this draft. Per series rule: they get used only if they arise naturally from later material — not manufactured to hit a beat.
