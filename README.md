@@ -1,6 +1,20 @@
 # the_thread
 
-The Thread
+the-thread-series/
+├── .github/
+│   └── ISSUE_TEMPLATE/        # For tracking episode production stages
+├── scripts/
+│   ├── production-guide.md    # Your formatting, tone, and pacing rules
+│   ├── ep01-ecosystem.md      # Episode 1 script (using the pause-marker format)
+│   ├── ep02-forgotten.md      # "The Ones Who Got Nothing" script
+│   └── ep03-waste.md          # "The Waste Between the Wars" script
+├── research/
+│   ├── defense-tech/          # B-21 subassembly data, In-Q-Tel/Palantir timelines
+│   ├── ancient-history/       # Thermopylae map data, Roman logistics sources
+│   └── assets-log.md          # Links to archival footage, paintings, and sound FX
+├── media/
+│   └── placeholders/          # Low-res visual placeholders before final video edit
+└── README.md                  # Series overview, execution thesis, and project roadmap
 
 An unscripted YouTube series connecting modern defense and aerospace technology to the strategic logic of the ancient world. Each episode pulls a thread from the one before it — no predetermined destination, just a sustained argument about how power, engineering, and sacrifice actually work.
 
