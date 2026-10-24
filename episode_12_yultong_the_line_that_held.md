@@ -39,10 +39,18 @@ Same note as Chosin and Edson's Ridge — an officer who would not leave his men
 ### Lt. Jose M. Artiaga Jr.
 - Infantry officer (service number O-1966) who led the forward company on Yultong Hill and was killed in action there.
 
+### PEFTOK, in total
+- Across 1950–1953, roughly 7,500 Filipino soldiers served in Korea through PEFTOK (five successive Battalion Combat Teams); about 116 were killed. The 10th BCT, which fought at Yultong, was the first contingent.
+
+### Memory and commemoration
+- A memorial to PETFOK stands at Yeoncheon-eup, Yeoncheon-gun, Gyeonggi Province, South Korea, commemorating the stand at Yuldong-ri and the "Fighting Filipinos."
+- The battle is marked by an annual commemoration; the 67th anniversary was observed in 2018 (the same year South Korea conferred its First Class Taegeuk Order of Military Merit on Capt. Yap).
+- The Philippine Embassy in Seoul has re-unveiled memorials to the Filipino veterans of the Korean War, framing them as the "forgotten" soldiers — a framing that is itself the episode's point.
+
 ## Disputed or open points — flag these, do not smooth them over
 
 - **Enemy strength.** Filipino accounts cite figures from roughly 15,000 in the lead element up to 40,000; the primary reference flags both as needing better sourcing. State it as "a Chinese force many times their number," not a precise count, unless a firmer source is found.
-- **Casualties.** The 10th BCT's official report gives about 12 killed, 38 wounded, 6 missing; a Yeoncheon tourism source claims 125 dead. Present the official figure as the sourced number and the larger as a separate claim. Chinese losses are given as more than 500 killed and 2 captured.
+- **Casualties.** The figures do not agree across sources. The 10th BCT's official report gives about 12 killed, 38 wounded, 6 missing; the Yeoncheon memorial page gives 15 killed and 14 missing; a Yeoncheon tourism source claims 125 dead. Present the official report as the primary number and name the others as differing accounts. Chinese losses are given as more than 500 killed and 2 captured.
 - **Artiaga's decoration — a genuine source conflict.** One source states Lt. Artiaga was awarded the U.S. Distinguished Service Cross; another states the Philippine Distinguished Conduct Star. Do not assert one until resolved; say "decorated posthumously for his stand on the hill" and footnote the conflict.
 - **How Yap died — two citations, two accounts.** The Medal of Valor citation says he was killed by enemy fire while assaulting an emplacement roughly 300 yards away; the U.S. Distinguished Service Cross citation says he was mortally wounded moving toward a stricken soldier on the hill slope. This is not a problem to hide — it is the episode's most honest beat: two nations wrote down his last minutes differently, and both agree he died going toward his men, not away.
 - **Yap's company designation.** Sources call it both the Tank Company and the Heavy Weapons Company. Note the ambiguity rather than picking silently.
@@ -72,6 +80,9 @@ Twelve men, by the official count, died on that line, and one of them went back 
 - Philippine Army, "Remembering the Battle of Yultong: A Great Victory" — https://army.mil.ph/home/index.php/featured-stories/954-salute-of-valor-2
 - Korea.net, "Conrado Yap: top Philippine soldier of Korean War" — https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=186928
 - History Is Now, "The Philippines in the Korean War: The Battle of Yultong" — https://www.historyisnowmagazine.com/blog/2020/11/29/the-philippines-in-the-korean-war-the-battle-of-yultong
+- Korean War Memorials, "South Korea – Philippines – Battle of Yuldong-ri" (the Yeoncheon PEFTOK memorial) — https://koreanwarmemorials.com/memorial/south-korea-philippines-battle-of-yuldong-ri/
+- Philippine Army, "Commemoration of 67th anniversary of the Battle of Yuldong" (2018) — https://army.mil.ph/home/index.php/press-releases-archive-2/239-commemoration-of-67th-anniversary-of-the-battle-of-yuldong
+- Philippine Embassy, Seoul, "re-unveils forgotten memorials for Filipino veterans of the Korean War" — https://www.philembassy-seoul.com/news/philippine-embassy-in-seoul-re-unveils-forgotten-memorials-for-filipino-veterans-of-the-korean-war
 - YouTube (supplied by Kris; content not auto-extractable — review on the channel) — https://www.youtube.com/watch?v=dyzur4Sd4Lk
 
 ## Production notes
@@ -79,3 +90,4 @@ Twelve men, by the official count, died on that line, and one of them went back 
 - Keep the fact / disputed / commentary separation visible in the edit — this episode has unusually rich contested detail (enemy numbers, casualties, two death citations, Artiaga's medal), which is a feature, not a flaw; it is The Thread's discipline on display.
 - Third-person narration throughout.
 - Push to the repo in the Human Cost & Memory thread, alongside Edson's Ridge and the Faith / Chosin material.
+- Standing: the creator has deep, long-standing personal ties to the Philippines built over decades of work there. This is not a foreign story reached for from the outside; it is told with genuine connection to the people whose history it is. That authenticity is an asset for the Southeast-Asian audience and can inform the framing, though the narration stays strictly third person. (Personal specifics kept out of this public file by default — add only if the creator wants them on the record.)
