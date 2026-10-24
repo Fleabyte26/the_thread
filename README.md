@@ -38,9 +38,10 @@ All four converge on Episode 30.
 | 9 | Chapel Pews to Computer Vision (Bayes) | Science/Mind | Notes |
 | 10 | Edson's Ridge (Red Mike Edson, Medal of Honor) | Human | Notes |
 | 11 | The Boneyard and the Swarm (attritable mass; Pacific) | Defense | Captured 2026-10-18 |
+| 12 | Yultong: The Line That Held (PEFTOK; Yap & Artiaga) | Human | Treatment |
 | 30 | The Pocket of Order (FINALE) | Convergence | Treatment |
 
-Slots 12–29 are to be created — seeded from the content banks in SERIES_MAP.md and from whatever thread is live next.
+Slots 13–29 are to be created — seeded from the content banks in SERIES_MAP.md and from whatever thread is live next.
 
 ## Episode 1 — The Invisible Ecosystem
 

@@ -22,6 +22,7 @@ The Thread is deliberately eclectic — it pulls whatever thread is live. In pra
 **Thread B — The Human Cost & Memory** (the people the century discarded, and the ones who held the line)
 - Ep 4 — The Silent Heroes of Our History ("The Ones Who Got Nothing": Garand, Lamarr, Boyd, Johnson, Rickover, Flowers; ancient parallels Archimedes, the Salamis shipwrights, the Antikythera engineer)
 - Ep 10 — Edson's Ridge (Maj. Gen. Merritt "Red Mike" Edson, Marine Raiders, Medal of Honor; leadership that refuses to ask what it will not do itself)
+- Ep 12 — Yultong: The Line That Held (the 10th BCT / PEFTOK at Yultong, 22–23 April 1951; Capt. Conrado Yap, who refused the order to withdraw and died recovering his men and Lt. Jose Artiaga Jr.'s body; Philippine Medal of Valor; the valor thread carried to Southeast Asia — high audience fit)
 - To develop: Lt. Col. Don Carlos Faith Jr. — Chosin Reservoir, the Silver Star thrown in the snow, the posthumous Medal of Honor (source: Toland, *In Mortal Combat*)
 
 **Thread C — Society, Governance & Connection** (how people hold together)
@@ -50,7 +51,8 @@ The existing episodes are anchors. Slots 12–29 are to be created — seeded fr
 9. Chapel Pews to Computer Vision (Ep 9 — exists)
 10. Edson's Ridge (Ep 10 — exists)
 11. The Boneyard and the Swarm (Ep 11 — exists)
-12–29. To create. Suggested seeds, drawn from the banks below and the four threads:
+12. Yultong: The Line That Held (Ep 12 — treatment drafted; Thread B / valor; PEFTOK at Yultong, Yap and Artiaga)
+13–29. To create. Suggested seeds, drawn from the banks below and the four threads:
     - Legion vs Spectacle — the framework episode (the full taxonomy)
     - The hidden architect — In-Q-Tel and the ecosystem as a standalone
     - China as the worthy adversary (6–8 ships/year)
