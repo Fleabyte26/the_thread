@@ -1,82 +1,100 @@
 # the_thread
 
-```text
-the-thread-series/
-├── .github/
-│   └── ISSUE_TEMPLATE/        # For tracking episode production stages
-├── scripts/
-│   ├── production-guide.md    # Your formatting, tone, and pacing rules
-│   ├── ep01-ecosystem.md      # Episode 1 script (using the pause-marker format)
-│   ├── ep02-forgotten.md      # "The Ones Who Got Nothing" script
-│   └── ep03-waste.md          # "The Waste Between the Wars" script
-├── research/
-│   ├── defense-tech/          # B-21 subassembly data, In-Q-Tel/Palantir timelines
-│   ├── ancient-history/       # Thermopylae map data, Roman logistics sources
-│   └── assets-log.md          # Links to archival footage, paintings, and sound FX
-├── media/
-│   └── placeholders/          # Low-res visual placeholders before final video edit
-└── README.md                  # Series overview, execution thesis, and project roadmap
-```
+An unscripted YouTube and podcast series connecting modern defense and aerospace technology — and, as it has grown, history, society, science, and the human bonds underneath all of it — to the strategic logic of the ancient world and the deeper logic of how order holds against decay. Each episode pulls a thread from the one before it. No predetermined destination, just a sustained argument about how power, engineering, cooperation, and sacrifice actually work.
 
+## Concept
 
-An unscripted YouTube series connecting modern defense and aerospace technology to the strategic logic of the ancient world. Each episode pulls a thread from the one before it — no predetermined destination, just a sustained argument about how power, engineering, and sacrifice actually work.
+Third-person narration throughout, no first-person breaks. The core move: take a piece of current reality — a production line, a weapons program, a procurement failure, a friendship, a theorem — and lay it against its closest analog from Greek or Roman history, or against the physics that governs every structure. The ancient world and the second law of thermodynamics aren't decoration here; they're the same operating logic in a different century, or a different scale.
 
-Concept
+**Sourcing discipline.** Facts are stated as facts and are checkable. Speculation is flagged explicitly as inference, never blended with sourced fact. Metaphor is owned as commentary. Parallels arise from research — they are never manufactured.
 
-Solo narration, 20–30 minute episodes. The core move: take a piece of current defense/aerospace reality — a production line, a weapons program, a procurement failure — and lay it against its closest analog from Greek or Roman history. The ancient world isn't decoration here; it's the same operating logic in a different century.
+## The arc — thermodynamic bookends
 
-Episode 1 — Production Philosophy
+The series is bracketed by order and entropy. **Episode 7, "From Dust,"** shows order assembling itself — cooperation and information exchange building cells, language, minds. **Episode 30, "The Pocket of Order,"** the finale, shows that order dissipating over the longest timescales, and gathers every thread the series has pulled into one idea: an arsenal, a republic, a friendship, a mind — each is a temporary pocket of order held against the second law, and worth something precisely because it does not last.
 
-Status: In development
+See **SERIES_MAP.md** for the full running order to Episode 30 and the four threads below.
 
+## The four threads
 
-Hook: B-21 aerial refueling photo, or a cold open on Thermopylae
-Manufacturing Philosophy: The B-21 Raider follows a distributed subassembly model closer to the Boeing 787 than the 777's floor-build — roughly six major subassemblies from geographically separated Tier 1 suppliers converging at Plant 42, Palmdale. Parts-in-process depth runs well beyond what's visible in final assembly counts.
-Ancient Thread: Roman engineering as the historical analog to digital manufacturing
-Open thread → Episode 2: AFLRW / X-68A LongShot and the 1,000nm standoff weapons question
+- **Defense & Procurement** — how power is built and squandered (Eps 1, 2, 3, 5, 11)
+- **The Human Cost & Memory** — the people the century discarded, and the ones who held the line (Eps 4, 10; Faith/Chosin to develop)
+- **Society, Governance & Connection** — how people hold together (Eps 6, 8)
+- **Science, Mind & Origins** — how order and understanding arise (Eps 7, 9)
 
+All four converge on Episode 30.
 
-Supporting material
+## Episodes in this repo
 
+| # | Title | Thread | Status |
+|---|---|---|---|
+| 1 | The Invisible Ecosystem (B-21 production philosophy) | Defense | Draft in progress |
+| 2 | The Arsenal We Already Have (AFLRW / X-68A LongShot) | Defense | Notes |
+| 3 | USN: The Wasted Years (naval procurement) | Defense | Notes (see The_fall_of_Modern_Rome) |
+| 4 | The Silent Heroes of Our History ("The Ones Who Got Nothing") | Human | Notes |
+| 5 | The Legion (F-16 as Rome's legion; Magnesia) | Defense | Notes |
+| 6 | American-Canadian Rejuvenation (4-part; decentralization) | Society | Notes |
+| 7 | From Dust (cooperation; order arising) | Science/Mind | Notes — thermodynamic opener |
+| 8 | Friendship (the stoke; Kevin Brown; the mogul tour) | Society/Human | Notes |
+| 9 | Chapel Pews to Computer Vision (Bayes) | Science/Mind | Notes |
+| 10 | Edson's Ridge (Red Mike Edson, Medal of Honor) | Human | Notes |
+| 11 | The Boneyard and the Swarm (attritable mass; Pacific) | Defense | Captured 2026-10-18 |
+| 30 | The Pocket of Order (FINALE) | Convergence | Treatment |
 
-AFLRW / X-68A LongShot — "being planned means DARPA already built test units"
-B-21 as a weapons-truck concept for the Indo-Pacific theater
-Ecosystem map: traditional primes (Northrop, Lockheed, Boeing, RTX) + unicorns (Anduril, Shield AI, General Atomics, Mach Industries, Palantir), with In-Q-Tel as the hidden architect — its 2004 Palantir seed investment as the single most consequential move in the ecosystem
-Golden era of flight thesis; China as a worthy adversary
+Slots 12–29 are to be created — seeded from the content banks in SERIES_MAP.md and from whatever thread is live next.
 
+## Episode 1 — The Invisible Ecosystem
 
-Ancient parallels used throughout
+Hook: B-21 aerial refueling photo, or a cold open on Thermopylae.
+Manufacturing philosophy: the B-21 Raider follows a distributed subassembly model closer to the Boeing 787 than the 777's floor-build — roughly six major subassemblies from geographically separated Tier 1 suppliers converging at Plant 42, Palmdale. Parts-in-process depth runs well beyond what's visible in final assembly counts. Ancient thread: Roman engineering as the analog to digital manufacturing. Open thread → Episode 2: AFLRW / X-68A LongShot and the 1,000nm standoff question.
 
-Modern conceptAncient analogA2/ADThermopylaeKill webCannaeSupply chain philosophyAlexander's logisticsIn-Q-TelAthenian silver minesCCA swarm conceptPersian ImmortalsDigital manufacturingRoman engineeringGolden era of flightPericlean Golden Age
+Supporting material: B-21 as a weapons-truck concept for the Indo-Pacific; ecosystem map of traditional primes (Northrop, Lockheed, Boeing, RTX) plus unicorns (Anduril, Shield AI, General Atomics, Mach Industries, Palantir), with In-Q-Tel as the hidden architect — its 2004 Palantir seed investment as the single most consequential move in the ecosystem; the golden-era-of-flight thesis; China as a worthy adversary.
 
-Episodes in the queue
+## Ancient parallels used throughout
 
-"The Ones Who Got Nothing"
+| Modern concept | Ancient analog |
+|---|---|
+| A2/AD | Thermopylae |
+| Kill web | Cannae |
+| Supply-chain philosophy | Alexander's logistics |
+| In-Q-Tel | Athenian silver mines |
+| CCA swarm concept | Persian Immortals |
+| Digital manufacturing | Roman engineering |
+| Golden era of flight | Periclean Golden Age |
+| Legion vs Spectacle | Magnesia (Antiochus vs Rome) |
 
-The human dimension of American engineering — the people who built the century and were discarded by it: John Garand, Hedy Lamarr, John Boyd, Kelly Johnson, Admiral Rickover, Tommy Flowers. Ancient parallels: Archimedes, the anonymous trireme shipwrights of Salamis, the unnamed Antikythera engineer.
+## Episodes in the queue
 
-Also featured: Lt. Col. Don Carlos Faith Jr., Chosin Reservoir, Nov 27–Dec 1, 1950 — Task Force Faith, the Silver Star thrown into the snow, the posthumous Medal of Honor.
+**"The Ones Who Got Nothing"** (Episode 4) — the human dimension of American engineering: the people who built the century and were discarded by it — John Garand, Hedy Lamarr, John Boyd, Kelly Johnson, Admiral Rickover, Tommy Flowers. Ancient parallels: Archimedes, the anonymous trireme shipwrights of Salamis, the unnamed Antikythera engineer. Also to feature: Lt. Col. Don Carlos Faith Jr., Chosin Reservoir, Nov 27–Dec 1, 1950 — Task Force Faith, the Silver Star thrown into the snow, the posthumous Medal of Honor. Core question: does a civilization that forgets its Garands deserve its golden era?
 
-Core question: does a civilization that forgets its Garands deserve its golden era?
+**"The Waste Between the Wars"** (feeds Episode 3) — an accounting of roughly $36B in naval procurement failures (Zumwalt, Constellation-class cancellation, Seawolf overruns, Iowa reactivation, Gerald Ford overruns) set against China's 6–8 ships/year over the same period. Roman parallel: contractors supplying substandard equipment, a political class prioritizing enrichment over defense.
 
-"The Waste Between the Wars"
+## Series framework — Legion vs Spectacle
 
-An accounting of roughly $36B in naval procurement failures — Zumwalt, the Constellation-class frigate cancellation, Seawolf cost overruns, Iowa-class reactivation, Gerald Ford overruns — set against China's 6–8 ships/year output over the same period. Roman parallel: contractors supplying substandard equipment, a political class prioritizing enrichment over defense.
+Legion platforms (proven, scalable, integrated): Burke, Nimitz, M1, Bradley, Blackhawk, Forrestal, Oliver Hazard Perry, Virginia-class, Los Angeles-class, F-16, F-15, F-35, CH-47, C-130, C-17, KC-135, B-52, Huey, Cobra; WWII originals: Jeep, Sherman, Fletcher-class destroyer.
 
-Production stack
+Spectacle platforms (exquisite, limited, unsustainable): Seawolf, Ford, B-1, B-2, LCS, Constellation, National Security Cutter/Destroyer, F-22, Zumwalt, Osprey, CH-53, KC-10, KC-46.
 
-PurposeToolRecordingOBSRemote captureRiverside.fm / SquadcastAudioBlue Yeti / Rode NT-USBEditingDaVinci Resolve / CapCutGraphicsCanvaNotes / scriptingNotion / Obsidian
+Open question the series circles: B-21 — legion or spectacle. Root cause: DoD leadership turnover erases institutional memory; America learned the legion model in WWII and forgot it.
 
-Status
+## Production stack
+
+| Purpose | Tool |
+|---|---|
+| Recording | OBS Studio |
+| Remote capture | Riverside.fm / Squadcast |
+| Audio | Blue Yeti / Rode NT-USB |
+| Editing | DaVinci Resolve / CapCut |
+| Graphics | Canva |
+| Notes / scripting | Notion / Obsidian |
+
+## Localization
+
+Roughly 90% of views come from Hindi and Bahasa Indonesia speakers. From November, every video publishes fully localized — audio and subtitles, not just titles — in English, Hindi, and Bahasa Indonesia.
+
+## Status
 
 Channel handle "The Thread" — availability pending confirmation across YouTube, X, Instagram, and Spotify before launch.
 
-Repo structure
+---
 
-/scripts        episode scripts, by number
-/research       source material, citations, fact-checking notes
-/graphics       Canva exports, thumbnails
-/audio          raw and mixed audio files
-
-
-Unscripted defense and aerospace analysis, told through the lens of the ancient world.
+*Unscripted analysis — defense, history, society, and science — told through the lens of the ancient world and the physics of order against decay.*
