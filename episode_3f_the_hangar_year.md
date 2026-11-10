@@ -191,7 +191,7 @@ So go back to the two airplanes that look the same from fifty feet away.
 
 One was built with its weapons inside it, in a factory line that will close in a few years. The other sits in the desert waiting to be parted out.
 
-The gap between them isn't as wide as the P-8's price suggests, and it isn't as narrow as the plan in 3d hoped. A bay is surgery on the pressure hull, and nobody has done it to a used jet. Wing pylons are hard engineering, done once. The rest, the heavy check, the wiring, the paperwork, is work an industry already does every day for freighters.
+The gap between them isn't as wide as the P-8's price suggests, and it isn't as narrow as the plan in 3d hoped. A bay is surgery on the pressure hull, and the thread found no one who has done it to a used jet. Wing pylons are hard engineering, done once. The rest, the heavy check, the wiring, the paperwork, is work an industry already does every day for freighters.
 
 And somewhere there's a hangar culture that makes this normal: airplanes other people have written off go in, and come out flying. In Israel it's an air force depot and a company that turns old airliners into tankers. In America it exists in the freighter shops, mostly building airplanes to carry packages.
 
