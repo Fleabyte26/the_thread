@@ -20,7 +20,7 @@ Three years. Not for battle damage, and not for a collision. It had been there s
 
 The Navy once planned to build thirty-two of these ships. It built three. By the Government Accountability Office's 2018 count, the program cost about $24.5 billion, research and development included. That's roughly eight billion dollars a hull before the missile conversion, which GAO said in July 2026 would cost at least another two billion for the three ships and was running about two years behind schedule.
 
-So the question this episode keeps asking, in different ways, for the next twenty minutes, is a simple one.
+So the question this episode keeps asking, in different ways, all the way through, is a simple one.
 
 What else could that money have been?
 
@@ -134,6 +134,14 @@ Then the scheduling bill came due. USS Nimitz, the carrier Kennedy was meant to 
 
 About ten years separate the delivery of the first Ford in 2017 from the second in 2027.
 
+*(Beat.)*
+
+The Ford has a defense, and the episode should say it out loud. The Navy says the class can generate more sorties per day than a Nimitz. It has far more electrical generating capacity, the same logic as the Zumwalt, leaving room for weapons and sensors that haven't been invented yet. It's designed to run with fewer sailors over a fifty-year life, where most of a carrier's cost actually sits. If those claims hold up over decades, the first-ship pain may look different in 2060.
+
+*(On screen, small: Navy capability claims. Recheck sortie and power figures before recording.)*
+
+But the argument against the Ford was never that the technologies were bad. It was that putting twenty-three of them on one hull at once, all unproven, meant the whole ship waited on the slowest one. A company that did that with a product launch would be studied in business schools as a warning.
+
 ### Nimitz 11 through 14
 
 *(On screen: two rows of four carriers. Top row, ghost Nimitz-class hulls labelled "11," "12," "13," "14." Bottom row: Ford, Kennedy, Enterprise, Doris Miller. Banner: INFERENCE · AUTHOR'S ARITHMETIC.)*
@@ -181,14 +189,6 @@ Now the caveats, honestly, because this is exactly the kind of number that gets 
 - What can't be paid back is the schedule. Nimitz 12 wouldn't have waited for advanced weapons elevators.
 
 So call it twenty billion dollars, give or take, for the decision to put everything new on one class at once. That's about seven Flight III destroyers, or four Virginia-class submarines, out of the carrier line alone.
-
-*(Beat.)*
-
-The Ford has a defense, and the episode should say it out loud. The Navy says the class can generate more sorties per day than a Nimitz. It has far more electrical generating capacity, the same logic as the Zumwalt, leaving room for weapons and sensors that haven't been invented yet. It's designed to run with fewer sailors over a fifty-year life, where most of a carrier's cost actually sits. If those claims hold up over decades, the first-ship pain may look different in 2060.
-
-*(On screen, small: Navy capability claims. Recheck sortie and power figures before recording.)*
-
-But the argument against the Ford was never that the technologies were bad. It was that putting twenty-three of them on one hull at once, all unproven, meant the whole ship waited on the slowest one. A company that did that with a product launch would be studied in business schools as a warning.
 
 ---
 
@@ -256,6 +256,8 @@ Now the arithmetic. The rules for this part are strict: every input on the scree
 
 The author's earlier notes added up a figure of about $76 billion. On re-sourcing, part of that rested on a Ford "over budget" number that doesn't hold up cleanly. So this is a more conservative count.
 
+Four lines. The Zumwalt class: about twenty-four and a half billion dollars, research and development included. The hypersonic refit on top of it: at least two billion more. The Ford premium, the gap between Fords one through four and four more Nimitz carriers at today's prices: about twenty-two and a half billion. And the Littoral Combat Ships retired early: about seven billion. Together, roughly fifty-six billion dollars.
+
 | Item | What's counted | Figure |
 |---|---|---|
 | Zumwalt class | Program cost for 3 ships, including R&D (GAO 2018) | ~$24.5B |
@@ -286,7 +288,7 @@ The number that haunts every naval planner is from a leaked 2023 slide by the Of
 
 The comparison isn't completely fair. China's figure folds in its huge commercial industry, which builds a large share of the world's merchant ships, and America's figure counts mostly naval yards. But that unfairness is the point. In a long war, a country's commercial yards become its naval yards. China has them. The United States mostly gave its commercial yards away decades ago.
 
-The same slide showed battle forces. In 2020 the Chinese navy had 355 ships and the U.S. Navy 296. By 2035 it projected 475 for China against 305 to 317 for the U.S. The Pentagon's 2024 China report put the PLA Navy at more than 370 ships, the world's largest navy by hull count. The U.S. Navy stood near 296 battle force ships in early 2025 and planned a deployable force of 287 for fiscal 2026. A report published ahead of the Euronaval show in October 2026 found that China built more than twice the naval tonnage of the United States in 2024 and 2025.
+The same slide showed battle forces. In 2020 the Chinese navy had 355 ships and the U.S. Navy 296. By 2035 it projected 475 for China against 305 to 317 for the United States. The Pentagon's 2024 China report put the PLA Navy at more than 370 ships, the world's largest navy by hull count. The U.S. Navy stood near 296 battle force ships in early 2025 and planned a deployable force of 287 for fiscal 2026. A report published ahead of the Euronaval show in October 2026 found that China built more than twice the naval tonnage of the United States in 2024 and 2025.
 
 *(Beat.)*
 
