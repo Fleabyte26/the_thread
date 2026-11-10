@@ -161,6 +161,18 @@ In other words, the startups raised more money from investors in the first quart
 
 And the dinosaurs are investing in the startups. Defense contractors including Lockheed Martin, BAE Systems and Airbus took part in a record $4.1 billion of venture rounds in 2026. Lockheed grew its venture fund from $400 million to a billion. The primes aren't only competing with the new companies. They're buying pieces of them.
 
+And the government has its own version of this, older than the boom. It started almost by accident.
+
+In 1977, three programmers in California took a contract from the CIA to build a database. The agency's code name for the project was Oracle. The CIA was their first customer, and when they went on to build a commercial product, they asked permission to use the code name. One of the biggest software companies in the world is named after a CIA project.
+
+In 1999 the CIA made that kind of bet on purpose. It chartered a nonprofit venture firm called In-Q-Tel, named after Q, the gadget-maker in the James Bond films. The agency pays for it, but it's legally independent. Its checks are small, usually under three million dollars. What it brings is a hard technical review and a direct line to the government people who might use the product.
+
+Its record is hard to argue with. It backed Keyhole, a satellite mapping startup that Google bought and turned into Google Earth. It backed Palantir early, when most of Silicon Valley wouldn't touch it. It backed Anduril in 2017, the year Anduril was founded. By its own count it has made more than 800 investments, more than 500 of them have gone on to government use, and private investors put in many dollars for every dollar it puts in. In 2025 it was an investor in 32 of the hundred fastest-growing venture-backed defense startups, far more than any other fund.
+
+Oracle, Palantir, Anduril. Three of the biggest names in American software and defense had the intelligence community there near the start.
+
+If the flood of 2026 has a headwater, this is one of the places it started: a small government fund that took the first risk, so that private money would take the next one.
+
 *(Beat.)*
 
 And go back to the box behind the engine. The cooling problem on the F-35, which decides how long the jet stays relevant, is being solved by Honeywell and by Collins, both of them old, both of them enormous. The power station that Episode 3c described is being built by the dinosaurs.
@@ -284,4 +296,5 @@ But it knows somebody still has to build the box.
 - Air & Space Forces Magazine (Beehive $29.7M contract, FAMM ~$620M); Bloomberg / Defense Daily (Ursa Major $100M Series E).
 - Reuters via The Financial Express and Marine Link (Govini: primes 92%); Contrary Research and 19FortyFive (under 1% of contract dollars).
 - Deloitte and The Manufacturing Institute, 2024 (3.8M needed, 1.9M could go unfilled, 2024–2033).
+- Marketplace (2024), Fortune (2025: investor in 32 of the NatSec 100), Defense Tech Signals (800+ investments, 500+ transitioned to government use, ~$18 private per $1), Wikipedia/Washington Post (founded 1999, named after Q, legally independent) on In-Q-Tel. Oracle: company history (founded 1977 as Software Development Laboratories; first customer the CIA; product named after the CIA project code name).
 - Getquin summary of Palantir Q3 2026 results (revenue $2.313B; US commercial above US government).
