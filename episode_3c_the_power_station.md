@@ -32,9 +32,7 @@ The jet engine used to be the thing that pushed the airplane. Somewhere around t
 
 *(F-35s on the ramp. Heat shimmer.)*
 
-The F-35's engine problem turned out not to be thrust. It was electricity, and the heat that comes with it.
-
-Every sensor, every processor, every jammer on a modern fighter draws power and makes heat. The F-35 cools its electronics partly with air bled off the engine. The cooling system bleeds off more air than the designers originally planned for, which makes the engine run hotter and wears it out sooner. The Pentagon's own description of the situation is that the F135 is being operated outside its design specifications.
+Start where the cold open left off: an engine asked for more electricity and more cooling than it was designed to give, running hot and wearing out early.
 
 There were two ways out.
 
