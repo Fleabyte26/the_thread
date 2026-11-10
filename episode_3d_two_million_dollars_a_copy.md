@@ -166,6 +166,14 @@ Ten jets in the desert, or eighty.
 
 If the whole point is to be counted, that's not a small difference. It's the difference between a plan the other side can dismiss and a plan the other side has to plan around.
 
+*(Beat.)*
+
+Or put it the way a buyer would, walking the rows at Victorville. The desert is a flea market. I'll give you two million a copy for all hundred and thirty.
+
+A hundred and thirty birds at two million dollars each is two hundred and sixty million dollars. That's about the price of three new white tails.
+
+Three jets the other side can shrug off. Or a hundred and thirty it has to count.
+
 ---
 
 ## PART SIX — THE ENGINE THAT ISN'T SCARCE
@@ -244,7 +252,7 @@ Rapid Dragon needs a ramp. The pallet system that inspired this plan rolls missi
 
 Old jets aren't free to keep. Corrosion, inspections, records, crews, maintenance training. A reserve that's actually ready costs more than a parking fee.
 
-The market would notice. CFM56 values are rising right now because the LEAP shortage is keeping old 737s flying longer. If a government started buying hundreds of donor jets, it would be competing with airlines and part-out shops for the same engines, and the price would move. A plan like this would work best bought quietly and steadily, which happens to fit a deterrent that is meant to sit in the desert being counted.
+The market would notice. Every flea-market haggler knows the catch in "all hundred and thirty." The moment you say all of them, the seller knows you want all of them. One bird at a time, quietly, the price holds. Announce that you're buying the whole desert, and every broker with a CFM56 on a stand raises his price overnight. And CFM56 values are already rising, because the LEAP shortage is keeping old 737s flying longer. A government buying hundreds of donor jets would be competing with airlines and part-out shops for the same engines. A plan like this would work best bought quietly and steadily, ten birds a quarter for three years. That happens to fit a deterrent that is meant to sit in the desert being counted.
 
 And the missiles cost more than the trucks. A dozen long-range missiles per jet is the expensive part of every version of this plan. The case for cheap airframes is partly that you shouldn't spend the money on the truck when the magazine is where the money has to go.
 
@@ -264,6 +272,24 @@ The arsenal plan doesn't need new jets. It needs old ones, the cheaper and more 
 
 Torrington lost a battle and kept a fleet, and the French behaved as if the fleet mattered. Three centuries later the same logic may be sitting in the sand outside Victorville, in rows, with bagged engines and faded airline paint, at something like two million dollars a copy.
 
+*(Beat. A covered market: stalls, lamps, a merchant behind a counter. Then a card table.)*
+
+Maybe the lesson isn't really about airplanes. Maybe it's about two old ways of doing business.
+
+The first is the souk, the old Arab market. The merchant who does well never shows how much he wants something. He's patient. He comes back next week. He keeps more than one seller in play. And he can always walk away, which is the strongest move in the market.
+
+*(Banner: INTERPRETATION · ONE READING.)*
+
+American defense procurement, the series has argued for three episodes now, tends to do the opposite. It publishes exactly what it wants, years in advance. It buys from single suppliers, so there's nobody to walk away to. It signs contracts where the seller has little reason to haggle. And it treats walking away as failure. The Constellation was rare because, for once, the Navy walked away. The F136 in Episode 3b was the opposite: the Pentagon gave up its second seller on purpose.
+
+The second is the card table. The bluff is the part of poker people remember, but serious players know a pure bluff gets called eventually. What wins is the semi-bluff: a bet made with a hand that isn't strong yet but could become strong on the next card. The other player has to respect it, because if he calls, the hand might turn real.
+
+That's what the birds in the desert are. A pure bluff would be a plan on paper with nothing behind it. A hundred and thirty jets bought at two million dollars a copy, with a known conversion path and missiles in production, are a semi-bluff. They aren't yet a force, but anyone counting them knows they could become one in months. Torrington, in 1690, was making a semi-bluff. His fleet wasn't strong enough to win. It was real enough that France couldn't ignore it.
+
+And the honest limit, which any card player knows too: you have to show real cards sometimes, or the table learns you're always bluffing. For this plan, that means a few birds actually converted, actually flying and actually firing in an exercise the other side can watch.
+
+Buy like the merchant in the souk. Fight like the player at the table. And show your cards just often enough.
+
 Is it a good idea? Is it already in a classified binder? Would the conversion cost blow the whole thing up? The episode doesn't know.
 
 But it knows the birds are there.
@@ -281,6 +307,7 @@ But it knows the birds are there.
 **Banners:**
 - Parts Two, Five and Eight: INFERENCE · THE AUTHOR'S PLAN while the plan is being built or argued.
 - Part Four: label prices as market ranges from trade sources.
+- Close (the souk and the card table): INTERPRETATION · ONE READING.
 
 **Correction, said on air:** Episode 2 assumed new-build 737s. This episode replaces that with rebuilt end-of-life 737-800s. A matching pinned comment goes on Episode 2.
 
@@ -292,7 +319,7 @@ But it knows the birds are there.
 - LEAP 2026 deliveries and CFM's statement on 2026 commitments.
 - The weapons-conversion cost has no public figure. Keep it as "unknown" on screen.
 
-**Visual references:** Victorville and Mojave aerials; Roswell; Battle of Beachy Head paintings (public domain); High Seas Fleet in harbor (public domain); P-8 and 737-800 profiles overlaid; CFM56-7B on a stand; LEAP assembly; the AMARG boneyard; the price ladder and the "10 vs 80" comparison as plain graphics.
+**Visual references:** Victorville and Mojave aerials; a covered market and a card table for the close (generic, no real people); Roswell; Battle of Beachy Head paintings (public domain); High Seas Fleet in harbor (public domain); P-8 and 737-800 profiles overlaid; CFM56-7B on a stand; LEAP assembly; the AMARG boneyard; the price ladder and the "10 vs 80" comparison as plain graphics.
 
 **Ancient parallels:** none forced. Torrington arrived from the Episode 2 research.
 
