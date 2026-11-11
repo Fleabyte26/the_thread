@@ -1,6 +1,60 @@
+# Episode 4 — The Silent Heroes of Our History
+## Working title: "The Ones Who Got Nothing"
 
-# Episode 4 — The Silent Heroes of Our History (notes)
+*Recovered from the July 2026 planning conversation (the original repo file was empty). Thread B in the series map: the human cost and memory.*
 
-## Candidates
+**Core question:** Does a civilization that forgets its Garands deserve its golden era?
 
-- William Yeager — Stanford staff engineer who wrote much of the software for Stanford's multiprotocol router (the "blue box") in the early 1980s, built to tie the campus's incompatible networks together. Cisco's first routers came from that work; Stanford licensed the software to Cisco in 1987 after a dispute with the founders. Yeager saw little of the fortune that followed. Recheck dates and the license terms against primary sources before scripting.
+**Why it matters for the series:** Up to here The Thread is intellectually sharp but risks being emotionally cold, defense analysis for defense enthusiasts. This episode makes it universal. Everyone understands giving everything and receiving nothing in return. It's the episode most likely to travel outside the defense audience.
+
+---
+
+## The people
+
+- **John Garand** — the M1 rifle; years of work at Springfield Armory as a government employee; received no royalties. (The often-repeated "$100" figure needs checking. A bill to award him $100,000 reportedly failed in Congress. Verify before scripting.)
+- **Hedy Lamarr** — co-patented frequency hopping with George Antheil in 1942, a concept behind later spread-spectrum radio (WiFi, Bluetooth, GPS lineage). The Navy didn't use it at the time; the patent expired before the world caught up; recognition came late in her life.
+- **John Boyd** — fighter pilot and strategist; the OODA loop; energy-maneuverability theory; part of the F-16's DNA through the "fighter mafia." Fought the Pentagon bureaucracy his whole career.
+- **Kelly Johnson** — Lockheed Skunk Works; U-2, SR-71 (and the Skunk Works culture behind the later F-117). Worked on handshakes and genius.
+- **Admiral Hyman Rickover** — father of the nuclear Navy; forced out in 1982, in his early eighties.
+- **Tommy Flowers** — built Colossus at Bletchley Park; ordered to destroy it after the war; bound to silence for some thirty years while others got credit for the first computers.
+- **William Yeager** *(new candidate, November 2026)* — Stanford staff engineer who wrote much of the software for Stanford's multiprotocol router (the "blue box") in the early 1980s. Cisco's first routers came from that work; Stanford licensed the software to Cisco in 1987 after a dispute with the founders. Yeager saw little of the fortune that followed. Recheck dates and license terms against primary sources.
+
+## The ancient parallel: the unnamed architects
+
+- The engineer who designed the **Antikythera mechanism**, the most sophisticated known calculating device for over a thousand years. We don't know his name.
+- The Athenian **shipwrights who built the trireme fleet that won Salamis**. Unknown.
+- The Roman engineers whose **aqueducts still carry water**. Anonymous.
+- **Archimedes**, who helped defend Syracuse with engineering and mathematics and was killed by a Roman soldier who didn't know who he was (212 BC, the same siege year that appears in Episode 3's Roman detour).
+
+## Draft structure
+
+```
+Hook: John Garand and the rifle that paid him nothing
+   ↓
+The pattern through history
+ - Archimedes killed by a soldier
+ - Tommy Flowers ordered to destroy Colossus
+ - John Boyd's career fought by the Pentagon
+ - Hedy Lamarr's patent expired before the world caught up
+   ↓
+The modern inheritors
+ - Who are the Garands of this era?
+ - The unnamed engineers at Plant 42 (ties to Episode 1)
+ - The program managers nobody will ever know
+ - William Yeager and the router that built Cisco
+   ↓
+The ancient thread
+ - The trireme shipwrights of Athens
+ - Anonymous genius that saved a civilization
+   ↓
+The question left open
+ - Does a civilization that forgets its Garands deserve its golden era?
+```
+
+## Related, kept separate
+
+- **Lt. Col. Don Carlos Faith Jr.** — Chosin Reservoir, 1950. Planned as his own episode (Thread B "to develop"), not folded into this one. Source: John Toland, *In Mortal Combat: Korea 1950–1953*.
+
+## Discipline
+
+Same rule as the rest of the series: facts as facts, and every "got nothing" claim checked. Several of these stories carry popular exaggerations (Garand's compensation, how directly Lamarr's patent led to WiFi). The episode is stronger if it corrects them on air.
