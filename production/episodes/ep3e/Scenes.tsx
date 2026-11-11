@@ -353,11 +353,7 @@ export const P6: React.FC<P> = ({ now }) => {
   const s = sectionOf("p6");
   const names = ramp(now, s.start + 0.3, 1) * (1 - ramp(now, at("p6", "According to Govini"), 1));
   const share = ramp(now, at("p6", "According to Govini"), 1) * (1 - ramp(now, at("p6", "And the dinosaurs are investing"), 1));
-  const inv = ramp(now, at("p6", "And the dinosaurs are investing"), 1) * (1 - ramp(now, at("p6", "And the government has its own"), 1));
-  const ora = ramp(now, at("p6", "And the government has its own"), 1) * (1 - ramp(now, at("p6", "In 1999 the CIA made"), 1));
-  const iqt = ramp(now, at("p6", "In 1999 the CIA made"), 1) * (1 - ramp(now, at("p6", "Its record is hard"), 1));
-  const rec = ramp(now, at("p6", "Its record is hard"), 1) * (1 - ramp(now, at("p6", "Oracle, Palantir, Anduril"), 1));
-  const three = ramp(now, at("p6", "Oracle, Palantir, Anduril"), 1) * (1 - ramp(now, at("p6", "And go back to the box"), 1));
+  const inv = ramp(now, at("p6", "And the dinosaurs are investing"), 1) * (1 - ramp(now, at("p6", "And go back to the box"), 1));
   const box = ramp(now, at("p6", "And go back to the box"), 1) * (1 - ramp(now, at("p6", "There's a joke in here"), 1));
   const birds = ramp(now, at("p6", "There's a joke in here"), 1);
   return (
@@ -377,32 +373,6 @@ export const P6: React.FC<P> = ({ now }) => {
         <Stat x={0} y={0} value="$4.1B" label="venture rounds with defense primes taking part, 2026 (a record)" show={ramp(now, at("p6", "Defense contractors including"), 0.8)} size={120} color={C.amber} />
         <Stat x={0} y={300} value="$400M → $1B" label="Lockheed Martin's venture fund" show={ramp(now, at("p6", "Lockheed grew"), 0.8)} size={100} />
         <Label x={760} y={330} w={800} size={50} weight={700} color={C.ink} text="They're buying pieces of them." show={ramp(now, at("p6", "They're buying pieces"), 0.8)} />
-      </div>
-      <div style={{ position: "absolute", left: 260, top: 280, opacity: ora, fontFamily: FONT }}>
-        <div style={{ fontSize: 34, color: C.dim, letterSpacing: 4 }}>1977 · BY ACCIDENT</div>
-        <div style={{ fontSize: 60, fontWeight: 700, color: C.ink, marginTop: 16, opacity: ramp(now, at("p6", "In 1977, three programmers"), 0.6) }}>A CIA database contract, code name: Oracle</div>
-        <div style={{ fontSize: 40, color: C.ink, marginTop: 24, opacity: ramp(now, at("p6", "The CIA was their first customer"), 0.6) }}>first customer: the CIA · the company kept the name</div>
-      </div>
-      <div style={{ position: "absolute", left: 260, top: 280, opacity: iqt, fontFamily: FONT }}>
-        <div style={{ fontSize: 34, color: C.dim, letterSpacing: 4 }}>1999 · ON PURPOSE</div>
-        <div style={{ fontSize: 90, fontWeight: 700, color: C.ink, marginTop: 10 }}>In-Q-Tel</div>
-        <div style={{ fontSize: 38, color: C.ink, marginTop: 20 }}>nonprofit, CIA-funded, legally independent · named after Q</div>
-        <div style={{ fontSize: 38, color: C.ink, marginTop: 12, opacity: ramp(now, at("p6", "Its checks are small"), 0.6) }}>small checks, usually under $3M</div>
-        <div style={{ fontSize: 38, color: C.amber, marginTop: 12, opacity: ramp(now, at("p6", "What it brings"), 0.6) }}>a hard technical review + a line to government users</div>
-      </div>
-      <div style={{ position: "absolute", left: 260, top: 260, opacity: rec, fontFamily: FONT }}>
-        {[["Keyhole", "→ Google Earth", "It backed Keyhole"], ["Palantir", "early, when few would", "It backed Palantir"], ["Anduril", "2017, its first year", "It backed Anduril"]].map(([a, b, k]) => (
-          <div key={a} style={{ display: "flex", gap: 40, alignItems: "baseline", marginBottom: 22, opacity: ramp(now, at("p6", k), 0.6) }}>
-            <div style={{ width: 330, fontSize: 58, fontWeight: 700, color: C.ink }}>{a}</div>
-            <div style={{ fontSize: 38, color: C.dim }}>{b}</div>
-          </div>
-        ))}
-        <div style={{ fontSize: 36, color: C.ink, marginTop: 30, opacity: ramp(now, at("p6", "By its own count"), 0.6) }}>800+ investments · 500+ into government use (IQT)</div>
-        <div style={{ fontSize: 36, color: C.amber, marginTop: 12, opacity: ramp(now, at("p6", "In 2025 it was an investor"), 0.6) }}>investor in 32 of the 100 fastest-growing defense startups (2025)</div>
-      </div>
-      <div style={{ position: "absolute", left: 300, top: 320, opacity: three, fontFamily: FONT }}>
-        <div style={{ fontSize: 90, fontWeight: 700, color: C.ink }}>Oracle · Palantir · Anduril</div>
-        <div style={{ fontSize: 44, color: C.amber, marginTop: 40, opacity: ramp(now, at("p6", "If the flood of 2026"), 0.6), maxWidth: 1300 }}>A small government fund took the first risk, so private money would take the next one.</div>
       </div>
       <Svg>
         <Box x={960} y={480} s={0.9} now={now} heat={0.8} opacity={box * ramp(now, at("p6", "And go back to the box") + 1, 1)} />
