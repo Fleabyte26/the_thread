@@ -107,11 +107,17 @@ The X-BAT is Shield AI's unmanned jet. Kris's idea has two parts:
 1. The F-16 manages the X-BATs (and V-BATs and drones).
 2. Fighter engines with hours left on them, past the point where they would be used on a manned aircraft, go into X-BATs.
 
-**Fact check on part 2:** Shield AI and GE Aerospace have shown the X-BAT with the GE F110, not the Pratt & Whitney F100. (The War Zone.) Earlier reporting said "F100/F110 class."
+**Fact check on part 2 (updated November 11, 2026):** the X-BAT gets a new GE F110-GE-129, fitted with GE's Axisymmetric Vectoring Exhaust Nozzle (AVEN) for thrust vectoring. Shield AI and GE Aerospace announced the selection on November 5, 2025, under a memorandum of understanding. (GE Aerospace press release; The Aviationist.) It is not the Pratt & Whitney F100.
 
-**Inference, to flag:** the idea may still hold with the F110. Many F-16s fly the F110, so the F-16 fleet and the X-BAT would share an engine family and a sustainment base. Whether used, high-hour engines would be acceptable in an unmanned jet is Kris's proposal, not anything Shield AI or the Air Force has said. Check before recording which engine the F-16 Block 70/72 uses, and whether the X-BAT's F110 is modified enough for tail-sitting to rule out reused engines (The War Zone reports that "various modifications" are needed).
+A naming trap to avoid on air: the engine is the F110-GE-**129**. The "-229" belongs to Pratt's F100-PW-229. The two were developed for the same Air Force thrust requirement, which is why the numbers get crossed. Also for the episode: the F110-GE-129 powers the F-16 from Block 50 onward and the F-15E and F-15EX family, so the X-BAT shares an engine with the legion.
 
-If it holds, it is a strong Legion beat: the legion's engine feeding the next formation.
+**Kris's position on the reuse idea:** maybe, one day, X-BATs could use F100s that are no longer rated for manned flight. He rates it doubtful. His reason: too much nozzle customization, even if the vectoring is needed only for the takeoff.
+
+**Supporting that doubt (reported):** the AVEN nozzle is used in several stages of flight, not only in VTOL, and The War Zone reports that "various modifications" to the F110 are needed for a tail-sitting aircraft. So a retired engine could not simply be dropped in.
+
+**How to treat it in the script:** as an open question the thread raises and mostly closes, not as a proposal. The idea is Kris's inference; neither Shield AI nor the Air Force has said anything about used engines.
+
+What does hold, and is fact: the legion's engine is the one feeding the next formation, new-built.
 
 ---
 
@@ -126,7 +132,7 @@ If it holds, it is a strong Legion beat: the legion's engine feeding the next fo
 7. Magnesia. Antiochus's cataphracts and elephants against the legion. *(Interpretation banner.)*
 8. The inversion: a tail-sitter that wants zero energy, flown by a machine running the loop.
 9. The Raven that just falls, and the jet that has to hover.
-10. The engines: what the legion already owns, and where it could go next. *(Inference banner.)*
+10. The engines: the X-BAT flies on the legion's own F110-GE-129. The used-engine question, raised and mostly closed. *(Inference banner on the reuse idea only.)*
 
 ---
 
@@ -135,14 +141,16 @@ If it holds, it is a strong Legion beat: the legion's engine feeding the next fo
 - Boyd: E-M theory with Thomas Christie, early 1960s, Eglin; the story that they used computer time without authorization (Coram).
 - Forty-Second Boyd: forty seconds, forty dollars (already in Episode 4).
 - Cobra speeds and display altitude.
-- X-BAT: engine (F110), test dates, landing power setting, transition description.
-- F-16 Block 70/72 engine.
+- X-BAT: engine (F110-GE-129 with AVEN, confirmed), test dates, landing power setting, transition description.
+- F-16 Block 70/72 engine (the F110-GE-129 powers the F-16 from Block 50 onward, per The Aviationist; confirm for Block 70/72).
 - Raven and Wasp deep-stall landing: Kris's firsthand account; find a public AeroVironment or Army source for the on-air version.
 
 ## Sources
 
 - Inside Unmanned Systems, "Shield AI Develops X-BAT Vertical Takeoff Drone": https://insideunmannedsystems.com/shield-ai-develops-x-bat-vertical-takeoff-drone/
 - The War Zone, "X-BAT Autonomous VTOL 'Fighter' Looks Dramatically Different": https://www.twz.com/air/x-bat-autonomous-vtol-fighter-looks-dramatically-different
+- GE Aerospace press release, "GE Aerospace and Shield AI Collaborate on Propulsion for X-BAT Vehicle Program" (November 5, 2025): https://www.geaerospace.com/news/press-releases/ge-aerospace-and-shield-ai-collaborate-propulsion-x-bat-vehicle-program
+- The Aviationist, "Shield AI Chooses F110-GE-129 for X-BAT" (November 7, 2025): https://theaviationist.com/2025/11/07/shield-ai-chooses-f110-ge-129-x-bat/
 - The Aviationist, "Shield AI Unveils X-BAT VTOL Stealth Drone" (October 22, 2025): https://theaviationist.com/2025/10/22/shield-ai-unveils-x-bat/
 - Robert Coram, *Boyd: The Fighter Pilot Who Changed the Art of War* (already cited in Episode 4).
 - Kris Hornung, firsthand Raven experience (November 11, 2026 conversation).
