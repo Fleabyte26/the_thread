@@ -1,10 +1,10 @@
 # THE THREAD — Episode 3g: Every Runway
 
-**Status:** Draft 2, long cut (Part Eight added)
+**Status:** Draft 3, long cut (Parts Eight and Nine added)
 **Working title:** "Every Runway" (alternative: "The Truck, the Wing and the Map")
 **Numbering:** Kris asked for this as 3f. "The Hangar Year" already holds 3f in this repo and has a video build (`production/episodes/ep3f`), so this draft is filed as 3g to avoid overwriting it. Renumber if wanted.
 **Format:** Third-person narration throughout. No first-person breaks.
-**Register:** Wandering and reflective. Four ideas and a map. The thread is allowed to think out loud.
+**Register:** Wandering and reflective. Four ideas, a map and a program. The thread is allowed to think out loud.
 **Sourcing discipline:** Facts stated as facts. The four ideas are the author's and are flagged INFERENCE · THE AUTHOR'S PLAN. Loadout, cost and runway arithmetic is flagged INFERENCE · AUTHOR'S ARITHMETIC. Readings of how governments would react are flagged INTERPRETATION · ONE READING.
 **Note:** Episode 3f ended at a wall: who owns the drawings. The thread didn't climb it. It went back to a number 3f left on the table, nineteen million dollars of missiles on a ten-million-dollar airplane, and that number pulled four ideas out one after another.
 
@@ -304,7 +304,33 @@ That is a real cost. The author's plan gets its strength from other people's sil
 
 ---
 
-## PART NINE — THE OTHER SIDE OF THE LEDGER
+## PART NINE — TEN AIRPLANES AND A NAME
+
+Part Eight's first caution was that the idea has to be believable. The author's answer to that is a program, and a small one.
+
+Give it a name. Build ten first articles. Then keep building three a year.
+
+A name sounds like the least of it. But a name means a budget line, an office, a contractor and a test report. A planner can wave away an idea. He has a harder time waving away a line in a budget with ten tail numbers behind it.
+
+Ten is enough to do the things this episode has said nobody has done. Prove the wing. Prove the rack. Prove that twenty-four missiles come off cleanly. And then fly through allied airports in peacetime exercises, empty and announced, until it's ordinary. That was Part Seven's repair, and ten airplanes can make it.
+
+*(Beat.)*
+
+And three a year is a number this series has seen before. 3f worked out that one conversion line, at the pace the freighter shops keep, turns out about three airplanes a year. So three a year is one line, kept warm.
+
+At that rate the fleet grows slowly, and that's fine, because the fleet was never the point. The planner counts what could be built. He can see the airframes parked in the desert. He can see a missile program aiming at thousands of rounds a year. If the new wing is the slow part, then wing sets can be built ahead and stored, and the distance between ten trucks and a hundred becomes a matter of months in a hangar.
+
+A bluff only works if the player is sometimes holding the cards. Ten airplanes are the cards. The warm line is the rest of the deck, face down.
+
+*(Beat.)*
+
+The risks are the ordinary ones. Small, odd programs are the first to be cut, and this one belongs to no tribe in the Air Force. Three a year can look like a token unless the line shows, at least once, that it can go faster. And the first ten carry all the engineering, so they'll cost far more each than the hundredth would.
+
+But as deterrents go, this is a cheap one to make real. And real, even in small numbers, is what separates it from a slide.
+
+---
+
+## PART TEN — THE OTHER SIDE OF THE LEDGER
 
 Now the rest of the case against.
 
@@ -363,6 +389,7 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - Parts One through Six, wherever the plan itself is described (cheap magazine, dumb truck, new wing, crisis basing): INFERENCE · THE AUTHOR'S PLAN.
 - Part Seven (how Beijing and the host governments would read a crisis deployment; the 1914 comparison) and the Close: INTERPRETATION · ONE READING.
 - Part Eight: the planner's-assumption argument and six to eight trucks per airfield are INFERENCE · THE AUTHOR'S PLAN; the fleet and airfield arithmetic is INFERENCE · AUTHOR'S ARITHMETIC; the reading of what separates the yes cases from the no cases is INTERPRETATION · ONE READING.
+- Part Nine (a named program, ten first articles, three a year; stockpiled wing sets): INFERENCE · THE AUTHOR'S PLAN. The program shape is Kris's; stockpiling wing sets is a drafting addition, keep or cut.
 
 **Corrections and care, said on air:**
 - AFLRW: Episode 2 treated it as a strike weapon. Reporting describes it as air-to-air first. Part Three says so.
@@ -399,6 +426,7 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - Ukraine drone strike on Russian bomber bases, June 2025: **from memory. Check date and details.**
 - Part Eight history, **all from memory, check each**: British occupation of Iceland (May 1940); Anglo-Soviet invasion of Iran (August 1941); Azores agreement with Portugal (1943); U.S. deployment to Saudi Arabia (August 1990); Pakistan's post-September 2001 access; European refusals during the October 1973 airlift (Portugal's Lajes the exception); France and Spain refusing overflight for the April 1986 Libya raid; Turkish parliament vote of March 1, 2003; Irish neutrality and the treaty ports.
 - Part Eight arithmetic: 6 to 8 trucks × 24 = 144 to 192 missiles per airfield; 130 trucks (3f's fleet) ÷ 8 and ÷ 6 = about 16 to 22 airfields; MX ratio 1 missile to 23 shelters. "Six to eight per airfield" and "they must assume yes" are Kris's.
+- Part Nine: 3f's "one hangar line might turn out three airplanes a year" (3f, Part Seven) matches Kris's three a year. No program name chosen yet; Kris to name it. No cost estimate is given for the first ten; none exists.
 
 **Visual references:** a generic 737 at a remote stand (no airline markings, no real people); price bars, $1.3M against $218,000; missile silhouettes to scale, 2,000-lb class against 500-lb class; a pylon with a four-round rack (schematic, labelled as not yet built); a straight-winged missile carrier silhouette for the Missileer (schematic); an airliner with an empty mission cabin (schematic); a wing coming off a wing box and a new one going on (schematic); a wingtip with four small missiles (schematic); a map of the western Pacific, first with a few large base markers, then with several hundred small unlabelled airport dots; the same map with most dots greyed out for Part Seven; a desert grid of shelters for the MX (schematic).
 
