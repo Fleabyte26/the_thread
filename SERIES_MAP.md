@@ -16,7 +16,7 @@ The Thread is deliberately eclectic — it pulls whatever thread is live. In pra
 - Ep 1 — The Invisible Ecosystem (B-21 manufacturing philosophy; the hidden supplier ecosystem; In-Q-Tel)
 - Ep 2 — The Arsenal We Already Have (AFLRW / X-68A LongShot; the 1,000nm standoff magazine)
 - Ep 3 — USN: The Wasted Years (naval procurement failure) — fed by The_fall_of_Modern_Rome (Zumwalt, Constellation, Seawolf, battleships → how many Burkes / Virginias forgone)
-- Ep 5 — The Legion (F-16 as Rome's legion; Magnesia; legion vs spectacle)
+- Ep 5 — The Legion (F-16 as Rome's legion; Magnesia; legion vs spectacle; Boyd the fighter genius — see episode_5_notes_boyd_the_fighter_genius.md)
 - Ep 11 — The Boneyard and the Swarm (attritable mass; Pacific deterrence; kill-chain as center of gravity)
 
 **Thread B — The Human Cost & Memory** (the people the century discarded, and the ones who held the line)
