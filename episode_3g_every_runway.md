@@ -324,6 +324,25 @@ A bluff only works if the player is sometimes holding the cards. Ten airplanes a
 
 *(Beat.)*
 
+And the author would write a number on the back of that deck. A thousand.
+
+A program of record for a thousand trucks. Authorized, announced, and in the author's view never built, because the point of announcing it is that nobody makes it necessary.
+
+Run the number anyway, because the planner will. A thousand trucks at six to eight to a field fills between 125 and 167 airfields. At twenty-four missiles each, that's 24,000 cruise missiles, about three years of the low-cost program's hoped-for output. At Part Five's guess of twenty to thirty million dollars an airplane, it's twenty to thirty billion dollars, plus about five billion for the missiles.
+
+That's a great deal of money. It's also less than some single programs this series has already walked through.
+
+And at a thousand, something changes. With a hundred and thirty trucks, most of the runways are empty and the idea is a shell game. With a thousand, the shells are mostly full. It stops being a bluff about where the airplanes are and becomes a plain statement about how many there could be.
+
+*(Beat.)*
+
+There's a difficulty here, and it's an old one. A number only deters if the other side believes it would be built. So it can't be announced as theoretical. The authority has to be real. The options on retiring airliners have to be signed. The wing line has to be able to speed up. The program has to be one decision away from happening.
+
+Which means the best outcome is a strange one. If it works, almost none of it ever exists, and there will be nothing to point to as proof that it worked.
+
+
+*(Beat.)*
+
 The risks are the ordinary ones. Small, odd programs are the first to be cut, and this one belongs to no tribe in the Air Force. Three a year can look like a token unless the line shows, at least once, that it can go faster. And the first ten carry all the engineering, so they'll cost far more each than the hundredth would.
 
 But as deterrents go, this is a cheap one to make real. And real, even in small numbers, is what separates it from a slide.
@@ -427,6 +446,7 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - Part Eight history, **all from memory, check each**: British occupation of Iceland (May 1940); Anglo-Soviet invasion of Iran (August 1941); Azores agreement with Portugal (1943); U.S. deployment to Saudi Arabia (August 1990); Pakistan's post-September 2001 access; European refusals during the October 1973 airlift (Portugal's Lajes the exception); France and Spain refusing overflight for the April 1986 Libya raid; Turkish parliament vote of March 1, 2003; Irish neutrality and the treaty ports.
 - Part Eight arithmetic: 6 to 8 trucks × 24 = 144 to 192 missiles per airfield; 130 trucks (3f's fleet) ÷ 8 and ÷ 6 = about 16 to 22 airfields; MX ratio 1 missile to 23 shelters. "Six to eight per airfield" and "they must assume yes" are Kris's.
 - Part Nine: 3f's "one hangar line might turn out three airplanes a year" (3f, Part Seven) matches Kris's three a year. No program name chosen yet; Kris to name it. No cost estimate is given for the first ten; none exists.
+- Part Nine, the thousand: "1,000 theoretical program builds, never to be built as deterrence will preclude" is Kris's. Arithmetic: 1,000 ÷ 8 and ÷ 6 = 125 to 167 airfields; 1,000 × 24 = 24,000 missiles = 3 years at 8,000 a year; 1,000 × $20–30M = $20–30B; 24,000 × $218,000 = about $5.2B. "Less than some single programs this series has already walked through": **pick the comparison and check it** (candidates: the B-21 buy; the Ford-class carriers in Episode 3). How many 737-800s were built and how many are in storage or due to retire: **find; decides whether 1,000 airframes is physically available.**
 
 **Visual references:** a generic 737 at a remote stand (no airline markings, no real people); price bars, $1.3M against $218,000; missile silhouettes to scale, 2,000-lb class against 500-lb class; a pylon with a four-round rack (schematic, labelled as not yet built); a straight-winged missile carrier silhouette for the Missileer (schematic); an airliner with an empty mission cabin (schematic); a wing coming off a wing box and a new one going on (schematic); a wingtip with four small missiles (schematic); a map of the western Pacific, first with a few large base markers, then with several hundred small unlabelled airport dots; the same map with most dots greyed out for Part Seven; a desert grid of shelters for the MX (schematic).
 
