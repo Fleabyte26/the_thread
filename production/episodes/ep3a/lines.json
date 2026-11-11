@@ -1,0 +1,1192 @@
+[
+ {
+  "section": "cold",
+  "text": "Somewhere outside Paris, in the middle of the 1970s, there was a room that the president of the company that owned the building was not allowed to enter.",
+  "speak": "Somewhere outside Paris, in the middle of the 1970s, there was a room that the president of the company that owned the building was not allowed to enter.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "Not a vault.",
+  "speak": "Not a vault.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Not a bunker.",
+  "speak": "Not a bunker.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "A room on a factory floor.",
+  "speak": "A room on a factory floor.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Inside it, American employees of General Electric took a piece of machinery that had been built in Ohio and shipped across the Atlantic,",
+  "speak": "Inside it, American employees of General Electric took a piece of machinery that had been built in Ohio and shipped across the Atlantic,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "and they bolted French parts onto the front and the back of it.",
+  "speak": "and they bolted French parts onto the front and the back of it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Then they rolled it out, and the French finished the job.",
+  "speak": "Then they rolled it out, and the French finished the job.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The thing in the middle, the thing the French couldn't see, was the hot core of the engine designed for the B-1 bomber.",
+  "speak": "The thing in the middle, the thing the French couldn't see, was the hot core of the engine designed for the B 1 bomber.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The engine that came out of that room went on to become the best-selling jet engine in history.",
+  "speak": "The engine that came out of that room went on to become the best-selling jet engine in history.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "More than thirty-two thousand of them had been delivered by 2018.",
+  "speak": "More than thirty-two thousand of them had been delivered by 2018.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "If you have flown on a 737 or an A320, odds are good you have sat a few meters from a descendant of the thing in that room.",
+  "speak": "If you have flown on a 737 or an A320, odds are good you have sat a few meters from a descendant of the thing in that room.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The room was supposed to keep a secret.",
+  "speak": "The room was supposed to keep a secret.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "This episode is about what happened to the secret, and about every other locked room the engine business has built since.",
+  "speak": "This episode is about what happened to the secret, and about every other locked room the engine business has built since.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Because the jet engine turns out to be the one part of an airplane that nobody can improvise.",
+  "speak": "Because the jet engine turns out to be the one part of an airplane that nobody can improvise.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "You can build a fuselage almost anywhere.",
+  "speak": "You can build a fuselage almost anywhere.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Wings, a few places.",
+  "speak": "Wings, a few places.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Avionics, more than you'd think.",
+  "speak": "Avionics, more than you'd think.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "But an engine that runs hot enough, long enough, without coming apart, comes from a very short list of companies, and each of them has a lock on the door.",
+  "speak": "But an engine that runs hot enough, long enough, without coming apart, comes from a very short list of companies, and each of them has a lock on the door.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — The Bomber's Heart"
+ },
+ {
+  "section": "p1",
+  "text": "Start with the F101.",
+  "speak": "Start with the F101.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "In 1970, the Air Force picked General Electric's F101 to power the B-1, the supersonic bomber that was supposed to replace the B-52.",
+  "speak": "In 1970, the Air Force picked General Electric's F101 to power the B 1, the supersonic bomber that was supposed to replace the B 52.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The F101 was an afterburning turbofan, and the important part of it, the part this whole episode turns on,",
+  "speak": "The F101 was an afterburning turbofan, and the important part of it, the part this whole episode turns on,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "was the core: the high-pressure compressor, the combustor, and the high-pressure turbine.",
+  "speak": "was the core: the high-pressure compressor, the combustor, and the high-pressure turbine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The core is where the air gets squeezed hardest and the metal gets hottest.",
+  "speak": "The core is where the air gets squeezed hardest and the metal gets hottest.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "That's where the advanced materials, the cooling tricks, and the hard-won engineering all live.",
+  "speak": "That's where the advanced materials, the cooling tricks, and the hard-won engineering all live.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "At the same time, on the other side of the ocean, Snecma, the French state engine maker, had been studying a ten-ton-thrust commercial turbofan it called the M56.",
+  "speak": "At the same time, on the other side of the ocean, Snecma, the French state engine maker, had been studying a ten-ton-thrust commercial turbofan it called the M56.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "GE had a concept of its own, the GE13, built around the core of the F101.",
+  "speak": "GE had a concept of its own, the GE13, built around the core of the F101.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "In 1971 the two companies agreed to work on it together.",
+  "speak": "In 1971 the two companies agreed to work on it together.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "GE would bring the core.",
+  "speak": "GE would bring the core.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Snecma would bring the fan, the low-pressure section, and the rest.",
+  "speak": "Snecma would bring the fan, the low-pressure section, and the rest.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Each company would own half.",
+  "speak": "Each company would own half.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The name came straight from the two halves.",
+  "speak": "The name came straight from the two halves.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "GE's commercial engines were called CF.",
+  "speak": "GE's commercial engines were called CF.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Snecma's concept was the M56.",
+  "speak": "Snecma's concept was the M56.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Put them together and you get CFM56.",
+  "speak": "Put them together and you get CFM56.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "It was a good idea.",
+  "speak": "It was a good idea.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Washington said no.",
+  "speak": "Washington said no.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Two — Nixon Says No, Then Says Yes"
+ },
+ {
+  "section": "p2",
+  "text": "In 1972, GE applied for a license to export the F101 core technology.",
+  "speak": "In 1972, GE applied for a license to export the F101 core technology.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The State Department's Office of Munitions Control recommended rejecting it on national security grounds,",
+  "speak": "The State Department's Office of Munitions Control recommended rejecting it on national security grounds,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "because the core was part of a strategic defense system: the B-1.",
+  "speak": "because the core was part of a strategic defense system: the B 1.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The White House refused.",
+  "speak": "The White House refused.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The fear had two layers.",
+  "speak": "The fear had two layers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "One was that the technology would leak through France to the Soviet Union.",
+  "speak": "One was that the technology would leak through France to the Soviet Union.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The other was economic.",
+  "speak": "The other was economic.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "George Shultz, then Treasury Secretary, argued that the license would hand American-funded technology to a foreign government years before the F101 even entered service on the bomber.",
+  "speak": "George Shultz, then Treasury Secretary, argued that the license would hand American-funded technology to a foreign government years before the F101 even entered service on the bomber.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And some officials in the Nixon administration worried, in so many words, that the project could be the beginning of the end of American aerospace leadership.",
+  "speak": "And some officials in the Nixon administration worried, in so many words, that the project could be the beginning of the end of American aerospace leadership.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "That sentence is worth sitting with for a moment, because fifty years later it reads like prophecy and like paranoia at the same time.",
+  "speak": "That sentence is worth sitting with for a moment, because fifty years later it reads like prophecy and like paranoia at the same time.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "GE argued the opposite.",
+  "speak": "GE argued the opposite.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Spreading the cost of developing the core across a military program and a commercial one,",
+  "speak": "Spreading the cost of developing the core across a military program and a commercial one,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "GE said, would save the U.S. government about $180 million over the life of the program.",
+  "speak": "GE said, would save the U S government about 180 million dollars over the life of the program.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The engine would be better and cheaper for everyone, the bomber included.",
+  "speak": "The engine would be better and cheaper for everyone, the bomber included.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The French pushed from the top.",
+  "speak": "The French pushed from the top.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "President Georges Pompidou took the case directly to Nixon.",
+  "speak": "President Georges Pompidou took the case directly to Nixon.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Henry Kissinger raised it with Pompidou.",
+  "speak": "Henry Kissinger raised it with Pompidou.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And Pompidou insisted that the engine go on the agenda of the summit he was about to hold with Nixon.",
+  "speak": "And Pompidou insisted that the engine go on the agenda of the summit he was about to hold with Nixon.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "They met in Reykjavik, Iceland, in late May and early June of 1973.",
+  "speak": "They met in Reykjavik, Iceland, in late May and early June of 1973.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The license was granted.",
+  "speak": "The license was granted.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "Here's the detail that makes the story human.",
+  "speak": "Here's the detail that makes the story human.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A consultant to the White House, recalling it years later in GE's own history of the deal, said Nixon couldn't have cared less about the engine itself.",
+  "speak": "A consultant to the White House, recalling it years later in GE's own history of the deal, said Nixon couldn't have cared less about the engine itself.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It was trade, and alliance, and summitry.",
+  "speak": "It was trade, and alliance, and summitry.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The most consequential jet engine decision of the century was made by a man who wasn't especially interested in it.",
+  "speak": "The most consequential jet engine decision of the century was made by a man who wasn't especially interested in it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "And the price of the license tells you what Washington actually cared about.",
+  "speak": "And the price of the license tells you what Washington actually cared about.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The joint venture agreed to pay the United States an $80 million royalty,",
+  "speak": "The joint venture agreed to pay the United States an 80 million dollars royalty,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "calculated at $20,000 for every engine it was predicted to build, to repay the government's development money for the F101 core.",
+  "speak": "calculated at 20,000 dollars for every engine it was predicted to build, to repay the government's development money for the F101 core.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Documents declassified in 2007 revealed another piece of the bargain: the French government agreed not to seek tariffs against American aircraft imported into Europe.",
+  "speak": "Documents declassified in 2007 revealed another piece of the bargain: the French government agreed not to seek tariffs against American aircraft imported into Europe.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "And then there was the room.",
+  "speak": "And then there was the room.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The core would be built in the United States.",
+  "speak": "The core would be built in the United States.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It would be shipped to Snecma's plant in France.",
+  "speak": "It would be shipped to Snecma's plant in France.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "There it would go into a locked room that even Snecma's president could not enter.",
+  "speak": "There it would go into a locked room that even Snecma's president could not enter.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Snecma's front and back sections were carried in.",
+  "speak": "Snecma's front and back sections were carried in.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "GE employees mounted them to the core.",
+  "speak": "GE employees mounted them to the core.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Then the engine came out and the French finished it.",
+  "speak": "Then the engine came out and the French finished it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "CFM International was formally created in 1974, fifty-fifty.",
+  "speak": "CFM International was formally created in 1974, fifty-fifty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The first complete CFM56 ran at GE's Evendale plant in Ohio on June 20, 1974.",
+  "speak": "The first complete CFM56 ran at GE's Evendale plant in Ohio on June 20, 1974.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — Nobody Wanted It"
+ },
+ {
+  "section": "p3",
+  "text": "Then, for years, almost nothing happened.",
+  "speak": "Then, for years, almost nothing happened.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "An engine without an airplane is a very expensive sculpture, and in the mid-1970s nobody had an airplane that needed a ten-ton engine.",
+  "speak": "An engine without an airplane is a very expensive sculpture, and in the mid 1970s nobody had an airplane that needed a ten-ton engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "By one account, GE and Snecma were about two weeks away from freezing development when the first real order came.",
+  "speak": "By one account, GE and Snecma were about two weeks away from freezing development when the first real order came.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In April 1979, United Airlines chose the CFM56-2 to re-engine thirty DC-8-61s.",
+  "speak": "In April 1979, United Airlines chose the CFM56-2 to re-engine thirty DC 8-61s.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Delta and Flying Tiger Line followed.",
+  "speak": "Delta and Flying Tiger Line followed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "That became the DC-8 Super 70 program, and the first engines entered service in 1982.",
+  "speak": "That became the DC 8 Super 70 program, and the first engines entered service in 1982.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Then came the order that made the company.",
+  "speak": "Then came the order that made the company.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In January 1980, the Air Force picked the CFM56 to re-engine the KC-135 tanker.",
+  "speak": "In January 1980, the Air Force picked the CFM56 to re-engine the KC 135 tanker.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The re-engined jet became the KC-135R.",
+  "speak": "The re-engined jet became the KC 135R.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Officials had called the J57s it replaced the noisiest, dirtiest, most fuel-inefficient powerplant still flying.",
+  "speak": "Officials had called the J57s it replaced the noisiest, dirtiest, most fuel-inefficient powerplant still flying.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The new engine cut takeoff distance by up to 3,500 feet, cut overall fuel use by about a quarter, and was 24 decibels quieter.",
+  "speak": "The new engine cut takeoff distance by up to 3,500 feet, cut overall fuel use by about a quarter, and was 24 decibels quieter.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "France had already announced in 1978 that it would put CFM56s on its own eleven KC-135s.",
+  "speak": "France had already announced in 1978 that it would put CFM56s on its own eleven KC 135s.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "Stop and look at the loop.",
+  "speak": "Stop and look at the loop.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The Pentagon fought this engine because its core came from a bomber.",
+  "speak": "The Pentagon fought this engine because its core came from a bomber.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Seven years later, the Pentagon bought it to keep its tanker fleet flying.",
+  "speak": "Seven years later, the Pentagon bought it to keep its tanker fleet flying.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The engine that was too sensitive to export came home and refuelled the bombers.",
+  "speak": "The engine that was too sensitive to export came home and refuelled the bombers.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Then the 737 Classic.",
+  "speak": "Then the 737 Classic.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Then the A320.",
+  "speak": "Then the A320.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Then the 737 Next Generation.",
+  "speak": "Then the 737 Next Generation.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "By June 2018, more than thirty-two thousand CFM56s had been delivered.",
+  "speak": "By June 2018, more than thirty-two thousand CFM56s had been delivered.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The engine that nearly died at Reykjavik and nearly died again in 1979 became, by Safran's own description, the best-selling aircraft engine in the world.",
+  "speak": "The engine that nearly died at Reykjavik and nearly died again in 1979 became, by Safran's own description, the best-selling aircraft engine in the world.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The partnership, renewed in 2008, now runs to 2040.",
+  "speak": "The partnership, renewed in 2008, now runs to 2040.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — The Room Becomes a Weapon"
+ },
+ {
+  "section": "p4",
+  "text": "The LEAP is the CFM56's replacement.",
+  "speak": "The LEAP is the CFM56's replacement.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It's the only engine on the Boeing 737 MAX, an option on the Airbus A320neo (where it has won around sixty percent of orders), and the only engine on China's COMAC C919.",
+  "speak": "It's the only engine on the Boeing 737 MAX, an option on the Airbus A320neo (where it has won around sixty percent of orders), and the only engine on China's COMAC C919.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In 2025, CFM delivered 1,802 LEAP engines, eighteen percent more than in 2024.",
+  "speak": "In 2025, CFM delivered 1,802 LEAP engines, eighteen percent more than in 2024.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It expects about fifteen percent more in 2026, roughly 2,126, and around 2,600 by 2028.",
+  "speak": "It expects about fifteen percent more in 2026, roughly 2,126, and around 2,600 by 2028.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In the first quarter of 2026 it delivered 520, up sixty-three percent on a first quarter of 2025 that a supplier problem had crippled.",
+  "speak": "In the first quarter of 2026 it delivered 520, up sixty-three percent on a first quarter of 2025 that a supplier problem had crippled.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Even so, there isn't enough.",
+  "speak": "Even so, there isn't enough.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Airbus's deliveries dropped in early 2026, with engine shortages named as the main cause.",
+  "speak": "Airbus's deliveries dropped in early 2026, with engine shortages named as the main cause.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Safran's chief executive said the 2026 increase was for existing commitments, not for picking up the slack when Pratt & Whitney's competing GTF ran short.",
+  "speak": "Safran's chief executive said the 2026 increase was for existing commitments, not for picking up the slack when Pratt & Whitney's competing GTF ran short.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "One delayed forging press in France, a $175 million machine meant to make critical engine parts,",
+  "speak": "One delayed forging press in France, a 175 million dollars machine meant to make critical engine parts,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "shows up in trade reporting as one of the reasons the whole narrowbody world is waiting.",
+  "speak": "shows up in trade reporting as one of the reasons the whole narrowbody world is waiting.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "That's the commercial locked room.",
+  "speak": "That's the commercial locked room.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Two airframers, three engine variants, and a supply chain that tops out where the slowest forging press does.",
+  "speak": "Two airframers, three engine variants, and a supply chain that tops out where the slowest forging press does.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Then, in May 2025, the room was used as a lever.",
+  "speak": "Then, in May 2025, the room was used as a lever.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "During a review of strategically sensitive exports to China, and right after China restricted critical-mineral exports to the U.S.,",
+  "speak": "During a review of strategically sensitive exports to China, and right after China restricted critical-mineral exports to the U S,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "the Commerce Department suspended export licenses to COMAC.",
+  "speak": "the Commerce Department suspended export licenses to COMAC.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The LEAP-1C for the C919 and GE's CF34 for the C909 were both included.",
+  "speak": "The LEAP 1C for the C919 and GE's CF34 for the C909 were both included.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "GE designs and makes the hot section of the LEAP, which is the core.",
+  "speak": "GE designs and makes the hot section of the LEAP, which is the core.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "That's the same part of the engine the locked room protected in 1974.",
+  "speak": "That's the same part of the engine the locked room protected in 1974.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "COMAC had planned big.",
+  "speak": "COMAC had planned big.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Industry sources had talked about seventy-five C919s in 2025.",
+  "speak": "Industry sources had talked about seventy-five C919s in 2025.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It delivered fifteen.",
+  "speak": "It delivered fifteen.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "A few weeks later, as part of a broader trade de-escalation that also involved rare earths and chip-design software, the U.S. lifted the license suspensions.",
+  "speak": "A few weeks later, as part of a broader trade de-escalation that also involved rare earths and chip-design software, the U S lifted the license suspensions.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "LEAP-1Cs and CF34s started flowing again.",
+  "speak": "LEAP 1Cs and CF34s started flowing again.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "So in 1972 Washington said no to exporting the core.",
+  "speak": "So in 1972 Washington said no to exporting the core.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In 1973 it said yes, with conditions and a lock on the door.",
+  "speak": "In 1973 it said yes, with conditions and a lock on the door.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "And in 2025 it showed it could still close that door from five thousand miles away, and that it would open it again in exchange for something else.",
+  "speak": "And in 2025 it showed it could still close that door from five thousand miles away, and that it would open it again in exchange for something else.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The engine was a bargaining chip at Reykjavik, and it was still a bargaining chip half a century later.",
+  "speak": "The engine was a bargaining chip at Reykjavik, and it was still a bargaining chip half a century later.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "China read the lesson the same way.",
+  "speak": "China read the lesson the same way.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "AECC is pushing the CJ-1000A, the domestic engine meant to replace the LEAP-1C on the C919.",
+  "speak": "AECC is pushing the CJ 1000A, the domestic engine meant to replace the LEAP 1C on the C919.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It has been flown on a Y-20 testbed.",
+  "speak": "It has been flown on a Y 20 testbed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Reporting in 2025 didn't expect certification before 2027.",
+  "speak": "Reporting in 2025 didn't expect certification before 2027.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Some analysts describe the LEAP-1C as closer in capability to an upgraded CFM56 than to the other LEAP models,",
+  "speak": "Some analysts describe the LEAP 1C as closer in capability to an upgraded CFM56 than to the other LEAP models,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "because it reportedly leaves out some of their advanced technology.",
+  "speak": "because it reportedly leaves out some of their advanced technology.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "So the lock wasn't only on whether China could have the engine.",
+  "speak": "So the lock wasn't only on whether China could have the engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It was also on how good a version China was allowed to have.",
+  "speak": "It was also on how good a version China was allowed to have.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "reported",
+  "pause": 2.6,
+  "chapter": "Part Five — The Core That Got Out"
+ },
+ {
+  "section": "p5",
+  "text": "Now the part that has to be told carefully.",
+  "speak": "Now the part that has to be told carefully.",
+  "flag": "reported",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "In the 1980s, before the post-1989 arms embargo, China reportedly bought two CFM56 engines.",
+  "speak": "In the 1980s, before the post 1989 arms embargo, China reportedly bought two CFM56 engines.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Several Western and Chinese-language sources say the core of China's WS-10 Taihang fighter engine was reverse-engineered from the CFM56 core,",
+  "speak": "Several Western and Chinese-language sources say the core of China's WS 10 Taihang fighter engine was reverse-engineered from the CFM56 core,",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "while the low-pressure section and afterburner followed Russian design standards.",
+  "speak": "while the low-pressure section and afterburner followed Russian design standards.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "GlobalSecurity says flatly that the WS-10 prototype used the core technology of a CFM56 imported from the United States in the 1980s.",
+  "speak": "GlobalSecurity says flatly that the WS 10 prototype used the core technology of a CFM56 imported from the United States in the 1980s.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Wikipedia's article describes the WS-10 as derived from the CFM56.",
+  "speak": "Wikipedia's article describes the WS 10 as derived from the CFM56.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The program reportedly began in 1986.",
+  "speak": "The program reportedly began in 1986.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It took eighteen years to pass design review, in December 2005, and it went into mass production around 2011,",
+  "speak": "It took eighteen years to pass design review, in December 2005, and it went into mass production around 2011,",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "after years of reliability problems that came partly from China lacking single-crystal turbine blade manufacturing.",
+  "speak": "after years of reliability problems that came partly from China lacking single-crystal turbine blade manufacturing.",
+  "flag": "reported",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "If those accounts are right, the WS-10's core goes back through the CFM56 to the F101, and to the B-1.",
+  "speak": "If those accounts are right, the WS 10's core goes back through the CFM56 to the F101, and to the B 1.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "That's the core the locked room was built to protect.",
+  "speak": "That's the core the locked room was built to protect.",
+  "flag": "reported",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "The room kept the French out of the core.",
+  "speak": "The room kept the French out of the core.",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It may not have kept the core in.",
+  "speak": "It may not have kept the core in.",
+  "flag": "reported",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Today the WS-10, in later versions, powers the J-10C, the J-11B, the J-16, and the J-20 (the J-20 on the WS-10C from 2019).",
+  "speak": "Today the WS 10, in later versions, powers the J 10C, the J 11B, the J 16, and the J 20 (the J 20 on the WS 10C from 2019).",
+  "flag": "reported",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A non-afterburning cousin, the WS-20, is believed to share its core and powers the Y-20 transport.",
+  "speak": "A non-afterburning cousin, the WS 20, is believed to share its core and powers the Y 20 transport.",
+  "flag": "reported",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Where those grandchildren may be heading, into a tailless jet with three engines flying over Chengdu, is a story for another episode.",
+  "speak": "Where those grandchildren may be heading, into a tailless jet with three engines flying over Chengdu, is a story for another episode.",
+  "flag": "reported",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "The Room and the Key"
+ },
+ {
+  "section": "close",
+  "text": "So what was the locked room for?",
+  "speak": "So what was the locked room for?",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "It protected a core for a while.",
+  "speak": "It protected a core for a while.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It turned a refusal into a partnership.",
+  "speak": "It turned a refusal into a partnership.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The partnership produced the most successful jet engine family in history.",
+  "speak": "The partnership produced the most successful jet engine family in history.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Its descendants now set the delivery rate for nearly every narrowbody airliner built in the West and in China.",
+  "speak": "Its descendants now set the delivery rate for nearly every narrowbody airliner built in the West and in China.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And Washington proved in 2025 that it can still close the door from five thousand miles away, and open it again in exchange for something else.",
+  "speak": "And Washington proved in 2025 that it can still close the door from five thousand miles away, and open it again in exchange for something else.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "If the reporting is right, though, a copy of the core went east anyway, years ago, through a door nobody locked: two engines bought legally, before the embargo.",
+  "speak": "If the reporting is right, though, a copy of the core went east anyway, years ago, through a door nobody locked: two engines bought legally, before the embargo.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "In 1972, an official worried that letting this engine out might be the beginning of the end of American aerospace leadership.",
+  "speak": "In 1972, an official worried that letting this engine out might be the beginning of the end of American aerospace leadership.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Fifty years later it isn't clear whether that worry was wrong.",
+  "speak": "Fifty years later it isn't clear whether that worry was wrong.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Maybe it was just early.",
+  "speak": "Maybe it was just early.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The episode doesn't know.",
+  "speak": "The episode doesn't know.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "That's the honest ending.",
+  "speak": "That's the honest ending.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "The F101 core went out through a second door, inside the United States, and became a fighter engine.",
+  "speak": "The F101 core went out through a second door, inside the United States, and became a fighter engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That fight, the Great Engine War, is where the next one starts.",
+  "speak": "That fight, the Great Engine War, is where the next one starts.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]

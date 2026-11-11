@@ -1,0 +1,1854 @@
+[
+ {
+  "section": "cold",
+  "text": "There are places in the American desert where airliners go to wait.",
+  "speak": "There are places in the American desert where airliners go to wait.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Victorville.",
+  "speak": "Victorville.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Mojave.",
+  "speak": "Mojave.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Roswell.",
+  "speak": "Roswell.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Marana.",
+  "speak": "Marana.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Rows of them, wingtip to wingtip, engines bagged, windows taped, tails still painted in the colors of airlines that have moved on to newer jets.",
+  "speak": "Rows of them, wingtip to wingtip, engines bagged, windows taped, tails still painted in the colors of airlines that have moved on to newer jets.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Some of them will fly again.",
+  "speak": "Some of them will fly again.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Most won't.",
+  "speak": "Most won't.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The ones that won't are worth more in pieces than whole.",
+  "speak": "The ones that won't are worth more in pieces than whole.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The engines get pulled and sold.",
+  "speak": "The engines get pulled and sold.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The landing gear, the avionics, the galleys and the seats go to brokers.",
+  "speak": "The landing gear, the avionics, the galleys and the seats go to brokers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "What's left is aluminum.",
+  "speak": "What's left is aluminum.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "At the end of its life, a twenty-year-old Boeing 737-800, the most common jetliner of its generation, can be bought for something like two million dollars.",
+  "speak": "At the end of its life, a twenty-year-old Boeing seven thirty-seven eight hundred, the most common jetliner of its generation, can be bought for something like two million dollars.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "A new 737 off the line in Renton costs tens of millions.",
+  "speak": "A new seven thirty-seven off the line in Renton costs tens of millions.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "List prices run past a hundred million.",
+  "speak": "List prices run past a hundred million.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "In Episode 2, this series built a plan around the 737.",
+  "speak": "In Episode 2, this series built a plan around the seven thirty-seven.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "A reserve of arsenal jets, each carrying a magazine of long-range missiles, standing behind cheap drones on the Pacific island chains.",
+  "speak": "A reserve of arsenal jets, each carrying a magazine of long-range missiles, standing behind cheap drones on the Pacific island chains.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "And it assumed those jets would be new.",
+  "speak": "And it assumed those jets would be new.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "This episode says that assumption was wrong.",
+  "speak": "This episode says that assumption was wrong.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "And the reason it was wrong goes back three hundred and thirty-six years, to an English admiral who didn't want to fight.",
+  "speak": "And the reason it was wrong goes back three hundred and thirty-six years, to an English admiral who didn't want to fight.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — The Fleet That Existed"
+ },
+ {
+  "section": "p1",
+  "text": "In the summer of 1690, England was at war with France, and the French fleet in the Channel was stronger than the English one.",
+  "speak": "In the summer of sixteen ninety, England was at war with France, and the French fleet in the Channel was stronger than the English one.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The English commander, Arthur Herbert, Earl of Torrington, didn't want to give battle on bad terms.",
+  "speak": "The English commander, Arthur Herbert, Earl of Torrington, didn't want to give battle on bad terms.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "His reasoning, as it has come down to us, was that as long as the English had a fleet in being, the French wouldn't dare attempt an invasion.",
+  "speak": "His reasoning, as it has come down to us, was that as long as the English had a fleet in being, the French wouldn't dare attempt an invasion.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Keep the fleet intact.",
+  "speak": "Keep the fleet intact.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Keep it somewhere the French have to worry about.",
+  "speak": "Keep it somewhere the French have to worry about.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Make them count it.",
+  "speak": "Make them count it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "His government didn't trust the idea.",
+  "speak": "His government didn't trust the idea.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Queen Mary's council ordered him to fight.",
+  "speak": "Queen Mary's council ordered him to fight.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "He fought at Beachy Head, and he lost.",
+  "speak": "He fought at Beachy Head, and he lost.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "He was court-martialed, acquitted, and never commanded at sea again.",
+  "speak": "He was court-martialed, acquitted, and never commanded at sea again.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "And then the strange part.",
+  "speak": "And then the strange part.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The French won the battle and didn't exploit it.",
+  "speak": "The French won the battle and didn't exploit it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "There was no invasion.",
+  "speak": "There was no invasion.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The English fleet, beaten and battered, still existed, and the French behaved as if it mattered.",
+  "speak": "The English fleet, beaten and battered, still existed, and the French behaved as if it mattered.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Torrington was right, and his own side punished him for it.",
+  "speak": "Torrington was right, and his own side punished him for it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The phrase \"fleet in being\" is his.",
+  "speak": "The phrase fleet in being is his.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "But the doctrine, the idea worked out as strategy, came two centuries later.",
+  "speak": "But the doctrine, the idea worked out as strategy, came two centuries later.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "In 1891 a Royal Navy officer, Philip Colomb, went back to Torrington's words and built a theory on them.",
+  "speak": "In eighteen ninety-one a Royal Navy officer, Philip Colomb, went back to Torrington's words and built a theory on them.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Alfred Thayer Mahan, the American who wrote the book on sea power, was skeptical.",
+  "speak": "Alfred Thayer Mahan, the American who wrote the book on sea power, was skeptical.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "He thought a weaker fleet's deterrent value was overrated.",
+  "speak": "He thought a weaker fleet's deterrent value was overrated.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Julian Corbett, the British strategist, was more sympathetic.",
+  "speak": "Julian Corbett, the British strategist, was more sympathetic.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The argument has never fully closed.",
+  "speak": "The argument has never fully closed.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The cleanest modern example came in the First World War.",
+  "speak": "The cleanest modern example came in the First World War.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Germany's High Seas Fleet spent most of the war in port.",
+  "speak": "Germany's High Seas Fleet spent most of the war in port.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It fought one great battle, at Jutland in 1916, and then mostly stayed home.",
+  "speak": "It fought one great battle, at Jutland in nineteen sixteen, and then mostly stayed home.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "But because it existed, the British Grand Fleet had to stay concentrated in the North Sea for four years, tied down by a fleet that rarely sailed.",
+  "speak": "But because it existed, the British Grand Fleet had to stay concentrated in the North Sea for four years, tied down by a fleet that rarely sailed.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "A fleet in being deters by existing and being counted.",
+  "speak": "A fleet in being deters by existing and being counted.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "That's the whole idea this episode stands on.",
+  "speak": "That's the whole idea this episode stands on.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Hold on to it.",
+  "speak": "Hold on to it.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Two — What Episode 2 Got Wrong"
+ },
+ {
+  "section": "p2",
+  "text": "Episode 2 put together a plan from real pieces.",
+  "speak": "Episode 2 put together a plan from real pieces.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The Air Force's Rapid Dragon program had shown that ordinary cargo aircraft can launch long-range cruise missiles from pallets.",
+  "speak": "The Air Force's Rapid Dragon program had shown that ordinary cargo aircraft can launch long-range cruise missiles from pallets.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The P-8 Poseidon had shown that a 737 can be turned into a warplane without stopping the commercial line.",
+  "speak": "The P 8 Poseidon had shown that a seven thirty-seven can be turned into a warplane without stopping the commercial line.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The X-68A LongShot and the AFLRW program pointed toward long-range weapons that could be launched from far behind the front.",
+  "speak": "The X 68A LongShot and the AFLRW program pointed toward long-range weapons that could be launched from far behind the front.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Put those together and you get a reserve of 737-based arsenal jets, each carrying something like a dozen long-range missiles, standing behind drones on the island chains.",
+  "speak": "Put those together and you get a reserve of seven thirty-seven-based arsenal jets, each carrying something like a dozen long-range missiles, standing behind drones on the island chains.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "To be clear again, as Episode 2 was: nobody in the Pentagon has proposed this.",
+  "speak": "To be clear again, as Episode 2 was: nobody in the Pentagahn has proposed this.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It's the author's synthesis, built from real parts.",
+  "speak": "It's the author's synthesis, built from real parts.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "But in the episode's notes, one assumption slid in without much argument.",
+  "speak": "But in the episode's notes, one assumption slid in without much argument.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The airframes, it said, would most plausibly come from new production at Renton, rather than from reactivated old civilian jets.",
+  "speak": "The airframes, it said, would most plausibly come from new production at Renton, rather than from reactivated old civilian jets.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And it admitted it hadn't checked how many old jets there were.",
+  "speak": "And it admitted it hadn't checked how many old jets there were.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "Think about what that assumption actually means.",
+  "speak": "Think about what that assumption actually means.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The plan is a deterrent.",
+  "speak": "The plan is a deterrent.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Its job is to exist and be counted.",
+  "speak": "Its job is to exist and be counted.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "If a war ever came, its active life might be a year, maybe less.",
+  "speak": "If a war ever came, its active life might be a year, maybe less.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Most of its life would be spent parked in a desert, preserved, waiting.",
+  "speak": "Most of its life would be spent parked in a desert, preserved, waiting.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "So the plan, as written, would buy brand-new jets at full price, in a market where airlines are already waiting years for deliveries, and park them in the sand.",
+  "speak": "So the plan, as written, would buy brand-new jets at full price, in a market where airlines are already waiting years for deliveries, and park them in the sand.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Why would anyone build white tails at eighty million dollars a copy to store in the desert, when the desert is already full of birds?",
+  "speak": "Why would anyone build white tails at eighty million dollars a copy to store in the desert, when the desert is already full of birds?",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — The Birds Already in the Desert"
+ },
+ {
+  "section": "p3",
+  "text": "Start with how many there are.",
+  "speak": "Start with how many there are.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Boeing built 4,991 commercial 737-800s.",
+  "speak": "Boeing built 4,991 commercial seven thirty-seven eight hundreds.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's by far the most numerous version of the 737 Next Generation.",
+  "speak": "It's by far the most numerous version of the seven thirty-seven Next Generation.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The 737-800 was the default narrowbody of the 2000s and 2010s, flown by almost every airline that flew Boeings.",
+  "speak": "The seven thirty-seven eight hundred was the default narrowbody of the two thousands and twenty tens, flown by almost every airline that flew Boeings.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Now those jets are reaching the age when airlines let them go.",
+  "speak": "Now those jets are reaching the age when airlines let them go.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Some get a second life as freighters: Boeing passed its 200th 737-800 freighter conversion around a decade after launching the program,",
+  "speak": "Some get a second life as freighters: Boeing passed its two hundredth seven thirty-seven eight hundred freighter conversion around a decade after launching the program,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "which is only about four percent of everything it built.",
+  "speak": "which is only about four percent of everything it built.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Some keep flying passengers a little longer.",
+  "speak": "Some keep flying passengers a little longer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "And a growing share go to the desert to be taken apart.",
+  "speak": "And a growing share go to the desert to be taken apart.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "And here's the detail that changes the plan from a fantasy into something with an engineering record behind it.",
+  "speak": "And here's the detail that changes the plan from a fantasy into something with an engineering record behind it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "The P-8 Poseidon, the Navy's submarine hunter, the aircraft Episode 2 held up as proof that a 737 can be a warplane, is built on the 737-800.",
+  "speak": "The P 8 Poseidon, the Navy's submarine hunter, the aircraft Episode 2 held up as proof that a seven thirty-seven can be a warplane, is built on the seven thirty-seven eight hundred.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "The Navy and Boeing have already done the hard work of turning this exact airframe into a military aircraft:",
+  "speak": "The Navy and Boeing have already done the hard work of turning this exact airframe into a military aircraft:",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "a weapons bay, wing hardpoints, military certification, a maintenance system, a training pipeline.",
+  "speak": "a weapons bay, wing hardpoints, military certification, a maintenance system, a training pipeline.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's the airframe sitting in the desert.",
+  "speak": "It's the airframe sitting in the desert.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — What a Bird Actually Costs"
+ },
+ {
+  "section": "p4",
+  "text": "Now the money, carefully, because aircraft prices are slippery.",
+  "speak": "Now the money, carefully, because aircraft prices are slippery.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "A new 737 has a list price that has run past a hundred million dollars, though very few airlines pay list.",
+  "speak": "A new seven thirty-seven has a list price that has run past a hundred million dollars, though very few airlines pay list.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "New 737 MAX jets actually change hands in the high tens of millions.",
+  "speak": "New seven thirty-seven MAX jets actually change hands in the high tens of millions.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "A used 737-800 in ordinary airline condition sells for roughly fifteen to thirty million dollars, depending on age and condition.",
+  "speak": "A used seven thirty-seven eight hundred in ordinary airline condition sells for roughly fifteen to thirty million dollars, depending on age and condition.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "But an old 737-800 at the end of its life is a different object.",
+  "speak": "But an old seven thirty-seven eight hundred at the end of its life is a different object.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "On a jet like that, nearly all the value sits in the two engines under the wings.",
+  "speak": "On a jet like that, nearly all the value sits in the two engines under the wings.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The airframe itself is close to scrap.",
+  "speak": "The airframe itself is close to scrap.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "A twenty-two-year-old -800 coming up on its next heavy check can be worth less as a flying aircraft than the sum of its parts.",
+  "speak": "A twenty-two-year-old eight hundred coming up on its next heavy check can be worth less as a flying aircraft than the sum of its parts.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "So the price depends almost entirely on the engines.",
+  "speak": "So the price depends almost entirely on the engines.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "A healthy CFM56-7B, the engine on every 737 Next Generation, is worth somewhere around three million dollars, more for one with plenty of life left.",
+  "speak": "A healthy CFM56 7B, the engine on every seven thirty-seven Next Generation, is worth somewhere around three million dollars, more for one with plenty of life left.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "IBA's half-life figures run from about $3.8 million to $7.1 million.",
+  "speak": "IBA's half-life figures run from about 3.8 million dollars to 7.1 million dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Put two of those on the wings and you have a valuable airplane.",
+  "speak": "Put two of those on the wings and you have a valuable airplane.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "But an engine near the end of its life is worth much less.",
+  "speak": "But an engine near the end of its life is worth much less.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Sold as a teardown core, to be taken apart for used parts, a CFM56-7B goes for somewhere around half a million to a million dollars.",
+  "speak": "Sold as a teardown core, to be taken apart for used parts, a CFM56 7B goes for somewhere around half a million to a million dollars.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "So a tired 737-800 in the desert, headed for part-out, with engines near the end of their life, can be had for something like two million dollars.",
+  "speak": "So a tired seven thirty-seven eight hundred in the desert, headed for part-out, with engines near the end of their life, can be had for something like two million dollars.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "And now look at what that means for this plan.",
+  "speak": "And now look at what that means for this plan.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Five — The One-Year Engine"
+ },
+ {
+  "section": "p5",
+  "text": "An airline pays a premium for engine life, because it plans to fly that engine for years: thousands of flights, carrying passengers, every day.",
+  "speak": "An airline pays a premium for engine life, because it plans to fly that engine for years: thousands of flights, carrying passengers, every day.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "This plan doesn't need that.",
+  "speak": "This plan doesn't need that.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "If the arsenal jet's active mission is a year at most, it doesn't need an engine with ten years of life left.",
+  "speak": "If the arsenal jet's active mission is a year at most, it doesn't need an engine with ten years of life left.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It needs an engine that will run reliably for a few hundred missions.",
+  "speak": "It needs an engine that will run reliably for a few hundred missions.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "An engine with a few thousand cycles left on its life-limited parts is more than enough.",
+  "speak": "An engine with a few thousand cycles left on its life-limited parts is more than enough.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Those are the engines the market is selling for teardown, because they're worth little to an airline.",
+  "speak": "Those are the engines the market is selling for teardown, because they're worth little to an airline.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "So the plan inverts the market.",
+  "speak": "So the plan inverts the market.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The thing that makes these birds nearly worthless to an airline, not much life left, is exactly what makes them cheap and good enough for a deterrent.",
+  "speak": "The thing that makes these birds nearly worthless to an airline, not much life left, is exactly what makes them cheap and good enough for a deterrent.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The plan buys what everyone else is throwing away.",
+  "speak": "The plan buys what everyone else is throwing away.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Now the rough arithmetic, flagged as the author's:",
+  "speak": "Now the rough arithmetic, flagged as the author's:",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "The weapons conversion is the honest gap.",
+  "speak": "The weapons conversion is the honest gap.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Putting hardpoints or a weapons bay on a 737 is real structural work, much closer to what was done for the P-8 than to a freighter conversion.",
+  "speak": "Putting hardpoints or a weapons bay on a seven thirty-seven is real structural work, much closer to what was done for the P 8 than to a freighter conversion.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Nobody has published what it would cost on an old airframe.",
+  "speak": "Nobody has published what it would cost on an old airframe.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Ten million dollars all-in is a target, not a sourced number.",
+  "speak": "Ten million dollars all-in is a target, not a sourced number.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "But follow the logic anyway.",
+  "speak": "But follow the logic anyway.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Even if the real number were two or three times that, it would still be a fraction of a new jet.",
+  "speak": "Even if the real number were two or three times that, it would still be a fraction of a new jet.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "And then the comparison that matters.",
+  "speak": "And then the comparison that matters.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The money for ten new white tails at eighty million each, eight hundred million dollars, buys something like eighty rebuilt old birds at ten million.",
+  "speak": "The money for ten new white tails at eighty million each, eight hundred million dollars, buys something like eighty rebuilt old birds at ten million.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Ten jets in the desert, or eighty.",
+  "speak": "Ten jets in the desert, or eighty.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "If the whole point is to be counted, that's not a small difference.",
+  "speak": "If the whole point is to be counted, that's not a small difference.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It's the difference between a plan the other side can dismiss and a plan the other side has to plan around.",
+  "speak": "It's the difference between a plan the other side can dismiss and a plan the other side has to plan around.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "Or put it the way a buyer would, walking the rows at Victorville.",
+  "speak": "Or put it the way a buyer would, walking the rows at Victorville.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The desert is a flea market.",
+  "speak": "The desert is a flea market.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "I'll give you two million a copy for all hundred and thirty.",
+  "speak": "I'll give you two million a copy for all hundred and thirty.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "A hundred and thirty birds at two million dollars each is two hundred and sixty million dollars.",
+  "speak": "A hundred and thirty birds at two million dollars each is two hundred and sixty million dollars.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "That's about the price of three new white tails.",
+  "speak": "That's about the price of three new white tails.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Three jets the other side can shrug off.",
+  "speak": "Three jets the other side can shrug off.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Or a hundred and thirty it has to count.",
+  "speak": "Or a hundred and thirty it has to count.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p6",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Six — The Engine That Isn't Scarce"
+ },
+ {
+  "section": "p6",
+  "text": "There's a second reason the old birds are better, and it's about engines again.",
+  "speak": "There's a second reason the old birds are better, and it's about engines again.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The thread keeps coming back to them.",
+  "speak": "The thread keeps coming back to them.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Every new 737 MAX flies on a CFM LEAP engine.",
+  "speak": "Every new seven thirty-seven MAX flies on a CFM LEAP engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "And the LEAP is the bottleneck of the entire narrowbody world.",
+  "speak": "And the LEAP is the bottleneck of the entire narrowbody world.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "CFM delivered 1,802 LEAPs in 2025 and expects about fifteen percent more in 2026,",
+  "speak": "CFM delivered 1,802 LEAPs in twenty twenty-five and expects about fifteen percent more in twenty twenty-six,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "and its parent company has said it won't deliver more in 2026 than it has already committed.",
+  "speak": "and its parent company has said it won't deliver more in twenty twenty-six than it has already committed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Airbus deliveries slowed in early 2026 with engine shortages named as the main cause.",
+  "speak": "Airbus deliveries slowed in early twenty twenty-six with engine shortages named as the main cause.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "So a plan that buys new 737s for the desert is a plan that takes LEAP engines away from airlines that are already waiting for them,",
+  "speak": "So a plan that buys new seven thirty-sevens for the desert is a plan that takes LEAP engines away from airlines that are already waiting for them,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "and production slots away from a factory line that is already the most watched in the industry.",
+  "speak": "and production slots away from a factory line that is already the most watched in the industry.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It would fight the commercial world for the scarcest thing in it.",
+  "speak": "It would fight the commercial world for the scarcest thing in it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "The old 737-800 flies on the CFM56: the engine from the locked room in Episode 3a, the best-selling jet engine in history.",
+  "speak": "The old seven thirty-seven eight hundred flies on the CFM56: the engine from the locked room in Episode 3a, the best-selling jet engine in history.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "About 14,200 CFM56 engines are still active, and more than 2,500 are already in storage or teardown.",
+  "speak": "About 14,200 CFM56 engines are still active, and more than 2,500 are already in storage or teardown.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The spares market is deep, the shops know it, and the parts exist all over the world.",
+  "speak": "The spares market is deep, the shops know it, and the parts exist all over the world.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "The new-build plan competes for the bottleneck.",
+  "speak": "The new-build plan competes for the bottleneck.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The old-bird plan lives on the surplus.",
+  "speak": "The old-bird plan lives on the surplus.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p7",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Seven — The Government Has Done This Before"
+ },
+ {
+  "section": "p7",
+  "text": "It's also worth noticing that the U.S. government already knows how to keep jets in the desert on purpose.",
+  "speak": "It's also worth noticing that the U S government already knows how to keep jets in the desert on purpose.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Episode 2 told this story.",
+  "speak": "Episode 2 told this story.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "When the Air Force retired its KC-135E tankers, Congress required that a number of them be kept in a protected storage status rather than scrapped.",
+  "speak": "When the Air Force retired its KC one thirty-five E tankers, Congress required that a number of them be kept in a protected storage status rather than scrapped.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The Air Force later asked to be allowed to let them go.",
+  "speak": "The Air Force later asked to be allowed to let them go.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "And in April 2026, the Air Force pulled KC-135s out of storage at the boneyard and flew them back into service,",
+  "speak": "And in April twenty twenty-six, the Air Force pulled KC one thirty-fives out of storage at the boneyard and flew them back into service,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "because it needed tankers faster than new ones could arrive.",
+  "speak": "because it needed tankers faster than new ones could arrive.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "So the pieces all exist.",
+  "speak": "So the pieces all exist.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A storage site.",
+  "speak": "A storage site.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A preservation process.",
+  "speak": "A preservation process.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A legal mechanism for keeping jets that would otherwise be scrapped.",
+  "speak": "A legal mechanism for keeping jets that would otherwise be scrapped.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A recent example of pulling them back out when they were needed.",
+  "speak": "A recent example of pulling them back out when they were needed.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "And storage is cheap.",
+  "speak": "And storage is cheap.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "In 2019, the base fee at Victorville for storing a 737 was reported at about four hundred and fifty dollars a month, before maintenance and preservation work.",
+  "speak": "In twenty nineteen, the base fee at Victorville for storing a seven thirty-seven was reported at about four hundred and fifty dollars a month, before maintenance and preservation work.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Four hundred and fifty dollars a month to keep a piece of the deterrent in the sand.",
+  "speak": "Four hundred and fifty dollars a month to keep a piece of the deterrent in the sand.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p8",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Eight — What Deters"
+ },
+ {
+  "section": "p8",
+  "text": "Now go back to Torrington.",
+  "speak": "Now go back to Torrington.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "His fleet wasn't the newest or the strongest in the Channel.",
+  "speak": "His fleet wasn't the newest or the strongest in the Channel.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "It lost the battle it was forced into.",
+  "speak": "It lost the battle it was forced into.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "What made it work was that it existed and the French had to account for it.",
+  "speak": "What made it work was that it existed and the French had to account for it.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "A deterrent isn't judged on its specifications.",
+  "speak": "A deterrent isn't judged on its specifications.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "It's judged on whether the other side believes it can be done: quickly, in numbers, and with what's at hand.",
+  "speak": "It's judged on whether the other side believes it can be done: quickly, in numbers, and with what's at hand.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Measured that way, the old-bird plan is more credible than the new-build one, not less:",
+  "speak": "Measured that way, the old-bird plan is more credible than the new-build one, not less:",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "It can be done, because the P-8 already turned this airframe into a warplane.",
+  "speak": "It can be done, because the P 8 already turned this airframe into a warplane.",
+  "flag": "plan",
+  "pause": 0.6
+ },
+ {
+  "section": "p8",
+  "text": "It can be done fast, because the donor jets are already parked, by the thousands,",
+  "speak": "It can be done fast, because the donor jets are already parked, by the thousands,",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "in the desert and in airline fleets around the world, and nobody has to wait for a factory slot.",
+  "speak": "in the desert and in airline fleets around the world, and nobody has to wait for a factory slot.",
+  "flag": "plan",
+  "pause": 0.6
+ },
+ {
+  "section": "p8",
+  "text": "It can be done at scale, because the engines are the surplus, not the bottleneck, and because each bird is cheap enough to buy dozens.",
+  "speak": "It can be done at scale, because the engines are the surplus, not the bottleneck, and because each bird is cheap enough to buy dozens.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p8",
+  "text": "And that leads to the strangest idea in this episode, the one closest to Torrington's.",
+  "speak": "And that leads to the strangest idea in this episode, the one closest to Torrington's.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The plan itself may be the deterrent.",
+  "speak": "The plan itself may be the deterrent.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "If the other side knows the donor pool exists, knows the conversion has been engineered,",
+  "speak": "If the other side knows the donor pool exists, knows the conversion has been engineered,",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "knows the missiles are in production and that a reserve of old jets could be stood up in months,",
+  "speak": "knows the missiles are in production and that a reserve of old jets could be stood up in months,",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "then the plan does part of its work before a single aircraft is converted.",
+  "speak": "then the plan does part of its work before a single aircraft is converted.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Like Torrington's fleet, it shapes the other side's calculations by existing as a possibility they have to count.",
+  "speak": "Like Torrington's fleet, it shapes the other side's calculations by existing as a possibility they have to count.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "That isn't a free lunch.",
+  "speak": "That isn't a free lunch.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A threat has to be believable, so some jets have to actually exist, and some have to fly and fire in exercises where they can be seen.",
+  "speak": "A threat has to be believable, so some jets have to actually exist, and some have to fly and fire in exercises where they can be seen.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "But a cheap plan can afford to be visible.",
+  "speak": "But a cheap plan can afford to be visible.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "An expensive one tends to stay small.",
+  "speak": "An expensive one tends to stay small.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p9",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Nine — The Other Side of the Ledger"
+ },
+ {
+  "section": "p9",
+  "text": "The series doesn't let a good argument go unchallenged, including its own.",
+  "speak": "The series doesn't let a good argument go unchallenged, including its own.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "So here's the case against.",
+  "speak": "So here's the case against.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "The conversion is the unknown.",
+  "speak": "The conversion is the unknown.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A weapons-capable 737 is not a freighter.",
+  "speak": "A weapons-capable seven thirty-seven is not a freighter.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The P-8 was a full military development program.",
+  "speak": "The P 8 was a full military development program.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Doing a cheaper version on old airframes might cost much more than ten million dollars a copy, and nobody has published a number.",
+  "speak": "Doing a cheaper version on old airframes might cost much more than ten million dollars a copy, and nobody has published a number.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Rapid Dragon needs a ramp.",
+  "speak": "Rapid Dragon needs a ramp.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The pallet system that inspired this plan rolls missiles out of the back of a C-17 or C-130.",
+  "speak": "The pallet system that inspired this plan rolls missiles out of the back of a C 17 or C one thirty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A 737 has no rear ramp.",
+  "speak": "A seven thirty-seven has no rear ramp.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "An arsenal 737 would have to launch from a weapons bay or from wing pylons, and which works best is an open engineering question.",
+  "speak": "An arsenal seven thirty-seven would have to launch from a weapons bay or from wing pylons, and which works best is an open engineering question.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "That was true in Episode 2 with new jets too, so it doesn't favor new over old, but it hasn't gone away.",
+  "speak": "That was true in Episode 2 with new jets too, so it doesn't favor new over old, but it hasn't gone away.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Old jets aren't free to keep.",
+  "speak": "Old jets aren't free to keep.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Corrosion, inspections, records, crews, maintenance training.",
+  "speak": "Corrosion, inspections, records, crews, maintenance training.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A reserve that's actually ready costs more than a parking fee.",
+  "speak": "A reserve that's actually ready costs more than a parking fee.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "The market would notice.",
+  "speak": "The market would notice.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Every flea-market haggler knows the catch in \"all hundred and thirty.",
+  "speak": "Every flea-market haggler knows the catch in all hundred and thirty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The moment you say all of them, the seller knows you want all of them.",
+  "speak": "The moment you say all of them, the seller knows you want all of them.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "One bird at a time, quietly, the price holds.",
+  "speak": "One bird at a time, quietly, the price holds.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Announce that you're buying the whole desert, and every broker with a CFM56 on a stand raises his price overnight.",
+  "speak": "Announce that you're buying the whole desert, and every broker with a CFM56 on a stand raises his price overnight.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "And CFM56 values are already rising, because the LEAP shortage is keeping old 737s flying longer.",
+  "speak": "And CFM56 values are already rising, because the LEAP shortage is keeping old seven thirty-sevens flying longer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A government buying hundreds of donor jets would be competing with airlines and part-out shops for the same engines.",
+  "speak": "A government buying hundreds of donor jets would be competing with airlines and part-out shops for the same engines.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A plan like this would work best bought quietly and steadily, ten birds a quarter for three years.",
+  "speak": "A plan like this would work best bought quietly and steadily, ten birds a quarter for three years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "That happens to fit a deterrent that is meant to sit in the desert being counted.",
+  "speak": "That happens to fit a deterrent that is meant to sit in the desert being counted.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "And the missiles cost more than the trucks.",
+  "speak": "And the missiles cost more than the trucks.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A dozen long-range missiles per jet is the expensive part of every version of this plan.",
+  "speak": "A dozen long-range missiles per jet is the expensive part of every version of this plan.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The case for cheap airframes is partly that you shouldn't spend the money on the truck when the magazine is where the money has to go.",
+  "speak": "The case for cheap airframes is partly that you shouldn't spend the money on the truck when the magazine is where the money has to go.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p9",
+  "text": "And finally: China can do the same thing.",
+  "speak": "And finally: China can do the same thing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "It has its own stored airliners, its own freighters, its own long-range missiles.",
+  "speak": "It has its own stored airliners, its own freighters, its own long-range missiles.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Episode 11 called this the symmetry trap.",
+  "speak": "Episode 11 called this the symmetry trap.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Any cheap, clever idea is cheap and clever for both sides.",
+  "speak": "Any cheap, clever idea is cheap and clever for both sides.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "The Birds in the Desert"
+ },
+ {
+  "section": "close",
+  "text": "So here is where the thread has ended up, a little different from where Episode 2 left it.",
+  "speak": "So here is where the thread has ended up, a little different from where Episode 2 left it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The arsenal plan doesn't need new jets.",
+  "speak": "The arsenal plan doesn't need new jets.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It needs old ones, the cheaper and more tired the better, as long as they can fly for a year.",
+  "speak": "It needs old ones, the cheaper and more tired the better, as long as they can fly for a year.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It needs the engines nobody else wants.",
+  "speak": "It needs the engines nobody else wants.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It needs a desert, which the country has plenty of, and a storage fee that rounds to nothing.",
+  "speak": "It needs a desert, which the country has plenty of, and a storage fee that rounds to nothing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And it needs the other side to know all of that.",
+  "speak": "And it needs the other side to know all of that.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Torrington lost a battle and kept a fleet, and the French behaved as if the fleet mattered.",
+  "speak": "Torrington lost a battle and kept a fleet, and the French behaved as if the fleet mattered.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Three centuries later the same logic may be sitting in the sand outside Victorville, in rows,",
+  "speak": "Three centuries later the same logic may be sitting in the sand outside Victorville, in rows,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "with bagged engines and faded airline paint, at something like two million dollars a copy.",
+  "speak": "with bagged engines and faded airline paint, at something like two million dollars a copy.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "close",
+  "text": "Maybe the lesson isn't really about airplanes.",
+  "speak": "Maybe the lesson isn't really about airplanes.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Maybe it's about two old ways of doing business.",
+  "speak": "Maybe it's about two old ways of doing business.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The first is the souk, the old Arab market.",
+  "speak": "The first is the souk, the old Arab market.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The merchant who does well never shows how much he wants something.",
+  "speak": "The merchant who does well never shows how much he wants something.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "He's patient.",
+  "speak": "He's patient.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "He comes back next week.",
+  "speak": "He comes back next week.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "He keeps more than one seller in play.",
+  "speak": "He keeps more than one seller in play.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And he can always walk away, which is the strongest move in the market.",
+  "speak": "And he can always walk away, which is the strongest move in the market.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "American defense procurement, the series has argued for three episodes now, tends to do the opposite.",
+  "speak": "American defense procurement, the series has argued for three episodes now, tends to do the opposite.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It publishes exactly what it wants, years in advance.",
+  "speak": "It publishes exactly what it wants, years in advance.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It buys from single suppliers, so there's nobody to walk away to.",
+  "speak": "It buys from single suppliers, so there's nobody to walk away to.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It signs contracts where the seller has little reason to haggle.",
+  "speak": "It signs contracts where the seller has little reason to haggle.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And it treats walking away as failure.",
+  "speak": "And it treats walking away as failure.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The Constellation was rare because, for once, the Navy walked away.",
+  "speak": "The Constellation was rare because, for once, the Navy walked away.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The F136 in Episode 3b was the opposite: the Pentagon gave up its second seller on purpose.",
+  "speak": "The F one thirty-six in Episode 3b was the opposite: the Pentagahn gave up its second seller on purpose.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The second is the card table.",
+  "speak": "The second is the card table.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The bluff is the part of poker people remember, but serious players know a pure bluff gets called eventually.",
+  "speak": "The bluff is the part of poker people remember, but serious players know a pure bluff gets called eventually.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "What wins is the semi-bluff: a bet made with a hand that isn't strong yet but could become strong on the next card.",
+  "speak": "What wins is the semi-bluff: a bet made with a hand that isn't strong yet but could become strong on the next card.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The other player has to respect it, because if he calls, the hand might turn real.",
+  "speak": "The other player has to respect it, because if he calls, the hand might turn real.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "That's what the birds in the desert are.",
+  "speak": "That's what the birds in the desert are.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "A pure bluff would be a plan on paper with nothing behind it.",
+  "speak": "A pure bluff would be a plan on paper with nothing behind it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "A hundred and thirty jets bought at two million dollars a copy, with a known conversion path and missiles in production, are a semi-bluff.",
+  "speak": "A hundred and thirty jets bought at two million dollars a copy, with a known conversion path and missiles in production, are a semi-bluff.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "They aren't yet a force, but anyone counting them knows they could become one in months.",
+  "speak": "They aren't yet a force, but anyone counting them knows they could become one in months.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Torrington, in 1690, was making a semi-bluff.",
+  "speak": "Torrington, in sixteen ninety, was making a semi-bluff.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "His fleet wasn't strong enough to win.",
+  "speak": "His fleet wasn't strong enough to win.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It was real enough that France couldn't ignore it.",
+  "speak": "It was real enough that France couldn't ignore it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "And the honest limit, which any card player knows too: you have to show real cards sometimes, or the table learns you're always bluffing.",
+  "speak": "And the honest limit, which any card player knows too: you have to show real cards sometimes, or the table learns you're always bluffing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "For this plan, that means a few birds actually converted, actually flying and actually firing in an exercise the other side can watch.",
+  "speak": "For this plan, that means a few birds actually converted, actually flying and actually firing in an exercise the other side can watch.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Buy like the merchant in the souk.",
+  "speak": "Buy like the merchant in the souk.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Fight like the player at the table.",
+  "speak": "Fight like the player at the table.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And show your cards just often enough.",
+  "speak": "And show your cards just often enough.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Is it a good idea?",
+  "speak": "Is it a good idea?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Is it already in a classified binder?",
+  "speak": "Is it already in a classified binder?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Would the conversion cost blow the whole thing up?",
+  "speak": "Would the conversion cost blow the whole thing up?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The episode doesn't know.",
+  "speak": "The episode doesn't know.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "But it knows the birds are there.",
+  "speak": "But it knows the birds are there.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "The conversion itself, what it actually takes to put weapons on a 737 and why the P-8 cost what it did, may be where this one wants to go next.",
+  "speak": "The conversion itself, what it actually takes to put weapons on a seven thirty-seven and why the P 8 cost what it did, may be where this one wants to go next.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]

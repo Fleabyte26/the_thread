@@ -1,0 +1,2112 @@
+[
+ {
+  "section": "cold",
+  "text": "Behind the engine of an F-35 there's a box nobody films.",
+  "speak": "Behind the engine of an F 35 there's a box nobody films.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "It doesn't fly the airplane.",
+  "speak": "It doesn't fly the airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It doesn't shoot anything.",
+  "speak": "It doesn't shoot anything.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It makes electricity, and it moves heat.",
+  "speak": "It makes electricity, and it moves heat.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Every radar, every jammer, every processor on the jet turns power into heat, and the heat has to go somewhere.",
+  "speak": "Every radar, every jammer, every processor on the jet turns power into heat, and the heat has to go somewhere.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "This box is where it goes.",
+  "speak": "This box is where it goes.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The F-35 is short of cooling.",
+  "speak": "The F 35 is short of cooling.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Episode 3c told that story: the electronics have outgrown the box, so the box leans on the engine, and the engine wears out early.",
+  "speak": "Episode 3c told that story: the electronics have outgrown the box, so the box leans on the engine, and the engine wears out early.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Two companies are now fighting over who builds the next box.",
+  "speak": "Two companies are now fighting over who builds the next box.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "One has built it since the beginning.",
+  "speak": "One has built it since the beginning.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The other is a sister company of the engine maker.",
+  "speak": "The other is a sister company of the engine maker.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Neither fight will trend.",
+  "speak": "Neither fight will trend.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Nobody makes a documentary about a heat exchanger.",
+  "speak": "Nobody makes a documentary about a heat exchanger.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "Meanwhile, somewhere else, money is moving.",
+  "speak": "Meanwhile, somewhere else, money is moving.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "In the first half of 2026, by one count, investors put more than thirty-five billion dollars into defense and defense-adjacent startups.",
+  "speak": "In the first half of twenty twenty-six, by one count, investors put more than thirty-five billion dollars into defense and defense-adjacent startups.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "By another count, more than forty.",
+  "speak": "By another count, more than forty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "A year ago this was a corner of venture capital that serious investors avoided.",
+  "speak": "A year ago this was a corner of venture capital that serious investors avoided.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Now it's where the biggest checks go after artificial intelligence.",
+  "speak": "Now it's where the biggest checks go after artificial intelligence.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Drone makers.",
+  "speak": "Drone makers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Missile makers.",
+  "speak": "Missile makers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Engine makers.",
+  "speak": "Engine makers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "A shipyard in Texas.",
+  "speak": "A shipyard in Texas.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "A factory in the Ohio farmland.",
+  "speak": "A factory in the Ohio farmland.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The money is going into things that are bolted, welded, machined and flown.",
+  "speak": "The money is going into things that are bolted, welded, machined and flown.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "This episode follows that money.",
+  "speak": "This episode follows that money.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It starts with the box nobody films, and it ends up asking whether a country that spent thirty years sending its factories overseas is about to build again, and who is going to do the building.",
+  "speak": "It starts with the box nobody films, and it ends up asking whether a country that spent thirty years sending its factories overseas is about to build again, and who is going to do the building.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — The Box Behind the Engine"
+ },
+ {
+  "section": "p1",
+  "text": "Start with the box, because that's where 3c left the thread.",
+  "speak": "Start with the box, because that's where 3c left the thread.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "On the F-35 it's called the Power and Thermal Management System.",
+  "speak": "On the F 35 it's called the Power and Thermal Management System.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The F135 engine feeds it air and power.",
+  "speak": "The F one thirty-five engine feeds it air and power.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It gives back electricity for the jet and cooling for the electronics.",
+  "speak": "It gives back electricity for the jet and cooling for the electronics.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It also provides emergency power if something goes wrong.",
+  "speak": "It also provides emergency power if something goes wrong.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Honeywell has built it from the start.",
+  "speak": "Honeywell has built it from the start.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It was sized for the jet the Pentagon ordered in the early 2000s.",
+  "speak": "It was sized for the jet the Pentagahn ordered in the early two thousands.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The jet that exists now has more sensors, more processing and more electronic warfare, and the next upgrades will add more.",
+  "speak": "The jet that exists now has more sensors, more processing and more electronic warfare, and the next upgrades will add more.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The Joint Program Office set an objective of 80 kilowatts of cooling for the future jet.",
+  "speak": "The Joint Program Office set an objective of 80 kilowatts of cooling for the future jet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The current system delivers well under half that.",
+  "speak": "The current system delivers well under half that.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "When the box can't keep up, it pulls more air and more power from the engine.",
+  "speak": "When the box can't keep up, it pulls more air and more power from the engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Government auditors have tied that to faster engine wear and a shorter engine life.",
+  "speak": "Government auditors have tied that to faster engine wear and a shorter engine life.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The cooling shortfall quietly eats the engine.",
+  "speak": "The cooling shortfall quietly eats the engine.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Two answers are on the table.",
+  "speak": "Two answers are on the table.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Honeywell offers an upgrade to the box already in the jet, in phases.",
+  "speak": "Honeywell offers an upgrade to the box already in the jet, in phases.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The first phase is mostly software, and Honeywell says it would raise capacity to around 40 kilowatts within two to three years,",
+  "speak": "The first phase is mostly software, and Honeywell says it would raise capacity to around 40 kilowatts within two to three years,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "with more to come, without changing the airframe.",
+  "speak": "with more to come, without changing the airframe.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Collins Aerospace offers a new box, called EPACS, the Enhanced Power and Cooling System.",
+  "speak": "Collins Aerospace offers a new box, called Ee-packs, the Enhanced Power and Cooling System.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Collins says it showed about 80 kilowatts of cooling in lab testing in 2024.",
+  "speak": "Collins says it showed about 80 kilowatts of cooling in lab testing in twenty twenty-four.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "On August 24th, 2026, Collins announced it had finished altitude testing.",
+  "speak": "On August 24th, twenty twenty-six, Collins announced it had finished altitude testing.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Collins is part of RTX.",
+  "speak": "Collins is part of R T X.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "So is Pratt & Whitney, which builds the F135 and its Engine Core Upgrade.",
+  "speak": "So is Pratt & Whitney, which builds the F one thirty-five and its Engine Core Upgrade.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "If Collins wins, one parent company supplies nearly the whole power and cooling chain of the jet: the engine, and the box behind it.",
+  "speak": "If Collins wins, one parent company supplies nearly the whole power and cooling chain of the jet: the engine, and the box behind it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The choice belongs to Lockheed Martin, the prime, which said in 2025 that the selection could take up to two years.",
+  "speak": "The choice belongs to Lockheed Martin, the prime, which said in twenty twenty-five that the selection could take up to two years.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "Here's the thing the thread keeps noticing.",
+  "speak": "Here's the thing the thread keeps noticing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The most consequential hardware decision on America's most important fighter, the one that decides how much future the jet has,",
+  "speak": "The most consequential hardware decision on America's most important fighter, the one that decides how much future the jet has,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "is a contest between two very old, very large companies over a box with pipes in it.",
+  "speak": "is a contest between two very old, very large companies over a box with pipes in it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "No startup is in it.",
+  "speak": "No startup is in it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "No venture capital is in it.",
+  "speak": "No venture capital is in it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "So when people talk about the new money reshaping defense, the box behind the engine is a good place to stand and ask: reshaping what, exactly?",
+  "speak": "So when people talk about the new money reshaping defense, the box behind the engine is a good place to stand and ask: reshaping what, exactly?",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "inference",
+  "pause": 2.6,
+  "chapter": "Part Two — The Money"
+ },
+ {
+  "section": "p2",
+  "text": "The money is real.",
+  "speak": "The money is real.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The number depends on who's counting.",
+  "speak": "The number depends on who's counting.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "PitchBook, through the defense newsletter Tectonic, counted $35.6 billion invested in defense and defense-adjacent startups in the first half of 2026.",
+  "speak": "PitchBook, through the defense newsletter Tectonic, counted 35.6 billion dollars invested in defense and defense-adjacent startups in the first half of twenty twenty-six.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A record.",
+  "speak": "A record.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The first quarter alone was $19.8 billion across 262 deals, the most ever in a single quarter.",
+  "speak": "The first quarter alone was 19.8 billion dollars across 262 deals, the most ever in a single quarter.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Protego Ventures, an Israeli fund, counted $40.8 billion for the same six months, and nearly $70 billion over twelve months.",
+  "speak": "Protego Ventures, an Israeli fund, counted 40.8 billion dollars for the same six months, and nearly 70 billion dollars over twelve months.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Crunchbase uses a narrower definition: military, national security and law enforcement.",
+  "speak": "Crunchbase uses a narrower definition: military, national security and law enforcement.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "By that count, $14.6 billion went in through the end of May, already past the full-year record of $9.6 billion set in 2025.",
+  "speak": "By that count, 14.6 billion dollars went in through the end of May, already past the full-year record of 9.6 billion dollars set in twenty twenty-five.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "PitchBook numbers reported by the Financial Times put it at $12.3 billion by late spring.",
+  "speak": "PitchBook numbers reported by the Financial Times put it at 12.3 billion dollars by late spring.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "So the same year is twelve billion dollars, or fourteen, or thirty-five, or forty.",
+  "speak": "So the same year is twelve billion dollars, or fourteen, or thirty-five, or forty.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The difference is definitions.",
+  "speak": "The difference is definitions.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Does a satellite company count?",
+  "speak": "Does a satellite company count?",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A cybersecurity company?",
+  "speak": "A cybersecurity company?",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "An AI lab that sells to the Army?",
+  "speak": "An A I lab that sells to the Army?",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A company that builds drones for farmers and also for soldiers?",
+  "speak": "A company that builds drones for farmers and also for soldiers?",
+  "flag": "inference",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "Here's the arithmetic the thread can do.",
+  "speak": "Here's the arithmetic the thread can do.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "By the broad counts, the first half of 2026 alone was in the range of thirty-five to forty-one billion dollars.",
+  "speak": "By the broad counts, the first half of twenty twenty-six alone was in the range of thirty-five to forty-one billion dollars.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "If the second half runs anywhere close, the year lands somewhere above fifty billion.",
+  "speak": "If the second half runs anywhere close, the year lands somewhere above fifty billion.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "By the narrow counts, it's smaller, but still the biggest year on record by a wide margin.",
+  "speak": "By the narrow counts, it's smaller, but still the biggest year on record by a wide margin.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Either way, the direction isn't in doubt.",
+  "speak": "Either way, the direction isn't in doubt.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "In 2020, by Crunchbase's count, defense tech raised $1.6 billion.",
+  "speak": "In twenty twenty, by Crunchbase's count, defense tech raised 1.6 billion dollars.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "In 2026 it raised that much in a couple of weeks.",
+  "speak": "In twenty twenty-six it raised that much in a couple of weeks.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "And then the honest comparison.",
+  "speak": "And then the honest comparison.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "In the first half of 2026, by PitchBook and NVCA's count, American venture capital put $412.7 billion to work.",
+  "speak": "In the first half of twenty twenty-six, by PitchBook and N V C A's count, American venture capital put 412.7 billion dollars to work.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "AI companies took $355.9 billion of it.",
+  "speak": "A I companies took 355.9 billion dollars of it.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "About 86 percent.",
+  "speak": "About 86 percent.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "So it isn't quite true that the money left the apps that sell ads and went to factories.",
+  "speak": "So it isn't quite true that the money left the apps that sell ads and went to factories.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Most of the money went to AI.",
+  "speak": "Most of the money went to A I.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Defense got the second wave, a slice of a much bigger pie.",
+  "speak": "Defense got the second wave, a slice of a much bigger pie.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "But it's a slice that used to be a crumb.",
+  "speak": "But it's a slice that used to be a crumb.",
+  "flag": "inference",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — Who Got It"
+ },
+ {
+  "section": "p3",
+  "text": "Follow the biggest checks and the names repeat.",
+  "speak": "Follow the biggest checks and the names repeat.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Anduril.",
+  "speak": "Anduril.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Founded in 2017 by Palmer Luckey, who had sold his virtual reality company Oculus to Facebook.",
+  "speak": "Founded in twenty seventeen by Palmer Luckey, who had sold his virtual reality company Oculus to Facebook.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In May 2026 it raised five billion dollars at a valuation of $61 billion, double its value eleven months earlier.",
+  "speak": "In May twenty twenty-six it raised five billion dollars at a valuation of 61 billion dollars, double its value eleven months earlier.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Its revenue in 2025 was reported at $2.2 billion.",
+  "speak": "Its revenue in twenty twenty-five was reported at 2.2 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It builds drones, interceptors, sensors, underwater vehicles, cruise missiles, solid rocket motors and the software that ties them together.",
+  "speak": "It builds drones, interceptors, sensors, underwater vehicles, cruise missiles, solid rocket motors and the software that ties them together.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Shield AI.",
+  "speak": "Shield A I.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In March 2026, two billion dollars at $12.7 billion.",
+  "speak": "In March twenty twenty-six, two billion dollars at 12.7 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It started with a small drone for clearing buildings and now sells an AI pilot, Hivemind, meant to fly aircraft without a pilot,",
+  "speak": "It started with a small drone for clearing buildings and now sells an A I pilot, Hivemind, meant to fly aircraft without a pilot,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "and its own jet drone, the X-BAT, which Episode 3a met in the locked room, built around an old engine.",
+  "speak": "and its own jet drone, the X-BAT, which Episode 3a met in the locked room, built around an old engine.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Saronic.",
+  "speak": "Saronic.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "$1.75 billion.",
+  "speak": "1.75 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Autonomous boats, from small ones to 180-foot ships, built in its own shipyard.",
+  "speak": "Autonomous boats, from small ones to 180-foot ships, built in its own shipyard.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Castelion.",
+  "speak": "Castelion.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "A billion dollars in August 2026, at $13 billion.",
+  "speak": "A billion dollars in August twenty twenty-six, at 13 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Founded in late 2022 by former SpaceX people.",
+  "speak": "Founded in late twenty twenty-two by former Space X people.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "One product so far: a hypersonic missile called Blackbeard, designed to be cheap.",
+  "speak": "One product so far: a hypersonic missile called Blackbeard, designed to be cheap.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Neros.",
+  "speak": "Neros.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "$250 million in August at $2.5 billion.",
+  "speak": "250 million dollars in August at 2.5 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It makes a small first-person-view attack drone called Archer.",
+  "speak": "It makes a small first-person-view attack drone called Archer.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Hadrian.",
+  "speak": "Hadrian.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "$1.37 billion in August at about $7.9 billion.",
+  "speak": "1.37 billion dollars in August at about 7.9 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It doesn't make weapons at all.",
+  "speak": "It doesn't make weapons at all.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It makes the precision metal parts that go into rockets, missiles and aircraft, in automated machine shops.",
+  "speak": "It makes the precision metal parts that go into rockets, missiles and aircraft, in automated machine shops.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "And then the elder.",
+  "speak": "And then the elder.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Palantir is not a startup.",
+  "speak": "Palantir is not a startup.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It was founded in 2003, went public in 2020, and is worth hundreds of billions of dollars on the stock market.",
+  "speak": "It was founded in two thousand three, went public in twenty twenty, and is worth hundreds of billions of dollars on the stock market.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In the third quarter of 2026 its revenue passed two billion dollars for the first time,",
+  "speak": "In the third quarter of twenty twenty-six its revenue passed two billion dollars for the first time,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "and for the first time its American commercial business was larger than its American government business.",
+  "speak": "and for the first time its American commercial business was larger than its American government business.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Palantir is the proof of concept the newer companies point to: a company the defense establishment once kept at arm's length, now inside its core systems.",
+  "speak": "Palantir is the proof of concept the newer companies point to: a company the defense establishment once kept at arm's length, now inside its core systems.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "Notice what the list is mostly made of.",
+  "speak": "Notice what the list is mostly made of.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Not apps.",
+  "speak": "Not apps.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Not ad networks.",
+  "speak": "Not ad networks.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Missiles, boats, drones, parts, factories.",
+  "speak": "Missiles, boats, drones, parts, factories.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Things that have to be built.",
+  "speak": "Things that have to be built.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — The Factories"
+ },
+ {
+  "section": "p4",
+  "text": "Which leads to the most interesting thing the money is buying: buildings.",
+  "speak": "Which leads to the most interesting thing the money is buying: buildings.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Arsenal-1, in Pickaway County, Ohio, about twenty miles south of Columbus, among cornfields and horse farms.",
+  "speak": "Arsenal 1, in Pickaway County, Ohio, about twenty miles south of Columbus, among cornfields and horse farms.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Anduril put about a billion dollars of its own money into it.",
+  "speak": "Anduril put about a billion dollars of its own money into it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The company describes the full site as five million square feet.",
+  "speak": "The company describes the full site as five million square feet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The first product, the YFQ-44A Fury, an autonomous combat jet, went into production there in March 2026, months ahead of the original July target.",
+  "speak": "The first product, the Y F Q 44A Fury, an autonomous combat jet, went into production there in March twenty twenty-six, months ahead of the original July target.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Reporters who toured it described a mostly empty hangar with 22 workstations, more like an IKEA than a traditional plant.",
+  "speak": "Reporters who toured it described a mostly empty hangar with 22 workstations, more like an Eye-kia than a traditional plant.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Anduril says 250 people will work there by the end of 2026, and 4,000 over the next decade.",
+  "speak": "Anduril says 250 people will work there by the end of twenty twenty-six, and 4,000 over the next decade.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The plan is to add the Roadrunner interceptor and the Barracuda cruise missile.",
+  "speak": "The plan is to add the Roadrunner interceptor and the Barracuda cruise missile.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Port Alpha, in Brownsville, Texas.",
+  "speak": "Port Alpha, in Brownsville, Texas.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Saronic picked the site in July 2026: 835 acres at the Port of Brownsville,",
+  "speak": "Saronic picked the site in July twenty twenty-six: 835 acres at the Port of Brownsville,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "room to grow to nearly 4,400, a three-billion-dollar investment, production planned to start in 2028.",
+  "speak": "room to grow to nearly 4,400, a three-billion-dollar investment, production planned to start in twenty twenty-eight.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The company says it will build vessels up to 850 feet.",
+  "speak": "The company says it will build vessels up to 850 feet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The governor of Texas said that fully built out, it would employ about 10,000 people.",
+  "speak": "The governor of Texas said that fully built out, it would employ about 10,000 people.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Saronic already runs a yard in Franklin, Louisiana, bought in 2025, where it is adding 300,000 square feet.",
+  "speak": "Saronic already runs a yard in Franklin, Louisiana, bought in twenty twenty-five, where it is adding 300,000 square feet.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Project Ranger, in Sandoval County, New Mexico.",
+  "speak": "Project Ranger, in Sandoval County, New Mexico.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "A thousand acres.",
+  "speak": "A thousand acres.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Castelion calls it the largest dedicated hypersonic missile manufacturing campus in the country.",
+  "speak": "Castelion calls it the largest dedicated hypersonic missile manufacturing campus in the country.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Project Millennium, in Torrance, California.",
+  "speak": "Project Millennium, in Torrance, California.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "A 250,000-square-foot drone factory for Neros, which says it already makes about 1,200 drones a week and wants to reach a million a year by 2028.",
+  "speak": "A 250,000-square-foot drone factory for Neros, which says it already makes about 1,200 drones a week and wants to reach a million a year by twenty twenty-eight.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Hadrian's Factory 3, in Mesa, Arizona, and a new site in Muscle Shoals, Alabama, aimed at shipbuilding and submarine parts.",
+  "speak": "Hadrian's Factory 3, in Mesa, Arizona, and a new site in Muscle Shoals, Alabama, aimed at shipbuilding and submarine parts.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "Put those on a map and something stands out.",
+  "speak": "Put those on a map and something stands out.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Ohio.",
+  "speak": "Ohio.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Texas.",
+  "speak": "Texas.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "New Mexico.",
+  "speak": "New Mexico.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Arizona.",
+  "speak": "Arizona.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Alabama.",
+  "speak": "Alabama.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Louisiana.",
+  "speak": "Louisiana.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Not the coasts where the software money usually stays.",
+  "speak": "Not the coasts where the software money usually stays.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The places where the factories used to be.",
+  "speak": "The places where the factories used to be.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Five — The Engines Nobody Films"
+ },
+ {
+  "section": "p5",
+  "text": "The engine thread runs through this too, because every cheap missile and every drone needs something to push it.",
+  "speak": "The engine thread runs through this too, because every cheap missile and every drone needs something to push it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Episode 3b told the story of the engine war and the expensive engines it produced.",
+  "speak": "Episode 3b told the story of the engine war and the expensive engines it produced.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The new money is going after the other end: cheap engines, built to be used once.",
+  "speak": "The new money is going after the other end: cheap engines, built to be used once.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Beehive Industries, in Colorado, builds small jet engines with 3D printing.",
+  "speak": "Beehive Industries, in Colorado, builds small jet engines with 3D printing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "In 2026 the Air Force gave it a contract worth $29.7 million to finish a disposable engine for drones and munitions.",
+  "speak": "In twenty twenty-six the Air Force gave it a contract worth 29.7 million dollars to finish a disposable engine for drones and munitions.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Its Frenzy engine weighs about 200 pounds and makes a few hundred pounds of thrust.",
+  "speak": "Its Frenzy engine weighs about 200 pounds and makes a few hundred pounds of thrust.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It's part of an Air Force effort that started in the 2026 budget, the Family of Affordable Mass Missiles, backed by about $620 million.",
+  "speak": "It's part of an Air Force effort that started in the twenty twenty-six budget, the Family of Affordable Mass Missiles, backed by about 620 million dollars.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Ursa Major, also in Colorado, builds rocket engines and solid rocket motors, again largely by 3D printing.",
+  "speak": "Ursa Major, also in Colorado, builds rocket engines and solid rocket motors, again largely by 3D printing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It raised $100 million in late 2025 to move from building a handful of solid rocket motors to building them in volume.",
+  "speak": "It raised 100 million dollars in late twenty twenty-five to move from building a handful of solid rocket motors to building them in volume.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Solid rocket motors are one of the tightest bottlenecks in American missile production.",
+  "speak": "Solid rocket motors are one of the tightest bottlenecks in American missile production.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "For years there were essentially two suppliers.",
+  "speak": "For years there were essentially two suppliers.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "And Castelion's whole idea is an engine-and-airframe problem.",
+  "speak": "And Castelion's whole idea is an engine-and-airframe problem.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A hypersonic missile from the old system, like the Army's Dark Eagle, has been reported at around $41 million per round.",
+  "speak": "A hypersonic missile from the old system, like the Army's Dark Eagle, has been reported at around 41 million dollars per round.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Castelion says Blackbeard is designed around commercial parts and industrial-rate production, with unit costs reported in the hundreds of thousands of dollars.",
+  "speak": "Castelion says Blackbeard is designed around commercial parts and industrial-rate production, with unit costs reported in the hundreds of thousands of dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The Navy ordered its first fifty in 2026.",
+  "speak": "The Navy ordered its first fifty in twenty twenty-six.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "None of this is the glamorous part.",
+  "speak": "None of this is the glamorous part.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Nobody posts a video of a 200-pound turbine on a test stand.",
+  "speak": "Nobody posts a video of a 200-pound turbine on a test stand.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "But Episode 3a, the locked room, made the point that the engine is the part that decides what you can build.",
+  "speak": "But Episode 3a, the locked room, made the point that the engine is the part that decides what you can build.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "If you can't make cheap engines in volume, you can't make cheap missiles in volume.",
+  "speak": "If you can't make cheap engines in volume, you can't make cheap missiles in volume.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "That's where some of this money is going.",
+  "speak": "That's where some of this money is going.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p6",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Six — The Dinosaurs"
+ },
+ {
+  "section": "p6",
+  "text": "Now the other side.",
+  "speak": "Now the other side.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The phrase people use for the old companies is \"dinosaur primes.",
+  "speak": "The phrase people use for the old companies is dinosaur primes.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Lockheed Martin, RTX, Northrop Grumman, General Dynamics, Boeing.",
+  "speak": "Lockheed Martin, R T X, Northrop Grumman, General Dynamics, Boeing.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Here's how the dinosaurs are doing.",
+  "speak": "Here's how the dinosaurs are doing.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "According to Govini data reported by Reuters in December 2025, the big primes still held about 92 percent of Pentagon contracts.",
+  "speak": "According to Govini data reported by Reuters in December twenty twenty-five, the big primes still held about 92 percent of Pentagahn contracts.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Venture-backed defense companies had roughly doubled their share in a year, from a very small number to a slightly larger small number.",
+  "speak": "Venture-backed defense companies had roughly doubled their share in a year, from a very small number to a slightly larger small number.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Pentagon spending with startups more than doubled from fiscal 2023 to fiscal 2025,",
+  "speak": "Pentagahn spending with startups more than doubled from fiscal twenty twenty-three to fiscal twenty twenty-five,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "to about $4.3 billion, and that was still under one percent of Defense Department contract dollars.",
+  "speak": "to about 4.3 billion dollars, and that was still under one percent of Defense Department contract dollars.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "In other words, the startups raised more money from investors in the first quarter of 2026 than the Pentagon paid all of them in a year.",
+  "speak": "In other words, the startups raised more money from investors in the first quarter of twenty twenty-six than the Pentagahn paid all of them in a year.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "And the dinosaurs are investing in the startups.",
+  "speak": "And the dinosaurs are investing in the startups.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Defense contractors including Lockheed Martin, BAE Systems and Airbus took part in a record $4.1 billion of venture rounds in 2026.",
+  "speak": "Defense contractors including Lockheed Martin, B A E Systems and Airbus took part in a record 4.1 billion dollars of venture rounds in twenty twenty-six.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Lockheed grew its venture fund from $400 million to a billion.",
+  "speak": "Lockheed grew its venture fund from 400 million dollars to a billion.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The primes aren't only competing with the new companies.",
+  "speak": "The primes aren't only competing with the new companies.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "They're buying pieces of them.",
+  "speak": "They're buying pieces of them.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "And the government has its own version of this, older than the boom.",
+  "speak": "And the government has its own version of this, older than the boom.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It started almost by accident.",
+  "speak": "It started almost by accident.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "In 1977, three programmers in California took a contract from the CIA to build a database.",
+  "speak": "In nineteen seventy-seven, three programmers in California took a contract from the C I A to build a database.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The agency's code name for the project was Oracle.",
+  "speak": "The agency's code name for the project was Oracle.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The CIA was their first customer, and when they went on to build a commercial product, they asked permission to use the code name.",
+  "speak": "The C I A was their first customer, and when they went on to build a commercial product, they asked permission to use the code name.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "One of the biggest software companies in the world is named after a CIA project.",
+  "speak": "One of the biggest software companies in the world is named after a C I A project.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "In 1999 the CIA made that kind of bet on purpose.",
+  "speak": "In nineteen ninety-nine the C I A made that kind of bet on purpose.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It chartered a nonprofit venture firm called In-Q-Tel, named after Q, the gadget-maker in the James Bond films.",
+  "speak": "It chartered a nonprofit venture firm called In-Q-Tel, named after Q, the gadget-maker in the James Bond films.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The agency pays for it, but it's legally independent.",
+  "speak": "The agency pays for it, but it's legally independent.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Its checks are small, usually under three million dollars.",
+  "speak": "Its checks are small, usually under three million dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "What it brings is a hard technical review and a direct line to the government people who might use the product.",
+  "speak": "What it brings is a hard technical review and a direct line to the government people who might use the product.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Its record is hard to argue with.",
+  "speak": "Its record is hard to argue with.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It backed Keyhole, a satellite mapping startup that Google bought and turned into Google Earth.",
+  "speak": "It backed Keyhole, a satellite mapping startup that Google bought and turned into Google Earth.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It backed Palantir early, when most of Silicon Valley wouldn't touch it.",
+  "speak": "It backed Palantir early, when most of Silicon Valley wouldn't touch it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It backed Anduril in 2017, the year Anduril was founded.",
+  "speak": "It backed Anduril in twenty seventeen, the year Anduril was founded.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "By its own count it has made more than 800 investments, more than 500 of them have gone on to government use,",
+  "speak": "By its own count it has made more than 800 investments, more than 500 of them have gone on to government use,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "and private investors put in many dollars for every dollar it puts in.",
+  "speak": "and private investors put in many dollars for every dollar it puts in.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "In 2025 it was an investor in 32 of the hundred fastest-growing venture-backed defense startups, far more than any other fund.",
+  "speak": "In twenty twenty-five it was an investor in 32 of the hundred fastest-growing venture-backed defense startups, far more than any other fund.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Oracle, Palantir, Anduril.",
+  "speak": "Oracle, Palantir, Anduril.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Three of the biggest names in American software and defense had the intelligence community there near the start.",
+  "speak": "Three of the biggest names in American software and defense had the intelligence community there near the start.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "If the flood of 2026 has a headwater, this is one of the places it started:",
+  "speak": "If the flood of twenty twenty-six has a headwater, this is one of the places it started:",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "a small government fund that took the first risk, so that private money would take the next one.",
+  "speak": "a small government fund that took the first risk, so that private money would take the next one.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "And go back to the box behind the engine.",
+  "speak": "And go back to the box behind the engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The cooling problem on the F-35, which decides how long the jet stays relevant, is being solved by Honeywell and by Collins, both of them old, both of them enormous.",
+  "speak": "The cooling problem on the F 35, which decides how long the jet stays relevant, is being solved by Honeywell and by Collins, both of them old, both of them enormous.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The power station that Episode 3c described is being built by the dinosaurs.",
+  "speak": "The power station that Episode 3c described is being built by the dinosaurs.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "There's a joke in here, and the thread will allow it.",
+  "speak": "There's a joke in here, and the thread will allow it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Birds are dinosaurs.",
+  "speak": "Birds are dinosaurs.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The ones that survived are the ones that got small, fast and light.",
+  "speak": "The ones that survived are the ones that got small, fast and light.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "That's roughly what the new companies are trying to be.",
+  "speak": "That's roughly what the new companies are trying to be.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It's also what the smartest old companies are trying to become.",
+  "speak": "It's also what the smartest old companies are trying to become.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p7",
+  "text": "",
+  "speak": "",
+  "flag": "interpretation",
+  "pause": 2.6,
+  "chapter": "Part Seven — Who Builds It"
+ },
+ {
+  "section": "p7",
+  "text": "A factory is a building.",
+  "speak": "A factory is a building.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "What makes it work is people.",
+  "speak": "What makes it work is people.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Deloitte and the Manufacturing Institute estimated in 2024 that American manufacturing could need as many as 3.8 million new workers between 2024 and 2033,",
+  "speak": "Deloitte and the Manufacturing Institute estimated in twenty twenty-four that American manufacturing could need as many as 3.8 million new workers between twenty twenty-four and twenty thirty-three,",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "and that about half of those jobs, 1.9 million, could go unfilled.",
+  "speak": "and that about half of those jobs, 1.9 million, could go unfilled.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The hardest to fill are skilled production jobs: machinists, welders, electricians, maintenance technicians.",
+  "speak": "The hardest to fill are skilled production jobs: machinists, welders, electricians, maintenance technicians.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The people who run five-axis machines and program the robots.",
+  "speak": "The people who run five-axis machines and program the robots.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Automation doesn't remove that need.",
+  "speak": "Automation doesn't remove that need.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Hadrian's pitch is automated machining, and it still needs technicians.",
+  "speak": "Hadrian's pitch is automated machining, and it still needs technicians.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Saronic is putting AI welding robots into its Louisiana yard, and the robots still need people who understand welding.",
+  "speak": "Saronic is putting A I welding robots into its Louisiana yard, and the robots still need people who understand welding.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Anduril says it's working with high schools in Pickaway County and with Ohio universities on engineering courses.",
+  "speak": "Anduril says it's working with high schools in Pickaway County and with Ohio universities on engineering courses.",
+  "flag": "interpretation",
+  "pause": 1.4
+ },
+ {
+  "section": "p7",
+  "text": "Now a detail the thread didn't expect.",
+  "speak": "Now a detail the thread didn't expect.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Neros, the drone company that wants to build a million drones a year, was founded in 2023 by two young men who had been competitive FPV drone racers as teenagers.",
+  "speak": "Neros, the drone company that wants to build a million drones a year, was founded in twenty twenty-three by two young men who had been competitive F P V drone racers as teenagers.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Racing tiny drones through goggles.",
+  "speak": "Racing tiny drones through goggles.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A hobby that looks, from the outside, a lot like a video game.",
+  "speak": "A hobby that looks, from the outside, a lot like a video game.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Anduril's founder made his first fortune building a virtual reality headset for gamers.",
+  "speak": "Anduril's founder made his first fortune building a virtual reality headset for gamers.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "The skills the new defense industry is hiring for, flying a drone through a window at sixty miles an hour by video link,",
+  "speak": "The skills the new defense industry is hiring for, flying a drone through a window at sixty miles an hour by video link,",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "building and soldering a quad in a garage, writing code that controls a machine, are skills a lot of young people picked up in their bedrooms and basements.",
+  "speak": "building and soldering a quad in a garage, writing code that controls a machine, are skills a lot of young people picked up in their bedrooms and basements.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "It's easy to say a generation has been lost to screens.",
+  "speak": "It's easy to say a generation has been lost to screens.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It may be closer to the truth that some of them were training without knowing what for, and nobody had built the factories to hire them.",
+  "speak": "It may be closer to the truth that some of them were training without knowing what for, and nobody had built the factories to hire them.",
+  "flag": "interpretation",
+  "pause": 2.0
+ },
+ {
+  "section": "p8",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Eight — The Other Side of the Ledger"
+ },
+ {
+  "section": "p8",
+  "text": "Now the case against, because the thread owes it.",
+  "speak": "Now the case against, because the thread owes it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Valuations are not weapons.",
+  "speak": "Valuations are not weapons.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Anduril's $61 billion was about 28 times its 2025 revenue.",
+  "speak": "Anduril's 61 billion dollars was about 28 times its twenty twenty-five revenue.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Shield AI's valuation was reported at more than 40 times its revenue.",
+  "speak": "Shield A I's valuation was reported at more than 40 times its revenue.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The traditional primes trade at a small fraction of that.",
+  "speak": "The traditional primes trade at a small fraction of that.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Investors are paying for a future that hasn't happened yet.",
+  "speak": "Investors are paying for a future that hasn't happened yet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Some of them will be wrong.",
+  "speak": "Some of them will be wrong.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Money is not production.",
+  "speak": "Money is not production.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Castelion has raised more than a billion dollars and has not yet delivered a cheap hypersonic missile at scale.",
+  "speak": "Castelion has raised more than a billion dollars and has not yet delivered a cheap hypersonic missile at scale.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Low-cost hypersonics have no track record in volume.",
+  "speak": "Low-cost hypersonics have no track record in volume.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Dark Eagle was once pitched as the affordable option too.",
+  "speak": "Dark Eagle was once pitched as the affordable option too.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Arsenal-1 is a big hangar with 22 workstations.",
+  "speak": "Arsenal 1 is a big hangar with 22 workstations.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Port Alpha opens in 2028 if all goes well.",
+  "speak": "Port Alpha opens in twenty twenty-eight if all goes well.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "The Pentagon hasn't changed its buying habits yet.",
+  "speak": "The Pentagahn hasn't changed its buying habits yet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Under one percent of contract dollars.",
+  "speak": "Under one percent of contract dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Startups live on investor money until the government buys at scale.",
+  "speak": "Startups live on investor money until the government buys at scale.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "If the contracts don't come, the money stops, and some of these factories will be for sale.",
+  "speak": "If the contracts don't come, the money stops, and some of these factories will be for sale.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "The supply chains are still overseas.",
+  "speak": "The supply chains are still overseas.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A drone made in Torrance needs motors, batteries, magnets and chips.",
+  "speak": "A drone made in Torrance needs motors, batteries, magnets and chips.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Neros advertises a supply chain free of Chinese components down to the chip.",
+  "speak": "Neros advertises a supply chain free of Chinese components down to the chip.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "That it's a selling point tells you how rare it is.",
+  "speak": "That it's a selling point tells you how rare it is.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Rare earth magnets and battery cells are still mostly made elsewhere.",
+  "speak": "Rare earth magnets and battery cells are still mostly made elsewhere.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "And most of the money still went to AI.",
+  "speak": "And most of the money still went to A I.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Eighty-six percent of American venture dollars in the first half of 2026.",
+  "speak": "Eighty-six percent of American venture dollars in the first half of twenty twenty-six.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Defense is the second story, not the first.",
+  "speak": "Defense is the second story, not the first.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The kid building apps that sell ads didn't vanish.",
+  "speak": "The kid building apps that sell ads didn't vanish.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "He's building AI products now, and the investors are still mostly backing him.",
+  "speak": "He's building A I products now, and the investors are still mostly backing him.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p8",
+  "text": "There's also a quieter risk.",
+  "speak": "There's also a quieter risk.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "When defense becomes fashionable, money chases the companies that tell the best story, not always the ones that build the most important part.",
+  "speak": "When defense becomes fashionable, money chases the companies that tell the best story, not always the ones that build the most important part.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A heat exchanger doesn't pitch well.",
+  "speak": "A heat exchanger doesn't pitch well.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A swarm of autonomous jets does.",
+  "speak": "A swarm of autonomous jets does.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "The Box and the Factory"
+ },
+ {
+  "section": "close",
+  "text": "So go back to where this started.",
+  "speak": "So go back to where this started.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "A box behind the engine of an F-35, which decides how much future the jet has, built by an old company and challenged by another old company.",
+  "speak": "A box behind the engine of an F 35, which decides how much future the jet has, built by an old company and challenged by another old company.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Nobody films it.",
+  "speak": "Nobody films it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "And a flood of new money, more than ever before, going into drones, missiles, boats,",
+  "speak": "And a flood of new money, more than ever before, going into drones, missiles, boats,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "engines, parts and factories, in Ohio and Texas and New Mexico and Arizona and Alabama.",
+  "speak": "engines, parts and factories, in Ohio and Texas and New Mexico and Arizona and Alabama.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "These two things look like opposite stories.",
+  "speak": "These two things look like opposite stories.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The old firms and the new firms.",
+  "speak": "The old firms and the new firms.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The dinosaurs and the unicorns.",
+  "speak": "The dinosaurs and the unicorns.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "But they need each other.",
+  "speak": "But they need each other.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The new companies need the old supply chains, the old test ranges, the old certification processes, and the old primes as customers and investors.",
+  "speak": "The new companies need the old supply chains, the old test ranges, the old certification processes, and the old primes as customers and investors.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The old companies need someone to push them, and they're paying for the startups that do.",
+  "speak": "The old companies need someone to push them, and they're paying for the startups that do.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "close",
+  "text": "One reading, and it is one reading, is that 2026 is the year America decided to build things again.",
+  "speak": "One reading, and it is one reading, is that twenty twenty-six is the year America decided to build things again.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Not because anyone planned it that way, but because wars in Ukraine and the Gulf showed that whoever can make the most drones,",
+  "speak": "Not because anyone planned it that way, but because wars in Ukraine and the Gulf showed that whoever can make the most drones,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "missiles and shells wins, and the factories for that weren't here.",
+  "speak": "missiles and shells wins, and the factories for that weren't here.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "If that reading is right, the people who fill those factories are now teenagers.",
+  "speak": "If that reading is right, the people who fill those factories are now teenagers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Some of them are racing drones in their parents' garages.",
+  "speak": "Some of them are racing drones in their parents' garages.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Some are playing video games in basements.",
+  "speak": "Some are playing video games in basements.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Some are in a high school class in Pickaway County learning what a five-axis machine does.",
+  "speak": "Some are in a high school class in Pickaway County learning what a five-axis machine does.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "And if that reading is wrong, a lot of investors will lose a lot of money, and some big buildings in the farmland will go quiet.",
+  "speak": "And if that reading is wrong, a lot of investors will lose a lot of money, and some big buildings in the farmland will go quiet.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The episode doesn't know which.",
+  "speak": "The episode doesn't know which.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "That's the honest ending.",
+  "speak": "That's the honest ending.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "But it knows somebody still has to build the box.",
+  "speak": "But it knows somebody still has to build the box.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "Under every cheap missile in this episode sits a solid rocket motor, and for years America had two companies that could make them.",
+  "speak": "Under every cheap missile in this episode sits a solid rocket motor, and for years America had two companies that could make them.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That may be the next pull.",
+  "speak": "That may be the next pull.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]

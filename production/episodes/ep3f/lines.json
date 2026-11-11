@@ -1,0 +1,1601 @@
+[
+ {
+  "section": "cold",
+  "text": "From fifty feet away, a Navy P-8 Poseidon and an airline 737-800 look like the same airplane.",
+  "speak": "From fifty feet away, a Navy P 8 Poseidon and an airline seven thirty-seven eight hundred look like the same airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Same fuselage.",
+  "speak": "Same fuselage.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Same engines.",
+  "speak": "Same engines.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Same cockpit, more or less.",
+  "speak": "Same cockpit, more or less.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "You've probably flown on one of them.",
+  "speak": "You've probably flown on one of them.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "They are not the same airplane.",
+  "speak": "They are not the same airplane.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Episode 3d argued that the arsenal jet in Episode 2 shouldn't be new.",
+  "speak": "Episode 3d argued that the arsenal jet in Episode 2 shouldn't be new.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It should be an old 737-800 bought out of the desert for something like two million dollars, rebuilt for about ten, and kept as a deterrent.",
+  "speak": "It should be an old seven thirty-seven eight hundred bought out of the desert for something like two million dollars, rebuilt for about ten, and kept as a deterrent.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It said the hard part was the conversion, and it said the conversion cost was unknown.",
+  "speak": "It said the hard part was the conversion, and it said the conversion cost was unknown.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Episode 3e was supposed to lead to solid rocket motors.",
+  "speak": "Episode 3e was supposed to lead to solid rocket motors.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The thread turned back instead.",
+  "speak": "The thread turned back instead.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Because 3d's unknown is the whole plan.",
+  "speak": "Because 3d's unknown is the whole plan.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "So this episode goes into the hangar.",
+  "speak": "So this episode goes into the hangar.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "What would it actually take to give an old airliner a weapons bay like the P-8's?",
+  "speak": "What would it actually take to give an old airliner a weapons bay like the P 8's?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "To hang six missiles under it?",
+  "speak": "To hang six missiles under it?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "And who in the world already does this kind of work, taking airplanes other people have written off and sending them back out nearly new?",
+  "speak": "And who in the world already does this kind of work, taking airplanes other people have written off and sending them back out nearly new?",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "The answer starts with a surprise.",
+  "speak": "The answer starts with a surprise.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The P-8 was never a converted airliner.",
+  "speak": "The P 8 was never a converted airliner.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It was born different.",
+  "speak": "It was born different.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — What the P-8 Actually is"
+ },
+ {
+  "section": "p1",
+  "text": "Boeing calls the P-8's basis the 737-800ERX.",
+  "speak": "Boeing calls the P 8's basis the seven thirty-seven eight hundred E R X.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The fuselage comes from Spirit AeroSystems in Wichita, which builds every 737 fuselage.",
+  "speak": "The fuselage comes from Spirit AeroSystems in Wichita, which builds every seven thirty-seven fuselage.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "But the P-8 fuselage isn't the airline one.",
+  "speak": "But the P 8 fuselage isn't the airline one.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It uses thicker aluminum skin, and its structure is strengthened throughout, floors included, for flying low over the sea and turning hard.",
+  "speak": "It uses thicker aluminum skin, and its structure is strengthened throughout, floors included, for flying low over the sea and turning hard.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The wing isn't the 737-800's either.",
+  "speak": "The wing isn't the seven thirty-seven eight hundred's either.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It's derived from the longer 737-900, strengthened inside, with raked tips instead of winglets.",
+  "speak": "It's derived from the longer seven thirty-seven nine hundred, strengthened inside, with raked tips instead of winglets.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Under it are four weapons pylons, each rated, according to Boeing engineers in 2008, at 3,000 pounds.",
+  "speak": "Under it are four weapons pylons, each rated, according to Boeing engineers in two thousand eight, at 3,000 pounds.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Under the fuselage there are two more hardpoints on the centerline.",
+  "speak": "Under the fuselage there are two more hardpoints on the centerline.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "And behind the wing, in the belly, there's a weapons bay with five stations for torpedoes, mines and depth charges.",
+  "speak": "And behind the wing, in the belly, there's a weapons bay with five stations for torpedoes, mines and depth charges.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "That bay was not cut into a finished airplane.",
+  "speak": "That bay was not cut into a finished airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Spirit added a separate sub-assembly position on the line, so the weapons bay and an auxiliary fuel tank could be built into the fuselage before it was joined up.",
+  "speak": "Spirit added a separate sub-assembly position on the line, so the weapons bay and an auxiliary fuel tank could be built into the fuselage before it was joined up.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The P-8 is built with its bay, the way a car is built with its trunk.",
+  "speak": "The P 8 is built with its bay, the way a car is built with its trunk.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "It also carries about three times the wiring of a standard 737, more cooling ducts, nearly a hundred antennas, and an air-refueling receptacle.",
+  "speak": "It also carries about three times the wiring of a standard seven thirty-seven, more cooling ducts, nearly a hundred antennas, and an air-refueling receptacle.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Its maximum takeoff weight is 189,200 pounds.",
+  "speak": "Its maximum takeoff weight is 189,200 pounds.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "An airline 737-800's is 174,200.",
+  "speak": "An airline seven thirty-seven eight hundred's is 174,200.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Boeing has said the two share about 60 percent of their parts.",
+  "speak": "Boeing has said the two share about 60 percent of their parts.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "So the honest description of the P-8 is a military airplane that shares a family resemblance and a production line with an airliner.",
+  "speak": "So the honest description of the P 8 is a military airplane that shares a family resemblance and a production line with an airliner.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "That's why it cost what it cost.",
+  "speak": "That's why it cost what it cost.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The Navy's 2022 budget put the flyaway cost at $173 million each.",
+  "speak": "The Navy's twenty twenty-two budget put the flyaway cost at 173 million dollars each.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "And one more fact belongs here.",
+  "speak": "And one more fact belongs here.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The Navy's 2027 budget request asks for twelve more P-8s and calls 2027 the last planned year of production.",
+  "speak": "The Navy's twenty twenty-seven budget request asks for twelve more P 8s and calls twenty twenty-seven the last planned year of production.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The final delivery is expected in early fiscal 2032.",
+  "speak": "The final delivery is expected in early fiscal twenty thirty-two.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "After that, the line that knows how to build the bay goes quiet.",
+  "speak": "After that, the line that knows how to build the bay goes quiet.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "inference",
+  "pause": 2.6,
+  "chapter": "Part Two — Why a Bay is Hard to Add"
+ },
+ {
+  "section": "p2",
+  "text": "Now the problem.",
+  "speak": "Now the problem.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A 737-800 coming out of the desert has a fuselage that was built as a pressure vessel.",
+  "speak": "A seven thirty-seven eight hundred coming out of the desert has a fuselage that was built as a pressure vessel.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Every flight, the cabin is pumped up and let down.",
+  "speak": "Every flight, the cabin is pumped up and let down.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A twenty-year-old airliner may have been through tens of thousands of those cycles.",
+  "speak": "A twenty-year-old airliner may have been through tens of thousands of those cycles.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The P-8's bay sits where an airliner has its aft cargo hold, behind the wing, in the belly.",
+  "speak": "The P 8's bay sits where an airliner has its aft cargo hold, behind the wing, in the belly.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "On an airliner that area is inside the pressurized hull.",
+  "speak": "On an airliner that area is inside the pressurized hull.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "To put a bay there on a used jet, you'd have to cut a large opening in the bottom of an old pressure vessel, carry the loads around it,",
+  "speak": "To put a bay there on a used jet, you'd have to cut a large opening in the bottom of an old pressure vessel, carry the loads around it,",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "close the cabin off above it with a new pressure floor, and add doors, hinges, actuators, heating and racks for the stores.",
+  "speak": "close the cabin off above it with a new pressure floor, and add doors, hinges, actuators, heating and racks for the stores.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "That's not a bolt-on.",
+  "speak": "That's not a bolt-on.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "That's surgery on the part of the airplane that keeps it in one piece.",
+  "speak": "That's surgery on the part of the airplane that keeps it in one piece.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Here's what the thread can find, and what it can't.",
+  "speak": "Here's what the thread can find, and what it can't.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It can't find any public record of anyone retrofitting a P-8-style weapons bay into a used commercial 737.",
+  "speak": "It can't find any public record of anyone retrofitting a P 8-style weapons bay into a used commercial seven thirty-seven.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The bay exists only in airplanes built that way from the start.",
+  "speak": "The bay exists only in airplanes built that way from the start.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "That doesn't make it impossible.",
+  "speak": "That doesn't make it impossible.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It means the first one would be a development program, with engineering, a test article,",
+  "speak": "It means the first one would be a development program, with engineering, a test article,",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "fatigue analysis and flight testing, before anyone could quote a price per airplane.",
+  "speak": "fatigue analysis and flight testing, before anyone could quote a price per airplane.",
+  "flag": "inference",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "So if the plan in 3d depends on a weapons bay, the \"unknown\" in its cost table is a large unknown.",
+  "speak": "So if the plan in 3d depends on a weapons bay, the unknown in its cost table is a large unknown.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And it raises a better question.",
+  "speak": "And it raises a better question.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Does the arsenal jet need a bay at all?",
+  "speak": "Does the arsenal jet need a bay at all?",
+  "flag": "inference",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — The Freighter Precedent"
+ },
+ {
+  "section": "p3",
+  "text": "Before answering that, there's a whole industry that already cuts holes in old 737-800s for a living.",
+  "speak": "Before answering that, there's a whole industry that already cuts holes in old seven thirty-seven eight hundreds for a living.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "When a 737-800 gets old for passenger flying, many of the best ones become freighters.",
+  "speak": "When a seven thirty-seven eight hundred gets old for passenger flying, many of the best ones become freighters.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The conversion cuts a large cargo door into the side of the fuselage, reinforces the floor,",
+  "speak": "The conversion cuts a large cargo door into the side of the fuselage, reinforces the floor,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "removes the windows and seats, adds a barrier wall behind the cockpit and changes the systems for cargo.",
+  "speak": "removes the windows and seats, adds a barrier wall behind the cockpit and changes the systems for cargo.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Converters describe roughly 800 separate tasks for a narrowbody like this, and more for a widebody.",
+  "speak": "Converters describe roughly 800 separate tasks for a narrowbody like this, and more for a widebody.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "It takes about 90 to 130 days.",
+  "speak": "It takes about 90 to 130 days.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Analysts and conversion shops put the cost of a 737-800 conversion at roughly four to six million dollars, often done alongside a heavy maintenance check.",
+  "speak": "Analysts and conversion shops put the cost of a seven thirty-seven eight hundred conversion at roughly four to six million dollars, often done alongside a heavy maintenance check.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "Three programs are certified for the 737-800.",
+  "speak": "Three programs are certified for the seven thirty-seven eight hundred.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Boeing's own, the BCF.",
+  "speak": "Boeing's own, the B C F.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "One by Aeronautical Engineers in Miami, the SF.",
+  "speak": "One by Aeronautical Engineers in Miami, the S F.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "And one by Israel Aerospace Industries, through its Bedek division, the BDSF, certified by the FAA in 2020.",
+  "speak": "And one by Israel Aerospace Industries, through its Bedek division, the B D S F, certified by the F A A in twenty twenty.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "So the world already knows how to take a used 737-800, cut a large opening in its pressure hull,",
+  "speak": "So the world already knows how to take a used seven thirty-seven eight hundred, cut a large opening in its pressure hull,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "strengthen around it, certify the result and send it back to work for another fifteen or twenty years.",
+  "speak": "strengthen around it, certify the result and send it back to work for another fifteen or twenty years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "That's not a weapons bay.",
+  "speak": "That's not a weapons bay.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "A side cargo door isn't a hole in the keel.",
+  "speak": "A side cargo door isn't a hole in the keel.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "But it's the same kind of work, done in the same kind of hangar, by the same kind of people, at the same airframe age.",
+  "speak": "But it's the same kind of work, done in the same kind of hangar, by the same kind of people, at the same airframe age.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "That's the most encouraging fact in this episode.",
+  "speak": "That's the most encouraging fact in this episode.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — Six Missiles"
+ },
+ {
+  "section": "p4",
+  "text": "Now the wings.",
+  "speak": "Now the wings.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "The missile the arsenal jet would most likely carry is something like the AGM-158C LRASM, the long-range anti-ship missile, or its land-attack cousin JASSM.",
+  "speak": "The missile the arsenal jet would most likely carry is something like the A G M one fifty-eight C L-Rasm, the long-range anti-ship missile, or its land-attack cousin JASSM.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Published weights for LRASM run from about 2,100 to about 2,760 pounds, depending on the source.",
+  "speak": "Published weights for L-Rasm run from about 2,100 to about 2,760 pounds, depending on the source.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The Navy has paid around three million dollars each.",
+  "speak": "The Navy has paid around three million dollars each.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Six of them is somewhere between thirteen and seventeen thousand pounds, hung on the airplane.",
+  "speak": "Six of them is somewhere between thirteen and seventeen thousand pounds, hung on the airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "And about nineteen million dollars of missiles on a bird the plan hopes to rebuild for ten.",
+  "speak": "And about nineteen million dollars of missiles on a bird the plan hopes to rebuild for ten.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "As 3d said, the magazine is where the money goes.",
+  "speak": "As 3d said, the magazine is where the money goes.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Where would six go?",
+  "speak": "Where would six go?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Here the P-8 offers a neat answer.",
+  "speak": "Here the P 8 offers a neat answer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It has exactly six external stations: four pylons on the wings and two on the centerline.",
+  "speak": "It has exactly six external stations: four pylons on the wings and two on the centerline.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "What the public record doesn't show is whether the centerline stations are cleared for a missile that size.",
+  "speak": "What the public record doesn't show is whether the centerline stations are cleared for a missile that size.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The wing pylons are.",
+  "speak": "The wing pylons are.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In 2025 the Navy released the first official image of a P-8 flying with an LRASM under its wing.",
+  "speak": "In twenty twenty-five the Navy released the first official image of a P 8 flying with an L-Rasm under its wing.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "And that image is the sobering part.",
+  "speak": "And that image is the sobering part.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The Navy started asking industry about putting LRASM on the P-8 in 2020.",
+  "speak": "The Navy started asking industry about putting L-Rasm on the P 8 in twenty twenty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Fit checks happened that July.",
+  "speak": "Fit checks happened that July.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The first official flight image came five years later, with testing still under way.",
+  "speak": "The first official flight image came five years later, with testing still under way.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "That's five years to integrate one missile on an airplane that was designed from the start to carry missiles under its wings.",
+  "speak": "That's five years to integrate one missile on an airplane that was designed from the start to carry missiles under its wings.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "A desert 737-800 has no hardpoints at all.",
+  "speak": "A desert seven thirty-seven eight hundred has no hardpoints at all.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Its wing was built to carry fuel, flaps and two engines, not 3,000-pound stores hanging off fittings in the wing box.",
+  "speak": "Its wing was built to carry fuel, flaps and two engines, not 3,000-pound stores hanging off fittings in the wing box.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Adding pylons means new structure inside the wing, new wiring out to each station, a stores management system,",
+  "speak": "Adding pylons means new structure inside the wing, new wiring out to each station, a stores management system,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "and then testing that each missile falls away cleanly and doesn't make the wing flutter.",
+  "speak": "and then testing that each missile falls away cleanly and doesn't make the wing flutter.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "None of that is impossible.",
+  "speak": "None of that is impossible.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "All of it is engineering, and all of it has to be done once before it can be done many times.",
+  "speak": "All of it is engineering, and all of it has to be done once before it can be done many times.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Five — Maybe Skip the Bay"
+ },
+ {
+  "section": "p5",
+  "text": "Put Parts Two and Four together and a simpler plan falls out.",
+  "speak": "Put Parts Two and Four together and a simpler plan falls out.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "The P-8's bay is for torpedoes, mines and depth charges: weapons for hunting submarines that drop from close range.",
+  "speak": "The P 8's bay is for torpedoes, mines and depth charges: weapons for hunting submarines that drop from close range.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "An arsenal jet in the 3d plan isn't hunting submarines.",
+  "speak": "An arsenal jet in the 3d plan isn't hunting submarines.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It stands far back and launches long-range missiles.",
+  "speak": "It stands far back and launches long-range missiles.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Those go on pylons.",
+  "speak": "Those go on pylons.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "So the arsenal jet may not need a bay at all.",
+  "speak": "So the arsenal jet may not need a bay at all.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Leave the pressure hull alone.",
+  "speak": "Leave the pressure hull alone.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Put the money into the wing.",
+  "speak": "Put the money into the wing.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "That turns the conversion into three jobs instead of four.",
+  "speak": "That turns the conversion into three jobs instead of four.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "One: heavy maintenance and structural inspection, the work freighter converters already do.",
+  "speak": "One: heavy maintenance and structural inspection, the work freighter converters already do.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Two: wing hardpoints and wiring, designed once and installed on every bird.",
+  "speak": "Two: wing hardpoints and wiring, designed once and installed on every bird.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Three: a cockpit and mission system good enough to receive a target and launch, not a full P-8 sensor suite.",
+  "speak": "Three: a cockpit and mission system good enough to receive a target and launch, not a full P 8 sensor suite.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The targeting can come from someone else: a drone, a satellite, a P-8 nearby.",
+  "speak": "The targeting can come from someone else: a drone, a satellite, a P 8 nearby.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "How many missiles?",
+  "speak": "How many missiles?",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Four on the wings is the P-8's proven layout.",
+  "speak": "Four on the wings is the P 8's proven layout.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Six needs the two centerline stations, or a third pylon on each wing, which would be new engineering on an old wing.",
+  "speak": "Six needs the two centerline stations, or a third pylon on each wing, which would be new engineering on an old wing.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A plan that starts with four and grows to six is easier to believe than one that starts at six.",
+  "speak": "A plan that starts with four and grows to six is easier to believe than one that starts at six.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "It also changes the price.",
+  "speak": "It also changes the price.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The freighter world says cutting a cargo door and refitting an old 737-800 costs four to six million dollars.",
+  "speak": "The freighter world says cutting a cargo door and refitting an old seven thirty-seven eight hundred costs four to six million dollars.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A pylon-only conversion is a different job, but it's a job of that kind.",
+  "speak": "A pylon-only conversion is a different job, but it's a job of that kind.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "If the first-article engineering is paid once, a per-airplane cost in single-digit millions isn't crazy.",
+  "speak": "If the first-article engineering is paid once, a per-airplane cost in single-digit millions isn't crazy.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The 3d target of ten million all-in would still be ambitious.",
+  "speak": "The 3d target of ten million all-in would still be ambitious.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It wouldn't be absurd.",
+  "speak": "It wouldn't be absurd.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "That's the author's arithmetic, not a quote.",
+  "speak": "That's the author's arithmetic, not a quote.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Nobody has priced this airplane.",
+  "speak": "Nobody has priced this airplane.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p6",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Six — The Hangar in Israel"
+ },
+ {
+  "section": "p6",
+  "text": "Who does this kind of work as a habit?",
+  "speak": "Who does this kind of work as a habit?",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Israel Aerospace Industries, through the division that used to be called Bedek, has made a business out of airplanes other people are finished with.",
+  "speak": "Israel Aerospace Industries, through the division that used to be called Bedek, has made a business out of airplanes other people are finished with.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It says it has converted more than 260 airliners to freighters over forty years,",
+  "speak": "It says it has converted more than 260 airliners to freighters over forty years,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "and upgraded more than 2,500 military aircraft and helicopters, including F-15s, F-16s, F-4s and Mirages.",
+  "speak": "and upgraded more than 2,500 military aircraft and helicopters, including F 15s, F 16s, F 4s and Mirages.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Around 2010 it took a used Boeing 767, a passenger jet, and turned it into an aerial tanker, the Multi Mission Tanker Transport, for the Colombian Air Force.",
+  "speak": "Around twenty ten it took a used Boeing seven sixty-seven, a passenger jet, and turned it into an aerial tanker, the Multi Mission Tanker Transport, for the Colombian Air Force.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The project took about two years.",
+  "speak": "The project took about two years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Bedek had done the same thing earlier with old Boeing 707s for Israel's own air force.",
+  "speak": "Bedek had done the same thing earlier with old Boeing seven oh sevens for Israel's own air force.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Find a cheap used airframe, do the cargo conversion, add the refueling gear.",
+  "speak": "Find a cheap used airframe, do the cargo conversion, add the refueling gear.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The pitch is a tanker for a fraction of a new one.",
+  "speak": "The pitch is a tanker for a fraction of a new one.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "And then there's the story people usually tell about Israel and the F-15, which is close to true and worth getting exactly right.",
+  "speak": "And then there's the story people usually tell about Israel and the F 15, which is close to true and worth getting exactly right.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "In 2016, nine two-seat F-15Ds from the Oregon Air National Guard's 173rd Fighter Wing went to Israel under an American aid package.",
+  "speak": "In twenty sixteen, nine two-seat F 15 Dees from the Oregon Air National Guard's 173rd Fighter Wing went to Israel under an American aid package.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The Guard had retired them.",
+  "speak": "The Guard had retired them.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "They were supposed to be used for spare parts.",
+  "speak": "They were supposed to be used for spare parts.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Israel didn't use them for parts.",
+  "speak": "Israel didn't use them for parts.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The Israeli Air Force's own maintenance squadron at Tel Nof air base took them apart, worked out decades of undocumented changes,",
+  "speak": "The Israeli Air Force's own maintenance squadron at Tel Nof air base took them apart, worked out decades of undocumented changes,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "and rebuilt each one into the Israeli \"Baz\" configuration, with new weapons and systems.",
+  "speak": "and rebuilt each one into the Israeli Baz configuration, with new weapons and systems.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Each jet took about 170 days.",
+  "speak": "Each jet took about 170 days.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The officer in charge said a project like it had never been done before, so they brought in the people who were the air force's living memory of the Baz.",
+  "speak": "The officer in charge said a project like it had never been done before, so they brought in the people who were the air force's living memory of the Baz.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "So it wasn't IAI, and it wasn't quite a year.",
+  "speak": "So it wasn't I A I, and it wasn't quite a year.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It was an air force depot, about half a year per jet.",
+  "speak": "It was an air force depot, about half a year per jet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "But the idea is the same: an airplane someone else had written off goes into a hangar and comes out a frontline aircraft.",
+  "speak": "But the idea is the same: an airplane someone else had written off goes into a hangar and comes out a frontline aircraft.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "For scale: in December 2025, the Pentagon awarded Boeing $8.58 billion to build 25 new F-15IA fighters for Israel.",
+  "speak": "For scale: in December twenty twenty-five, the Pentagahn awarded Boeing 8.58 billion dollars to build 25 new F 15 I A fighters for Israel.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "That's about $343 million per airplane, including more than the airplane.",
+  "speak": "That's about 343 million dollars per airplane, including more than the airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Israel is buying new F-15s too.",
+  "speak": "Israel is buying new F 15s too.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It also kept the old ones flying.",
+  "speak": "It also kept the old ones flying.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p7",
+  "text": "",
+  "speak": "",
+  "flag": "inference",
+  "pause": 2.6,
+  "chapter": "Part Seven — What It Would Take"
+ },
+ {
+  "section": "p7",
+  "text": "So what would the American version of the hangar year need?",
+  "speak": "So what would the American version of the hangar year need?",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "A design authority.",
+  "speak": "A design authority.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Somebody has to own the engineering for the pylons and the wiring.",
+  "speak": "Somebody has to own the engineering for the pylons and the wiring.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Boeing has the P-8 data.",
+  "speak": "Boeing has the P 8 data.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A freighter converter, or a company like IAI, has the know-how for old 737 structures.",
+  "speak": "A freighter converter, or a company like I A I, has the know-how for old seven thirty-seven structures.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The government would have to decide who owns the drawings.",
+  "speak": "The government would have to decide who owns the drawings.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "A first article.",
+  "speak": "A first article.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "One airplane, converted, instrumented and tested: structure, flutter, missile separation, the stores management software.",
+  "speak": "One airplane, converted, instrumented and tested: structure, flutter, missile separation, the stores management software.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Based on how long LRASM took on the P-8, that's years, not months.",
+  "speak": "Based on how long L-Rasm took on the P 8, that's years, not months.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That's the expensive part, paid once.",
+  "speak": "That's the expensive part, paid once.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "A certification path.",
+  "speak": "A certification path.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Freighter conversions are certified by the FAA.",
+  "speak": "Freighter conversions are certified by the F A A.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "An armed airplane isn't certified that way.",
+  "speak": "An armed airplane isn't certified that way.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It goes through the military's airworthiness process, which can be faster or slower depending on how much the customer wants it.",
+  "speak": "It goes through the military's airworthiness process, which can be faster or slower depending on how much the customer wants it.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Conversion lines.",
+  "speak": "Conversion lines.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "If each bird takes something like a freighter conversion, 90 to 130 days, then one hangar line might turn out three airplanes a year.",
+  "speak": "If each bird takes something like a freighter conversion, 90 to 130 days, then one hangar line might turn out three airplanes a year.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "A hundred and thirty birds would need many lines, or many years.",
+  "speak": "A hundred and thirty birds would need many lines, or many years.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That's where the hangar year becomes a hangar decade, unless the work is spread out.",
+  "speak": "That's where the hangar year becomes a hangar decade, unless the work is spread out.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "A target.",
+  "speak": "A target.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The arsenal jet can only shoot what someone else finds for it.",
+  "speak": "The arsenal jet can only shoot what someone else finds for it.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That part has to exist already.",
+  "speak": "That part has to exist already.",
+  "flag": "inference",
+  "pause": 1.4
+ },
+ {
+  "section": "p7",
+  "text": "And it would take a decision that doesn't fit the Pentagon's habits: to treat the first airplane as the hard part and every one after it as a copy.",
+  "speak": "And it would take a decision that doesn't fit the Pentagahn's habits: to treat the first airplane as the hard part and every one after it as a copy.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That's how freighter converters think.",
+  "speak": "That's how freighter converters think.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It's how the Israeli depot thought about the F-15s.",
+  "speak": "It's how the Israeli depot thought about the F 15s.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It's not how big programs usually think.",
+  "speak": "It's not how big programs usually think.",
+  "flag": "inference",
+  "pause": 2.0
+ },
+ {
+  "section": "p8",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Eight — The Other Side of the Ledger"
+ },
+ {
+  "section": "p8",
+  "text": "Now the case against.",
+  "speak": "Now the case against.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Boeing owns the data.",
+  "speak": "Boeing owns the data.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The P-8's engineering, and much of the 737's, belongs to Boeing.",
+  "speak": "The P 8's engineering, and much of the seven thirty-seven's, belongs to Boeing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A plan that copies the P-8's wing hardpoints onto old airliners would need Boeing's cooperation, or would have to redo the engineering from scratch.",
+  "speak": "A plan that copies the P 8's wing hardpoints onto old airliners would need Boeing's cooperation, or would have to redo the engineering from scratch.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Boeing would rather sell P-8s.",
+  "speak": "Boeing would rather sell P 8s.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "The skills leave with the line.",
+  "speak": "The skills leave with the line.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "When P-8 production ends, the people who know the bay and the pylons move on.",
+  "speak": "When P 8 production ends, the people who know the bay and the pylons move on.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A plan that waits too long has to learn it all again.",
+  "speak": "A plan that waits too long has to learn it all again.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Old wings are old.",
+  "speak": "Old wings are old.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A 737-800 from the desert has a fatigue history.",
+  "speak": "A seven thirty-seven eight hundred from the desert has a fatigue history.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Adding 3,000-pound stores to a wing that was never built for them, and then flying it hard, uses up life fast.",
+  "speak": "Adding 3,000-pound stores to a wing that was never built for them, and then flying it hard, uses up life fast.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "For a one-year mission, maybe that's fine.",
+  "speak": "For a one-year mission, maybe that's fine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "For a deterrent that has to stay credible for fifteen years in storage and then fly, it has to be checked bird by bird.",
+  "speak": "For a deterrent that has to stay credible for fifteen years in storage and then fly, it has to be checked bird by bird.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "An airliner is not survivable.",
+  "speak": "An airliner is not survivable.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "No converted 737 survives being caught by a fighter or a surface-to-air missile.",
+  "speak": "No converted seven thirty-seven survives being caught by a fighter or a surface-to-air missile.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The whole concept depends on launching from far enough away, behind the drones.",
+  "speak": "The whole concept depends on launching from far enough away, behind the drones.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Israel is not America.",
+  "speak": "Israel is not America.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Israel's model works for a small fleet, a short supply chain, and an air force that keeps its own institutional memory.",
+  "speak": "Israel's model works for a small fleet, a short supply chain, and an air force that keeps its own institutional memory.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "American depots are bigger, slower and more contractor-run.",
+  "speak": "American depots are bigger, slower and more contractor-run.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The hangar year in Tel Nof may not translate to a hangar year in Oklahoma.",
+  "speak": "The hangar year in Tel Nof may not translate to a hangar year in Oklahoma.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "And the missiles are still the cost.",
+  "speak": "And the missiles are still the cost.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Nineteen million dollars of missiles on a ten-million-dollar bird.",
+  "speak": "Nineteen million dollars of missiles on a ten-million-dollar bird.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "If the magazine isn't funded, the conversion doesn't matter.",
+  "speak": "If the magazine isn't funded, the conversion doesn't matter.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "A Year in the Hangar"
+ },
+ {
+  "section": "close",
+  "text": "So go back to the two airplanes that look the same from fifty feet away.",
+  "speak": "So go back to the two airplanes that look the same from fifty feet away.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "One was built with its weapons inside it, in a factory line that will close in a few years.",
+  "speak": "One was built with its weapons inside it, in a factory line that will close in a few years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The other sits in the desert waiting to be parted out.",
+  "speak": "The other sits in the desert waiting to be parted out.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The gap between them isn't as wide as the P-8's price suggests, and it isn't as narrow as the plan in 3d hoped.",
+  "speak": "The gap between them isn't as wide as the P 8's price suggests, and it isn't as narrow as the plan in 3d hoped.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "A bay is surgery on the pressure hull, and the thread found no one who has done it to a used jet.",
+  "speak": "A bay is surgery on the pressure hull, and the thread found no one who has done it to a used jet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Wing pylons are hard engineering, done once.",
+  "speak": "Wing pylons are hard engineering, done once.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The rest, the heavy check, the wiring, the paperwork, is work an industry already does every day for freighters.",
+  "speak": "The rest, the heavy check, the wiring, the paperwork, is work an industry already does every day for freighters.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "And somewhere there's a hangar culture that makes this normal: airplanes other people have written off go in, and come out flying.",
+  "speak": "And somewhere there's a hangar culture that makes this normal: airplanes other people have written off go in, and come out flying.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "In Israel it's an air force depot and a company that turns old airliners into tankers.",
+  "speak": "In Israel it's an air force depot and a company that turns old airliners into tankers.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "In America it exists in the freighter shops, mostly building airplanes to carry packages.",
+  "speak": "In America it exists in the freighter shops, mostly building airplanes to carry packages.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Whether the American government would ever pay those shops to build a deterrent, the episode doesn't know.",
+  "speak": "Whether the American government would ever pay those shops to build a deterrent, the episode doesn't know.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "That's the honest ending.",
+  "speak": "That's the honest ending.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "But it knows the hard part is the first one.",
+  "speak": "But it knows the hard part is the first one.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "Every question in this episode ran into the same wall: who owns the drawings.",
+  "speak": "Every question in this episode ran into the same wall: who owns the drawings.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That may be the next pull.",
+  "speak": "That may be the next pull.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]
