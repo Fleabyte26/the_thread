@@ -148,7 +148,7 @@ export const Cold: React.FC<P> = ({ now }) => {
         <div style={{ fontSize: 34, color: C.dim, marginTop: 14, opacity: ramp(now, at("cold", "You'll sometimes hear"), 0.6) }}>The "$100" story is a myth. He got his salary, two medals, and his name on the rifle.</div>
       </div>
       <div style={{ position: "absolute", left: 300, top: 220, opacity: kinds, fontFamily: FONT }}>
-        <div style={{ fontSize: 56, fontWeight: 700, color: C.ink, opacity: ramp(now, at("cold", "They got different kinds"), 0.6) }}>Different kinds of nothing:</div>
+        <div style={{ fontSize: 56, fontWeight: 700, color: C.ink }}>{ramp(now, at("cold", "They got different kinds"), 0.1) > 0.5 ? "Different kinds of nothing:" : "The ones who got nothing?"}</div>
         {list.map(([t, k], i) => (
           <div key={t} style={{ fontSize: 46, color: i === 5 ? C.amber : C.ink, marginTop: 18, opacity: ramp(now, at("cold", k), 0.5) }}>{t}</div>
         ))}
