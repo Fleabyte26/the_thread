@@ -1,7 +1,7 @@
 # THE THREAD — Arsenal 737 notes: the cheap magazine, the dumb truck, the new wing
 
 **Status:** Idea bank, not a script. From the November 11, 2026 conversation.
-**Belongs with:** the arsenal-jet run (Episode 2, 3d "Two Million Dollars a Copy," 3f "The Hangar Year"). Kris raised it as "an idea for episode 3f." 3f already exists as a draft that loads the jet with LRASM and JASSM, so this either revises 3f or becomes the next episode, challenging 3f the way 3d challenged Episode 2. Kris to decide.
+**Belongs with:** the arsenal-jet run (Episode 2, 3d, 3f). Now drafted as a script: `episode_3g_every_runway.md`, which also adds Kris's crisis-basing idea. Kris asked for it as 3f; "The Hangar Year" already holds 3f with a video build, so the draft is filed as 3g pending his call.
 **Discipline:** Kris's ideas are marked as his. Reported facts carry a source. Arithmetic and engineering reasoning are flagged as inference.
 
 ---
