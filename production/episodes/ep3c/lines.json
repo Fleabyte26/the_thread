@@ -1,0 +1,1045 @@
+[
+ {
+  "section": "cold",
+  "text": "The most-produced Western fighter of its generation has a problem, and it isn't speed or stealth.",
+  "speak": "The most-produced Western fighter of its generation has a problem, and it isn't speed or stealth.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "It's electricity.",
+  "speak": "It's electricity.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Every sensor, every processor, every jammer on an F-35 draws power and makes heat.",
+  "speak": "Every sensor, every processor, every jammer on an F 35 draws power and makes heat.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The jet cools its electronics partly with air bled off the engine, and it bleeds more than the designers planned for.",
+  "speak": "The jet cools its electronics partly with air bled off the engine, and it bleeds more than the designers planned for.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "So the engine runs hotter and wears out sooner.",
+  "speak": "So the engine runs hotter and wears out sooner.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The Pentagon's own phrase is that the F135 is being operated outside its design specifications,",
+  "speak": "The Pentagahn's own phrase is that the F135 is being operated outside its design specifications,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "and several of the F-35's promised upgrades are waiting until the 2030s for an engine that can feed them.",
+  "speak": "and several of the F 35's promised upgrades are waiting until the twenty thirties for an engine that can feed them.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "Meanwhile, over Chengdu, a tailless Chinese jet the size of a medium bomber flies on three engines.",
+  "speak": "Meanwhile, over Chengdu, a tailless Chinese jet the size of a medium bomber flies on three engines.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Nobody outside China knows exactly why.",
+  "speak": "Nobody outside China knows exactly why.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "One of the leading explanations is the same word.",
+  "speak": "One of the leading explanations is the same word.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Electricity.",
+  "speak": "Electricity.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The jet engine used to be the thing that pushed the airplane.",
+  "speak": "The jet engine used to be the thing that pushed the airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Somewhere around the F-35 it became the thing that powers the airplane.",
+  "speak": "Somewhere around the F 35 it became the thing that powers the airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "This episode is about that change, and where it goes, all the way to engines that stop being turbines halfway through the flight.",
+  "speak": "This episode is about that change, and where it goes, all the way to engines that stop being turbines halfway through the flight.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — Power, Heat, and the Third Stream"
+ },
+ {
+  "section": "p1",
+  "text": "Start where the cold open left off: an engine asked for more electricity and more cooling than it was designed to give, running hot and wearing out early.",
+  "speak": "Start where the cold open left off: an engine asked for more electricity and more cooling than it was designed to give, running hot and wearing out early.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "There were two ways out.",
+  "speak": "There were two ways out.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "GE had built a working answer.",
+  "speak": "GE had built a working answer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The XA100, developed under the Air Force's Adaptive Engine Transition Program, started testing at Evendale in December 2020.",
+  "speak": "The XA100, developed under the Air Force's Adaptive Engine Transition Program, started testing at Evendale in December twenty twenty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It's an adaptive cycle engine with three air streams instead of two.",
+  "speak": "It's an adaptive cycle engine with three air streams instead of two.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Software shifts the engine between a high-bypass mode for efficient cruise and a low-bypass mode for thrust.",
+  "speak": "Software shifts the engine between a high-bypass mode for efficient cruise and a low-bypass mode for thrust.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The third stream gives the engine a built-in heat sink for the electronics.",
+  "speak": "The third stream gives the engine a built-in heat sink for the electronics.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "GE claimed 10 percent more thrust and 25 percent better fuel efficiency than current fighter engines.",
+  "speak": "GE claimed 10 percent more thrust and 25 percent better fuel efficiency than current fighter engines.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "In March 2023, the Pentagon chose a core upgrade to the existing F135 instead.",
+  "speak": "In March twenty twenty-three, the Pentagahn chose a core upgrade to the existing F135 instead.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The reasons were cost, integration risk, and schedule.",
+  "speak": "The reasons were cost, integration risk, and schedule.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The F135 installed base was huge, and a retrofit that dropped into existing jets beat a whole new engine that would need a new integration program.",
+  "speak": "The F135 installed base was huge, and a retrofit that dropped into existing jets beat a whole new engine that would need a new integration program.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "So the Engine Core Upgrade it is.",
+  "speak": "So the Engine Core Upgrade it is.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It's a drop-in core for all three F-35 variants, in new production and in retrofit.",
+  "speak": "It's a drop-in core for all three F 35 variants, in new production and in retrofit.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The point is to restore full engine life and add electrical power and cooling margin.",
+  "speak": "The point is to restore full engine life and add electrical power and cooling margin.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Pratt passed preliminary design review in July 2024.",
+  "speak": "Pratt passed preliminary design review in July twenty twenty-four.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It got a contract worth up to $1.3 billion in September 2025.",
+  "speak": "It got a contract worth up to 1.3 billion dollars in September twenty twenty-five.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "On September 15, 2026, it completed the Risk Reduction Design Review.",
+  "speak": "On September 15, twenty twenty-six, it completed the Risk Reduction Design Review.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Ground testing is planned for late 2027, flight testing around 2030, and production around 2031.",
+  "speak": "Ground testing is planned for late twenty twenty-seven, flight testing around twenty thirty, and production around twenty thirty-one.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Several Block 4 capabilities that depend on the new core have slid past 2031, and some internal planning points to around 2033.",
+  "speak": "Several Block 4 capabilities that depend on the new core have slid past twenty thirty-one, and some internal planning points to around twenty thirty-three.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "So the F-35, the most-produced Western fighter of its generation, is waiting on its engine to grow up before it can carry everything it was promised.",
+  "speak": "So the F 35, the most-produced Western fighter of its generation, is waiting on its engine to grow up before it can carry everything it was promised.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Two — The Next Contest"
+ },
+ {
+  "section": "p2",
+  "text": "Meanwhile, the adaptive idea moved to the next airplane.",
+  "speak": "Meanwhile, the adaptive idea moved to the next airplane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Boeing won the F-47 sixth-generation fighter contract on March 21, 2025.",
+  "speak": "Boeing won the F 47 sixth-generation fighter contract on March 21, twenty twenty-five.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Its engine will come from the Next Generation Adaptive Propulsion program, NGAP.",
+  "speak": "Its engine will come from the Next Generation Adaptive Propulsion program, NGAP.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Two contenders: GE's XA102, descended from the XA100, and Pratt & Whitney's XA103, which uses F135 tooling and supply chains.",
+  "speak": "Two contenders: GE's XA102, descended from the XA100, and Pratt & Whitney's XA103, which uses F135 tooling and supply chains.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Both finished Assembly Readiness Reviews in May 2026.",
+  "speak": "Both finished Assembly Readiness Reviews in May twenty twenty-six.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Pratt finished on May 8, GE on May 11.",
+  "speak": "Pratt finished on May 8, GE on May 11.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "In September 2026, GE said it was buying hardware and testing subcomponents before building the first XA102.",
+  "speak": "In September twenty twenty-six, GE said it was buying hardware and testing subcomponents before building the first XA102.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The F-47 is supposed to fly for the first time in 2028.",
+  "speak": "The F 47 is supposed to fly for the first time in twenty twenty-eight.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The production NGAP engine is expected around 2030.",
+  "speak": "The production NGAP engine is expected around twenty thirty.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The Air Force has said the first flight will probably use an interim engine.",
+  "speak": "The Air Force has said the first flight will probably use an interim engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "TWZ points out there's historical precedent for a new fighter flying on a stopgap engine.",
+  "speak": "TWZ points out there's historical precedent for a new fighter flying on a stopgap engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The F-14 flew on TF30s for years before the F110 arrived.",
+  "speak": "The F 14 flew on TF30s for years before the F110 arrived.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The thread keeps folding back on itself.",
+  "speak": "The thread keeps folding back on itself.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — The Heavies Get British-German Hearts"
+ },
+ {
+  "section": "p3",
+  "text": "And the oldest bomber is getting the most commercial engine of all.",
+  "speak": "And the oldest bomber is getting the most commercial engine of all.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In September 2021, the Air Force picked Rolls-Royce's F130 to re-engine all 76 B-52H bombers:",
+  "speak": "In September twenty twenty-one, the Air Force picked Rolls-Royce's F130 to re-engine all 76 B 52H bombers:",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "608 engines, assembled in Indianapolis, derived from the BR725 that flies on Gulfstream business jets.",
+  "speak": "608 engines, assembled in Indianapolis, derived from the BR725 that flies on Gulfstream business jets.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The BR700 family came out of a 1990s joint venture between Rolls-Royce and BMW.",
+  "speak": "The BR700 family came out of a nineteen nineties joint venture between Rolls-Royce and BMW.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The program cleared its full Critical Design Review on May 4, 2026, which moved it into prototype modification and flight test.",
+  "speak": "The program cleared its full Critical Design Review on May 4, twenty twenty-six, which moved it into prototype modification and flight test.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Test engines are expected in 2027.",
+  "speak": "Test engines are expected in twenty twenty-seven.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The re-engining is estimated at around $15 billion, and the Pentagon Inspector General puts the B-52's wider modernization at $48.6 billion.",
+  "speak": "The re-engining is estimated at around 15 billion dollars, and the Pentagahn Inspector General puts the B 52's wider modernization at 48.6 billion dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The re-engined jets will be called the B-52J.",
+  "speak": "The re-engined jets will be called the B 52J.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Once modified, the plan is for the B-52 to fly into the 2050s, about a hundred years after the first one flew.",
+  "speak": "Once modified, the plan is for the B 52 to fly into the twenty fifties, about a hundred years after the first one flew.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "The bomber that the B-1, and its F101 engines, was supposed to replace will outlive the B-1.",
+  "speak": "The bomber that the B 1, and its F101 engines, was supposed to replace will outlive the B 1.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "And it'll do it on an engine from a business jet, designed by a British company in partnership with a German one and built in Indiana.",
+  "speak": "And it'll do it on an engine from a business jet, designed by a British company in partnership with a German one and built in Indiana.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The locked room has a lot of doors now.",
+  "speak": "The locked room has a lot of doors now.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — The Three-Engine Monster"
+ },
+ {
+  "section": "p4",
+  "text": "On December 26, 2024, people in Chengdu filmed a very large, tailless, diamond-winged aircraft flying over the city.",
+  "speak": "On December 26, twenty twenty-four, people in Chengdu filmed a very large, tailless, diamond-winged aircraft flying over the city.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Analysts called it the J-36, from the serial number 36011 painted on it.",
+  "speak": "Analysts called it the J 36, from the serial number 36011 painted on it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It had three engines: two fed by intakes on the sides of the fuselage, and a third fed by a separate intake on top.",
+  "speak": "It had three engines: two fed by intakes on the sides of the fuselage, and a third fed by a separate intake on top.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "No fighter had ever been built that way.",
+  "speak": "No fighter had ever been built that way.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "At least three or four prototypes have been seen since.",
+  "speak": "At least three or four prototypes have been seen since.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "On June 28, 2026, the PLA put a few seconds of it in an official video.",
+  "speak": "On June 28, twenty twenty-six, the P L A put a few seconds of it in an official video.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "That was Beijing letting the world know it exists.",
+  "speak": "That was Beijing letting the world know it exists.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Estimates of its size vary.",
+  "speak": "Estimates of its size vary.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Analysts guess a maximum takeoff weight of fifty to sixty tonnes.",
+  "speak": "Analysts guess a maximum takeoff weight of fifty to sixty tonnes.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "One analysis gives a length of about 75 feet and a weapons bay about 25 feet long.",
+  "speak": "One analysis gives a length of about 75 feet and a weapons bay about 25 feet long.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It's closer to a medium bomber than to an F-22.",
+  "speak": "It's closer to a medium bomber than to an F 22.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Why three engines?",
+  "speak": "Why three engines?",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "There are three explanations going around, and they don't rule each other out.",
+  "speak": "There are three explanations going around, and they don't rule each other out.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "One: China's engines aren't strong enough yet.",
+  "speak": "One: China's engines aren't strong enough yet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "This is the blunt one.",
+  "speak": "This is the blunt one.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Chinese engines still trail American and European engines in thrust, so adding a third may be the only way to push an airframe this big to supersonic speed.",
+  "speak": "Chinese engines still trail American and European engines in thrust, so adding a third may be the only way to push an airframe this big to supersonic speed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Quwa suggests the current engines might be WS-10C variants as an interim solution.",
+  "speak": "Quwa suggests the current engines might be WS 10C variants as an interim solution.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Other analysts mention the WS-15 or the newer WS-19.",
+  "speak": "Other analysts mention the WS 15 or the newer WS 19.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "None of this is confirmed.",
+  "speak": "None of this is confirmed.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Two: endurance and supercruise.",
+  "speak": "Two: endurance and supercruise.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "More total thrust without afterburner means a heavy, long-range aircraft can cruise fast.",
+  "speak": "More total thrust without afterburner means a heavy, long-range aircraft can cruise fast.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Three: electricity.",
+  "speak": "Three: electricity.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "This is the one the author keeps coming back to.",
+  "speak": "This is the one the author keeps coming back to.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Quwa, TWZ, and others have all made the case that the third engine is less about lifting the aircraft and more about powering it: a very large radar,",
+  "speak": "Quwa, TWZ, and others have all made the case that the third engine is less about lifting the aircraft and more about powering it: a very large radar,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "high-output electronic warfare, the computing and datalinks to run drones at scale, and possibly directed-energy weapons, high-energy lasers or high-power microwaves.",
+  "speak": "high-output electronic warfare, the computing and datalinks to run drones at scale, and possibly directed-energy weapons, high-energy lasers or high-power microwaves.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "TWZ notes that there has been talk of a laser for the J-36 and is careful to add that fielding an airborne laser that can do real damage has historically been very hard, because of size, power, and cooling.",
+  "speak": "TWZ notes that there has been talk of a laser for the J 36 and is careful to add that fielding an airborne laser that can do real damage has historically been very hard, because of size, power, and cooling.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "The author wants to push the third explanation one step further than the sources do.",
+  "speak": "The author wants to push the third explanation one step further than the sources do.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Suppose the dorsal engine isn't the same as the other two.",
+  "speak": "Suppose the dorsal engine isn't the same as the other two.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Suppose it runs at a different bypass ratio, or is optimized for driving a generator and providing cooling airflow rather than thrust.",
+  "speak": "Suppose it runs at a different bypass ratio, or is optimized for driving a generator and providing cooling airflow rather than thrust.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Then the J-36 isn't really a three-engine fighter.",
+  "speak": "Then the J 36 isn't really a three-engine fighter.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It's a two-engine fighter carrying its own power plant.",
+  "speak": "It's a two-engine fighter carrying its own power plant.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "That would be China's answer to exactly the problem the F-35 is waiting until 2031 to fix,",
+  "speak": "That would be China's answer to exactly the problem the F 35 is waiting until twenty thirty-one to fix,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "and that the XA102 and XA103 are designed to fix with a third air stream inside a single engine.",
+  "speak": "and that the XA102 and XA103 are designed to fix with a third air stream inside a single engine.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "The American answer is one engine with three streams.",
+  "speak": "The American answer is one engine with three streams.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The Chinese answer might be three engines doing different jobs.",
+  "speak": "The Chinese answer might be three engines doing different jobs.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Nobody outside Chengdu knows.",
+  "speak": "Nobody outside Chengdu knows.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "No public source has confirmed a different engine in the dorsal position.",
+  "speak": "No public source has confirmed a different engine in the dorsal position.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Hold this as a question, not a finding.",
+  "speak": "Hold this as a question, not a finding.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "What isn't speculation is the shape of the problem.",
+  "speak": "What isn't speculation is the shape of the problem.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Every power-hungry thing a sixth-generation aircraft is supposed to do (sensors, jamming, autonomy,",
+  "speak": "Every power-hungry thing a sixth-generation aircraft is supposed to do (sensors, jamming, autonomy,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "lasers) is ultimately limited by how much electricity and cooling the engines can supply.",
+  "speak": "lasers) is ultimately limited by how much electricity and cooling the engines can supply.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The engine stopped being only about thrust somewhere around the F-35.",
+  "speak": "The engine stopped being only about thrust somewhere around the F 35.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Now it's a power station that also flies.",
+  "speak": "Now it's a power station that also flies.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Five — Past the Turbine"
+ },
+ {
+  "section": "p5",
+  "text": "And at the far end of the thread, the engine stops being just a turbine.",
+  "speak": "And at the far end of the thread, the engine stops being just a turbine.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "A turbine-based combined cycle engine, TBCC, pairs a turbojet or turbofan for takeoff and low speed with a ramjet, or a dual-mode ramjet and scramjet, for high speed.",
+  "speak": "A turbine-based combined cycle engine, TBCC, pairs a turbojet or turbofan for takeoff and low speed with a ramjet, or a dual-mode ramjet and scramjet, for high speed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The hard part has always been the handover: getting the turbine to carry the vehicle fast enough for the ramjet to take over.",
+  "speak": "The hard part has always been the handover: getting the turbine to carry the vehicle fast enough for the ramjet to take over.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "GE has spent about two decades building the pieces.",
+  "speak": "GE has spent about two decades building the pieces.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "One is a high-Mach turbine.",
+  "speak": "One is a high-Mach turbine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Another is a rotating detonation combustor,",
+  "speak": "Another is a rotating detonation combustor,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "which burns fuel in detonation waves circling an annular chamber rather than in steady combustion and promises better efficiency.",
+  "speak": "which burns fuel in detonation waves circling an annular chamber rather than in steady combustion and promises better efficiency.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "At the Paris Air Show, GE revealed a DARPA-backed TBCC demonstrator that combines a rotating-detonation-equipped turbine with a dual-mode ramjet/scramjet,",
+  "speak": "At the Paris Air Show, GE revealed a DARPA-backed TBCC demonstrator that combines a rotating-detonation-equipped turbine with a dual-mode ramjet/scramjet,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "and said it was testing the transition at high supersonic speed.",
+  "speak": "and said it was testing the transition at high supersonic speed.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "In January 2026, GE and Lockheed Martin announced direct-connect tests of a rotating detonation ramjet for hypersonic missiles,",
+  "speak": "In January twenty twenty-six, GE and Lockheed Martin announced direct-connect tests of a rotating detonation ramjet for hypersonic missiles,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "run at GE's research center in Niskayuna, New York.",
+  "speak": "run at GE's research center in Niskayuna, New York.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Both companies said the results beat expectations.",
+  "speak": "Both companies said the results beat expectations.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Then there's Hermeus, founded in 2018 in Atlanta.",
+  "speak": "Then there's Hermeus, founded in twenty eighteen in Atlanta.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Its Chimera engine is a TBCC that hands over from turbojet to ramjet inside a single engine.",
+  "speak": "Its Chimera engine is a TBCC that hands over from turbojet to ramjet inside a single engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The first Quarterhorse vehicles are built around a GE J85.",
+  "speak": "The first Quarterhorse vehicles are built around a GE J85.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The bigger Chimera II uses Pratt & Whitney's F100, the F-15 and F-16 engine, as its turbine section.",
+  "speak": "The bigger Chimera II uses Pratt & Whitney's F100, the F 15 and F 16 engine, as its turbine section.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "In April 2026, Hermeus closed a Series C at a $1 billion post-money valuation.",
+  "speak": "In April twenty twenty-six, Hermeus closed a Series C at a 1 billion dollars post-money valuation.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "There's the repurposed F100.",
+  "speak": "There's the repurposed F100.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Not in a drone fighter, but in a hypersonic engine.",
+  "speak": "Not in a drone fighter, but in a hypersonic engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The engine that stalled in the 1970s, got fixed by the Great Engine War,",
+  "speak": "The engine that stalled in the nineteen seventies, got fixed by the Great Engine War,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "and pushed F-15s for fifty years is now being used as the low-speed first stage of something meant to go five times the speed of sound.",
+  "speak": "and pushed F 15s for fifty years is now being used as the low-speed first stage of something meant to go five times the speed of sound.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Old cores don't die.",
+  "speak": "Old cores don't die.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "They get repurposed.",
+  "speak": "They get repurposed.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "The Power Station That Flies"
+ },
+ {
+  "section": "close",
+  "text": "The F-35 is waiting until the 2030s for a core that can feed its sensors.",
+  "speak": "The F 35 is waiting until the twenty thirties for a core that can feed its sensors.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The F-47 will probably fly first on an interim engine while two adaptive engines fight it out.",
+  "speak": "The F 47 will probably fly first on an interim engine while two adaptive engines fight it out.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The B-52 is getting business-jet engines to fly for a hundred years.",
+  "speak": "The B 52 is getting business-jet engines to fly for a hundred years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "China put three engines in one jet, maybe because its engines are weak, maybe because it wants a power plant on board, maybe both.",
+  "speak": "China put three engines in one jet, maybe because its engines are weak, maybe because it wants a power plant on board, maybe both.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And past all of that, GE and Hermeus are building engines that hand off to ramjets at speeds where turbines can't go.",
+  "speak": "And past all of that, GE and Hermeus are building engines that hand off to ramjets at speeds where turbines can't go.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Every one of those stories is the same story: the engine stopped being a source of thrust and became a source of power.",
+  "speak": "Every one of those stories is the same story: the engine stopped being a source of thrust and became a source of power.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Whoever can make the most electricity and get rid of the most heat, in the smallest,",
+  "speak": "Whoever can make the most electricity and get rid of the most heat, in the smallest,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "lightest package, gets to carry the sensors, the jammers, the autonomy, and maybe the lasers.",
+  "speak": "lightest package, gets to carry the sensors, the jammers, the autonomy, and maybe the lasers.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The American bet is one engine with three air streams.",
+  "speak": "The American bet is one engine with three air streams.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The Chinese bet may be three engines with different jobs.",
+  "speak": "The Chinese bet may be three engines with different jobs.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Which bet is right, the episode doesn't know.",
+  "speak": "Which bet is right, the episode doesn't know.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "That's the honest ending.",
+  "speak": "That's the honest ending.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "Generators, cooling loops, and the companies that build them are the part of the power story nobody films.",
+  "speak": "Generators, cooling loops, and the companies that build them are the part of the power story nobody films.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That may be the next pull.",
+  "speak": "That may be the next pull.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]

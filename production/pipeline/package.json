@@ -1,0 +1,20 @@
+{
+  "name": "the-thread-ep3",
+  "private": true,
+  "scripts": {
+    "narration": "python3 scripts/build_narration.py",
+    "music": "python3 scripts/make_music.py",
+    "studio": "remotion studio src/index.ts",
+    "render": "python3 scripts/render.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.542",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.542"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/react": "18.3.12"
+  }
+}

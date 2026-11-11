@@ -1,0 +1,919 @@
+[
+ {
+  "section": "cold",
+  "text": "In the late 1970s, an F-15 or F-16 pilot at high altitude and high Mach could light the afterburner and, every so often, hear the engine choke.",
+  "speak": "In the late nineteen seventies, an F 15 or F 16 pilot at high altitude and high Mach could light the afterburner and, every so often, hear the engine choke.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "The afterburner would fail to light, or light and blow out, and the fuel being sprayed into the exhaust would go off all at once.",
+  "speak": "The afterburner would fail to light, or light and blow out, and the fuel being sprayed into the exhaust would go off all at once.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The pressure wave ran forward through the engine and stalled it.",
+  "speak": "The pressure wave ran forward through the engine and stalled it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "On a twin-engine Eagle, that was a bad day.",
+  "speak": "On a twin-engine Eagle, that was a bad day.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "On a single-engine Viper, it was a much worse one.",
+  "speak": "On a single-engine Viper, it was a much worse one.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "The Air Force's answer wasn't a better engine.",
+  "speak": "The Air Force's answer wasn't a better engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It was a second company.",
+  "speak": "It was a second company.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It built a rival from the core of a bomber engine and made the two of them fight for every contract, every year, for almost a decade.",
+  "speak": "It built a rival from the core of a bomber engine and made the two of them fight for every contract, every year, for almost a decade.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It called that a success.",
+  "speak": "It called that a success.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Then, thirty years later, when Congress tried to do it again for the F-35, the Pentagon killed it.",
+  "speak": "Then, thirty years later, when Congress tried to do it again for the F 35, the Pentagahn killed it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "And on November 5, 2025, a startup building an AI-piloted fighter announced which engine it had chosen: the one that came out of that fight.",
+  "speak": "And on November 5, twenty twenty-five, a startup building an AI-piloted fighter announced which engine it had chosen: the one that came out of that fight.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — The Other Door"
+ },
+ {
+  "section": "p1",
+  "text": "In 1970 the Air Force picked General Electric's F101 to power the B-1 bomber.",
+  "speak": "In nineteen seventy the Air Force picked General Electric's F101 to power the B 1 bomber.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The heart of it, the high-pressure core, became famous for leaving the country: shipped to France and kept in a locked room, it became the CFM56 airliner engine.",
+  "speak": "The heart of it, the high-pressure core, became famous for leaving the country: shipped to France and kept in a locked room, it became the CFM56 airliner engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "That's another episode.",
+  "speak": "That's another episode.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "But the same core also stayed home and became a fighter engine.",
+  "speak": "But the same core also stayed home and became a fighter engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "And that story is a fight.",
+  "speak": "And that story is a fight.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Go back to the F-15.",
+  "speak": "Go back to the F 15.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "When the Eagle entered service, it flew on Pratt & Whitney's F100.",
+  "speak": "When the Eagle entered service, it flew on Pratt & Whitney's F100.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "On paper the F100 was brilliant.",
+  "speak": "On paper the F100 was brilliant.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The first version produced nearly 24,000 pounds of thrust in afterburner and hit its target thrust-to-weight ratio of eight,",
+  "speak": "The first version produced nearly 24,000 pounds of thrust in afterburner and hit its target thrust-to-weight ratio of eight,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "which is what gave the F-15 its startling climb.",
+  "speak": "which is what gave the F 15 its startling climb.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "In service it had problems.",
+  "speak": "In service it had problems.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The early F100-PW-100 and -200 suffered stall stagnations and a short life, which meant high maintenance costs.",
+  "speak": "The early F100-PW 100 and 200 suffered stall stagnations and a short life, which meant high maintenance costs.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The stall mechanism, as it was understood, went like this: the afterburner would fail to light, or would light and then blow out,",
+  "speak": "The stall mechanism, as it was understood, went like this: the afterburner would fail to light, or would light and then blow out,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "and the big jets of fuel being sprayed into the exhaust would ignite all at once, sending a pressure wave forward that stalled the engine.",
+  "speak": "and the big jets of fuel being sprayed into the exhaust would ignite all at once, sending a pressure wave forward that stalled the engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "These stalls tended to happen at high Mach and high altitude, and if nobody corrected them they could seriously damage the turbine.",
+  "speak": "These stalls tended to happen at high Mach and high altitude, and if nobody corrected them they could seriously damage the turbine.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The F-16 entered service on the same engine family.",
+  "speak": "The F 16 entered service on the same engine family.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "A single-engine fighter with an engine that sometimes stalls is a very different thing from a twin-engine fighter with the same habit.",
+  "speak": "A single-engine fighter with an engine that sometimes stalls is a very different thing from a twin-engine fighter with the same habit.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Two — The Great Engine War"
+ },
+ {
+  "section": "p2",
+  "text": "So the Air Force did something unusual.",
+  "speak": "So the Air Force did something unusual.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It created its own competitor.",
+  "speak": "It created its own competitor.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "It started funding a GE engine called the F101 Derivative Fighter Engine, the bomber core again, as a rival to the F100, partly to put some urgency into Pratt & Whitney.",
+  "speak": "It started funding a GE engine called the F101 Derivative Fighter Engine, the bomber core again, as a rival to the F100, partly to put some urgency into Pratt & Whitney.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The F101 DFE flew in an F-16 after ground tests finished in 1980 and showed a considerable improvement in performance and operability over the F100 then in service.",
+  "speak": "The F101 DFE flew in an F 16 after ground tests finished in nineteen eighty and showed a considerable improvement in performance and operability over the F100 then in service.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "In 1983 and 1984 the Air Force launched the Alternate Fighter Engine competition.",
+  "speak": "In nineteen eighty-three and nineteen eighty-four the Air Force launched the Alternate Fighter Engine competition.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The Secretary of the Air Force, Verne Orr, called it perhaps the most significant Air Force acquisition initiative in years.",
+  "speak": "The Secretary of the Air Force, Verne Orr, called it perhaps the most significant Air Force acquisition initiative in years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Everyone else called it the Great Engine War.",
+  "speak": "Everyone else called it the Great Engine War.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "From 1984 the Air Force bought both engines, competing the contracts every fiscal year, with the split between Pratt and GE shifting from year to year.",
+  "speak": "From nineteen eighty-four the Air Force bought both engines, competing the contracts every fiscal year, with the split between Pratt and GE shifting from year to year.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The competitions ran until 1992.",
+  "speak": "The competitions ran until nineteen ninety-two.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "The F101 DFE became the F110.",
+  "speak": "The F101 DFE became the F110.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Pratt's answer, the F100-PW-220, eliminated almost all of the stall-stagnation and afterburner instability problems of the -100 and doubled the time between depot overhauls.",
+  "speak": "Pratt's answer, the F100-PW 220, eliminated almost all of the stall-stagnation and afterburner instability problems of the 100 and doubled the time between depot overhauls.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The Navy looked at the Air Force's results and chose the F110 to re-engine the F-14 Tomcat in 1984,",
+  "speak": "The Navy looked at the Air Force's results and chose the F110 to re-engine the F 14 Tomcat in nineteen eighty-four,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "which is the engine that finally gave the Tomcat the power its pilots had wanted since 1973.",
+  "speak": "which is the engine that finally gave the Tomcat the power its pilots had wanted since nineteen seventy-three.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Then, in the mid-1980s, the Air Force ran another round, the Improved Performance Engine program, aiming at the 29,000-pound class.",
+  "speak": "Then, in the mid-nineteen eighties, the Air Force ran another round, the Improved Performance Engine program, aiming at the 29,000-pound class.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Out came the F100-PW-229 and the F110-GE-129.",
+  "speak": "Out came the F100-PW 229 and the F110-GE 129.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "The Air Force's own historian of the episode, Colonel Robert Drewes,",
+  "speak": "The Air Force's own historian of the episode, Colonel Robert Drewes,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "wrote that the outcome deserved not criticism but praise: a story, as he put it, of government setting things right.",
+  "speak": "wrote that the outcome deserved not criticism but praise: a story, as he put it, of government setting things right.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Competition worked.",
+  "speak": "Competition worked.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Two locked rooms were better than one.",
+  "speak": "Two locked rooms were better than one.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Remember that, because the Pentagon would forget it.",
+  "speak": "Remember that, because the Pentagahn would forget it.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Three — The Engine That Wouldn't Retire"
+ },
+ {
+  "section": "p3",
+  "text": "The F110-GE-129 is still in production.",
+  "speak": "The F110-GE 129 is still in production.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It powers F-16s from Block 50 onward, the F-15E, and the newest Eagle, the F-15EX.",
+  "speak": "It powers F 16s from Block 50 onward, the F 15E, and the newest Eagle, the F 15EX.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's built under license in Japan, Turkey, and South Korea.",
+  "speak": "It's built under license in Japan, Turkey, and South Korea.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "GE says it has passed eleven million flight hours and forty years of continuous production.",
+  "speak": "GE says it has passed eleven million flight hours and forty years of continuous production.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "And on November 5, 2025, Shield AI announced that it had picked the F110-GE-129 to power X-BAT.",
+  "speak": "And on November 5, twenty twenty-five, Shield AI announced that it had picked the F110-GE 129 to power X-BAT.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "X-BAT is the AI-piloted, vertical-takeoff jet fighter Shield AI unveiled in Washington in October 2025.",
+  "speak": "X-BAT is the AI-piloted, vertical-takeoff jet fighter Shield AI unveiled in Washington in October twenty twenty-five.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Roughly 26 feet long with a 39-foot wingspan, a ceiling near 50,000 feet, more than 2,000 nautical miles of range, and an internal weapons bay.",
+  "speak": "Roughly 26 feet long with a 39-foot wingspan, a ceiling near 50,000 feet, more than 2,000 nautical miles of range, and an internal weapons bay.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's designed to operate from ships, trailers, and rough forward strips, flown by Shield AI's Hivemind autonomy software, either alone or as a wingman for crewed jets.",
+  "speak": "It's designed to operate from ships, trailers, and rough forward strips, flown by Shield AI's Hivemind autonomy software, either alone or as a wingman for crewed jets.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "CNBC put the price at around $27 million each.",
+  "speak": "CNBC put the price at around 27 million dollars each.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "To take off vertically, the F110 will carry GE's Axisymmetric Vectoring Exhaust Nozzle, AVEN,",
+  "speak": "To take off vertically, the F110 will carry GE's Axisymmetric Vectoring Exhaust Nozzle, AVEN,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "a 3D thrust-vectoring nozzle that GE first tested decades ago on the NF-16D VISTA research jet.",
+  "speak": "a 3D thrust-vectoring nozzle that GE first tested decades ago on the NF 16D VISTA research jet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Shield AI says the vectoring is used for vertical flight and also for maneuvering in normal flight.",
+  "speak": "Shield AI says the vectoring is used for vertical flight and also for maneuvering in normal flight.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "The author's working notes had X-BAT flying on repurposed old F100s.",
+  "speak": "The author's working notes had X-BAT flying on repurposed old F100s.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "That's wrong.",
+  "speak": "That's wrong.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "X-BAT uses the GE F110, the bomber-core engine, and the truth is a better thread than the note.",
+  "speak": "X-BAT uses the GE F110, the bomber-core engine, and the truth is a better thread than the note.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The engine family that came out of the B-1's heart in 1970 is now meant to power an AI fighter in the 2030s.",
+  "speak": "The engine family that came out of the B 1's heart in nineteen seventy is now meant to power an AI fighter in the twenty thirties.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "The F100 does turn up in a repurposing story, just not this one.",
+  "speak": "The F100 does turn up in a repurposing story, just not this one.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's the turbine inside a hypersonic engine, and that's a later episode.",
+  "speak": "It's the turbine inside a hypersonic engine, and that's a later episode.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Four — The TF34 and the Cost of Hurrying"
+ },
+ {
+  "section": "p4",
+  "text": "Here is a smaller story about the same industry.",
+  "speak": "Here is a smaller story about the same industry.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It isn't a disaster.",
+  "speak": "It isn't a disaster.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It's a small, instructive failure, and it explains why engine programs look slow even when everyone wants them to go fast.",
+  "speak": "It's a small, instructive failure, and it explains why engine programs look slow even when everyone wants them to go fast.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "GE's TF34 first ran in 1971 and was developed for the Navy's S-3 Viking, the carrier-based submarine hunter.",
+  "speak": "GE's TF34 first ran in nineteen seventy-one and was developed for the Navy's S 3 Viking, the carrier-based submarine hunter.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Fairchild picked it for the Air Force's A-10.",
+  "speak": "Fairchild picked it for the Air Force's A 10.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The A-10 version first flew in May 1972 and went into production in October 1974.",
+  "speak": "The A 10 version first flew in May nineteen seventy-two and went into production in October nineteen seventy-four.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "In 1980 the Comptroller General sent Congress a report on whether the services had fixed their management problems in buying jet engines.",
+  "speak": "In nineteen eighty the Comptroller General sent Congress a report on whether the services had fixed their management problems in buying jet engines.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The TF34 got its own section.",
+  "speak": "The TF34 got its own section.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Adapting the Navy engine to fit the A-10 took two years and three months and cost $14.5 million.",
+  "speak": "Adapting the Navy engine to fit the A 10 took two years and three months and cost 14.5 million dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "According to GAO, the development period didn't leave time to fix several engine problems before production, and shortcuts were taken to cut down development testing.",
+  "speak": "According to G A O, the development period didn't leave time to fix several engine problems before production, and shortcuts were taken to cut down development testing.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Both the Air Force version and the Navy original kept having durability problems.",
+  "speak": "Both the Air Force version and the Navy original kept having durability problems.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "GAO estimated that by 1983 the two services would have spent about $210 million on component improvement programs for the engine.",
+  "speak": "G A O estimated that by nineteen eighty-three the two services would have spent about 210 million dollars on component improvement programs for the engine.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "Do the arithmetic the report invites.",
+  "speak": "Do the arithmetic the report invites.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Saving time in a $14.5 million development program cost roughly fourteen times that much in fixes afterward.",
+  "speak": "Saving time in a 14.5 million dollars development program cost roughly fourteen times that much in fixes afterward.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "And yet, the same engine ended up as one of the quiet successes of the business.",
+  "speak": "And yet, the same engine ended up as one of the quiet successes of the business.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In 2009, an Air Force Reserve wing in Missouri pulled a TF34 off an A-10 after ten years on the same aircraft and more than 3,400 hours since its last overhaul.",
+  "speak": "In two thousand nine, an Air Force Reserve wing in Missouri pulled a TF34 off an A 10 after ten years on the same aircraft and more than 3,400 hours since its last overhaul.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It came off because of a time-compliance order, not because anything was wrong.",
+  "speak": "It came off because of a time-compliance order, not because anything was wrong.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The engine people there said ten years was a record for the wing.",
+  "speak": "The engine people there said ten years was a record for the wing.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "The TF34 also had a civilian child, the CF34, which powers regional and business jets around the world, including COMAC's C909 regional jet in China.",
+  "speak": "The TF34 also had a civilian child, the CF34, which powers regional and business jets around the world, including COMAC's C909 regional jet in China.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "In 2025, when Washington briefly cut off engine exports to China's COMAC, the CF34 for the C909 was on the list, right beside the LEAP for the C919.",
+  "speak": "In twenty twenty-five, when Washington briefly cut off engine exports to China's COMAC, the CF34 for the C909 was on the list, right beside the LEAP for the C919.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The TF34's grandchild turned out to be a lever too.",
+  "speak": "The TF34's grandchild turned out to be a lever too.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Five — The Second Engine War, Cancelled"
+ },
+ {
+  "section": "p5",
+  "text": "When the Joint Strike Fighter came along, Congress remembered the Great Engine War.",
+  "speak": "When the Joint Strike Fighter came along, Congress remembered the Great Engine War.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "In fiscal year 1996, Congress required the Pentagon to develop an alternate engine for the F-35.",
+  "speak": "In fiscal year nineteen ninety-six, Congress required the Pentagahn to develop an alternate engine for the F 35.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The F-35 flew on Pratt & Whitney's F135, a derivative of the F119 from the F-22.",
+  "speak": "The F 35 flew on Pratt & Whitney's F135, a derivative of the F119 from the F 22.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The alternate became the F136, built by GE with Rolls-Royce and derived from the YF120, the engine that had lost the F-22 competition.",
+  "speak": "The alternate became the F136, built by GE with Rolls-Royce and derived from the YF120, the engine that had lost the F 22 competition.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "GE held sixty percent and Rolls-Royce forty.",
+  "speak": "GE held sixty percent and Rolls-Royce forty.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "It was the 1980s logic again: two engines, two companies, competition every year.",
+  "speak": "It was the nineteen eighties logic again: two engines, two companies, competition every year.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "The Pentagon didn't want it.",
+  "speak": "The Pentagahn didn't want it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "From FY2007 through FY2010, the administration tried to kill it and Congress refused.",
+  "speak": "From F Y two thousand seven through F Y twenty ten, the administration tried to kill it and Congress refused.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Defense Secretary Gates called it the extra engine.",
+  "speak": "Defense Secretary Gates called it the extra engine.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "In FY2011, Congress agreed not to fund it.",
+  "speak": "In F Y twenty eleven, Congress agreed not to fund it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "On April 25, 2011, the Defense Department terminated the contract and ordered the tooling and the engines handed back to the government.",
+  "speak": "On April 25, twenty eleven, the Defense Department terminated the contract and ordered the tooling and the engines handed back to the government.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "GE and Rolls-Royce offered to keep developing the engine with their own money.",
+  "speak": "GE and Rolls-Royce offered to keep developing the engine with their own money.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "GAO found that the self-funding offer could save $700 million through fiscal 2012.",
+  "speak": "G A O found that the self-funding offer could save 700 million dollars through fiscal twenty twelve.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "On December 2, 2011, the two companies announced they were stopping anyway.",
+  "speak": "On December 2, twenty eleven, the two companies announced they were stopping anyway.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "According to the Congressional Research Service, the GE/Rolls team had received $2.4 billion between FY1995 and FY2009.",
+  "speak": "According to the Congressional Research Service, the GE/Rolls team had received 2.4 billion dollars between F Y nineteen ninety-five and F Y two thousand nine.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "So the second engine war ended before it started.",
+  "speak": "So the second engine war ended before it started.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Today the F-35 has one engine supplier.",
+  "speak": "Today the F 35 has one engine supplier.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Pratt & Whitney says it has delivered more than 1,500 F135 production engines to twenty allied nations.",
+  "speak": "Pratt & Whitney says it has delivered more than 1,500 F135 production engines to twenty allied nations.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Whether the F136 would have saved money over the life of the program is still argued, and the arguments on both sides are made by people with a stake in the answer.",
+  "speak": "Whether the F136 would have saved money over the life of the program is still argued, and the arguments on both sides are made by people with a stake in the answer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "What's not in dispute is that the 1980s competition existed, worked,",
+  "speak": "What's not in dispute is that the nineteen eighties competition existed, worked,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "and was cited as a model by the Air Force's own historian, and that the Pentagon chose not to repeat it.",
+  "speak": "and was cited as a model by the Air Force's own historian, and that the Pentagahn chose not to repeat it.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Two Keys"
+ },
+ {
+  "section": "close",
+  "text": "In the 1980s, the Air Force learned something it wrote down and praised:",
+  "speak": "In the nineteen eighties, the Air Force learned something it wrote down and praised:",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "two suppliers fighting for every order produced better engines, faster, than one supplier with a guaranteed customer.",
+  "speak": "two suppliers fighting for every order produced better engines, faster, than one supplier with a guaranteed customer.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The F100-PW-220 and the F110 were proof.",
+  "speak": "The F100-PW 220 and the F110 were proof.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "In the 1970s, the TF34 showed the opposite lesson: hurry the development, skip the testing, and pay for it many times over in fixes afterward.",
+  "speak": "In the nineteen seventies, the TF34 showed the opposite lesson: hurry the development, skip the testing, and pay for it many times over in fixes afterward.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "In 2011 the Pentagon decided it didn't want a second key.",
+  "speak": "In twenty eleven the Pentagahn decided it didn't want a second key.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The F-35 has one engine maker.",
+  "speak": "The F 35 has one engine maker.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And the most interesting new airplane to come out of an American startup, X-BAT,",
+  "speak": "And the most interesting new airplane to come out of an American startup, X-BAT,",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "is going to fly on an engine from 1980s production, because that's the engine the competition made good.",
+  "speak": "is going to fly on an engine from nineteen eighties production, because that's the engine the competition made good.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "close",
+  "text": "The F-47's engine is now a contest again, GE against Pratt & Whitney, two adaptive engines.",
+  "speak": "The F 47's engine is now a contest again, GE against Pratt & Whitney, two adaptive engines.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Same logic as the Great Engine War, new name.",
+  "speak": "Same logic as the Great Engine War, new name.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Whether that's lesson learned or lesson rediscovered, the episode doesn't know.",
+  "speak": "Whether that's lesson learned or lesson rediscovered, the episode doesn't know.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "The F-35's engine problem turned out not to be thrust but electricity and heat.",
+  "speak": "The F 35's engine problem turned out not to be thrust but electricity and heat.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That, and a Chinese jet with three engines, is where the next one starts.",
+  "speak": "That, and a Chinese jet with three engines, is where the next one starts.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]
