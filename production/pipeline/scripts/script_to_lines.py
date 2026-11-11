@@ -143,6 +143,14 @@ def speakable(t: str) -> str:
     s = s.replace("LRASM", "L-Rasm").replace("15IA", "15 I A").replace("hundredERX", "hundred E R X").replace("15Ds", "15 Dees")
     s = s.replace("2,292,387", "two, two nine two, three eight seven").replace("£1,000", "a thousand pounds").replace("OODA", "OO-dah").replace("SU-Net", "S U Net")
     s = s.replace("EPACS", "Ee-packs").replace("IKEA", "Eye-kia")
+    # Episode 3g terms
+    for a, b in [("AFLRW", "A F L R W"), ("FAMM", "Fam"), ("RAACM", "Rack-um"), ("JASSM", "Jazzum"), ("AMRAAM", "Am-ram"),
+                 ("ERAM", "E-ram"), ("CoAspire", "Co-Aspire"), ("Anduril", "Andoo-ril"), ("174B", "174 B"), ("F6D", "F six D"),
+                 ("Missileer", "Missile-eer"), ("bebas aktif", "bay-bahs ahk-teef"), ("Yamaguchi Ube", "Yamagoochee Oobay"),
+                 ("MX", "M X"), ("3d", "three D"), ("3f", "three F"), ("3g", "three G")]:
+        s = s.replace(a, b)
+    s = s.replace("AIM 260", "AIM two sixty").replace("AIM 424", "AIM four twenty-four")
+    s = re.sub(r"(\d)\. dollars", r"\1 dollars.", s)
     s = s.replace('"', "").replace("“", "").replace("”", "")
     return re.sub(r"\s+", " ", s).strip()
 

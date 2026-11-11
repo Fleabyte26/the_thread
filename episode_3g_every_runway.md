@@ -7,6 +7,7 @@
 **Register:** Wandering and reflective. Four ideas, a map and a program. The thread is allowed to think out loud.
 **Sourcing discipline:** Facts stated as facts. The four ideas are the author's and are flagged INFERENCE · THE AUTHOR'S PLAN. Loadout, cost and runway arithmetic is flagged INFERENCE · AUTHOR'S ARITHMETIC. Readings of how governments would react are flagged INTERPRETATION · ONE READING.
 **Note:** Episode 3f ended at a wall: who owns the drawings. The thread didn't climb it. It went back to a number 3f left on the table, nineteen million dollars of missiles on a ten-million-dollar airplane, and that number pulled four ideas out one after another.
+**Finale:** Kris: this could be the finale of the Episode 3 run. The Close has a short passage that says so; cut it if the run continues.
 
 ---
 
@@ -384,6 +385,10 @@ Then it drew a map, and found that the strongest part of the idea is also the pa
 *(Beat.)*
 
 One reading is that this is the pattern of the whole arsenal-jet story. Every time the thread solves the hardware, the problem moves somewhere softer. From the airframe to the hangar. From the hangar to the drawings. From the drawings to the missiles. And now from the missiles to seven governments and an island, each with its own history of being someone else's battlefield.
+
+Episode 3 began with the Navy's wasted years. It followed its own questions through engines, old airliners and a hangar, and it has ended somewhere it didn't plan to: with the cheapest airplane in the series, and a question about other people's permission. This may be where that thread rests.
+
+*(Beat.)*
 
 Would a Chinese planner have to deal with it? If even a few of those governments said yes, he would. He'd have to plan against an airplane he can't tell from the ones around it, on runways he can't afford to hit and can't afford to ignore.
 

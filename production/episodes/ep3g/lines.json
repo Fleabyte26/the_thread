@@ -1,0 +1,3339 @@
+[
+ {
+  "section": "cold",
+  "text": "More than ten thousand 737s have been built.",
+  "speak": "More than ten thousand seven thirty-sevens have been built.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "On any morning, at almost any airport in Asia, one of them is parked at a remote stand with its doors closed, and nobody looks at it twice.",
+  "speak": "On any morning, at almost any airport in Asia, one of them is parked at a remote stand with its doors closed, and nobody looks at it twice.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "Episode 3d said the arsenal jet should be one of those: an old 737-800 out of the desert, bought for about two million dollars and rebuilt for about ten.",
+  "speak": "Episode three D said the arsenal jet should be one of those: an old seven thirty-seven eight hundred out of the desert, bought for about two million dollars and rebuilt for about ten.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Episode 3f went into the hangar to see what that rebuild would take.",
+  "speak": "Episode three F went into the hangar to see what that rebuild would take.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "It came out with a plan, pylons instead of a weapons bay, and with a problem it said twice.",
+  "speak": "It came out with a plan, pylons instead of a weapons bay, and with a problem it said twice.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "Six long-range anti-ship missiles cost about nineteen million dollars.",
+  "speak": "Six long-range anti-ship missiles cost about nineteen million dollars.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The magazine costs twice what the airplane does.",
+  "speak": "The magazine costs twice what the airplane does.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "cold",
+  "text": "3f ended by asking who owns the drawings.",
+  "speak": "three F ended by asking who owns the drawings.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "That's a good question.",
+  "speak": "That's a good question.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The thread didn't follow it.",
+  "speak": "The thread didn't follow it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "It kept turning over the nineteen million instead.",
+  "speak": "It kept turning over the nineteen million instead.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "And from that one number, four ideas came out, each one leaning on the one before.",
+  "speak": "And from that one number, four ideas came out, each one leaning on the one before.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "What if the missiles were cheap?",
+  "speak": "What if the missiles were cheap?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "What if the airplane stayed dumb on purpose?",
+  "speak": "What if the airplane stayed dumb on purpose?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "What if the answer to the old wing was a new wing?",
+  "speak": "What if the answer to the old wing was a new wing?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "And if this whole thing is a deterrent, where do the airplanes go on the day it matters?",
+  "speak": "And if this whole thing is a deterrent, where do the airplanes go on the day it matters?",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "cold",
+  "text": "That last one ends on a map.",
+  "speak": "That last one ends on a map.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "cold",
+  "text": "The map is where the idea gets strong, and where it gets into trouble, and then where it gets strong again.",
+  "speak": "The map is where the idea gets strong, and where it gets into trouble, and then where it gets strong again.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "title",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 5.0
+ },
+ {
+  "section": "p1",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part One — The Cheap Magazine"
+ },
+ {
+  "section": "p1",
+  "text": "When Episode 2 first drew the arsenal jet, the missiles it imagined were the expensive kind.",
+  "speak": "When Episode 2 first drew the arsenal jet, the missiles it imagined were the expensive kind.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "That was reasonable at the time.",
+  "speak": "That was reasonable at the time.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "It's less reasonable now, because in the last year the Pentagon started buying a different kind of missile.",
+  "speak": "It's less reasonable now, because in the last year the Pentagahn started buying a different kind of missile.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "The program is called FAMM, the Family of Affordable Mass Missiles.",
+  "speak": "The program is called Fam, the Family of Affordable Mass Missiles.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The Air Force's price target is about $218,000 a round.",
+  "speak": "The Air Force's price target is about 218,000 dollars a round.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "A JASSM, the standard American air-launched cruise missile, costs more than $1.3 million.",
+  "speak": "A Jazzum, the standard American air-launched cruise missile, costs more than 1.3 million dollars.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "In July 2026 the Pentagon signed framework agreements with three companies.",
+  "speak": "In July twenty twenty-six the Pentagahn signed framework agreements with three companies.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Anduril, with a missile called the Barracuda-500.",
+  "speak": "Andoo-ril, with a missile called the Barracuda 500.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "CoAspire, with one called RAACM.",
+  "speak": "Co-Aspire, with one called Rack-um.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "And Zone 5 Technologies, with the AGM-188 Rusty Dagger.",
+  "speak": "And Zone 5 Technologies, with the A G M one eighty-eight Rusty Dagger.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "None of the three is one of the old prime contractors.",
+  "speak": "None of the three is one of the old prime contractors.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The stated goal is as many as 8,000 missiles a year across the three once production ramps, with first deliveries in 2027.",
+  "speak": "The stated goal is as many as 8,000 missiles a year across the three once production ramps, with first deliveries in twenty twenty-seven.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "There's a sister program for ground launch, announced in May, which the Pentagon said positions it to buy more than 10,000 low-cost cruise missiles in three years.",
+  "speak": "There's a sister program for ground launch, announced in May, which the Pentagahn said positions it to buy more than 10,000 low-cost cruise missiles in three years.",
+  "flag": "",
+  "pause": 1.4
+ },
+ {
+  "section": "p1",
+  "text": "One detail matters for a 737.",
+  "speak": "One detail matters for a seven thirty-seven.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "FAMM comes in two forms.",
+  "speak": "Fam comes in two forms.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Palletized, which means pushed out the back of a cargo plane.",
+  "speak": "Palletized, which means pushed out the back of a cargo plane.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "And lugged, which means hung from a pylon like any other weapon.",
+  "speak": "And lugged, which means hung from a pylon like any other weapon.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "A 737 has no rear ramp.",
+  "speak": "A seven thirty-seven has no rear ramp.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "So the arsenal jet would carry the lugged kind, on exactly the pylons 3f spent its time on.",
+  "speak": "So the arsenal jet would carry the lugged kind, on exactly the pylons three F spent its time on.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "The Rusty Dagger has already been flown on an F-16.",
+  "speak": "The Rusty Dagger has already been flown on an F 16.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "And one comparison belongs next to 3f.",
+  "speak": "And one comparison belongs next to three F.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Two of these missiles came out of an earlier Air Force effort called ERAM, which went into production fourteen months after its first contract.",
+  "speak": "Two of these missiles came out of an earlier Air Force effort called E-ram, which went into production fourteen months after its first contract.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "3f noted that putting one existing missile, LRASM, onto the P-8 had taken five years and wasn't finished.",
+  "speak": "three F noted that putting one existing missile, L-Rasm, onto the P 8 had taken five years and wasn't finished.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p1",
+  "text": "Fourteen months to build a new missile.",
+  "speak": "Fourteen months to build a new missile.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Five years to hang an old one.",
+  "speak": "Five years to hang an old one.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p1",
+  "text": "Something has changed in how this is done.",
+  "speak": "Something has changed in how this is done.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "p2",
+  "text": "",
+  "speak": "",
+  "flag": "inference",
+  "pause": 2.6,
+  "chapter": "Part Two — What Cheap Buys, and What It Costs"
+ },
+ {
+  "section": "p2",
+  "text": "The author's instinct here is blunt.",
+  "speak": "The author's instinct here is blunt.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The old missiles were boutique items, built a few hundred at a time by companies that had no reason to hurry.",
+  "speak": "The old missiles were boutique items, built a few hundred at a time by companies that had no reason to hurry.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The new ones go farther, weigh less and cost a fraction.",
+  "speak": "The new ones go farther, weigh less and cost a fraction.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "How much of that holds up?",
+  "speak": "How much of that holds up?",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Take the Barracuda-500.",
+  "speak": "Take the Barracuda 500.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Anduril says it flies more than 500 nautical miles, carries a payload of more than 100 pounds, and cruises at up to 500 knots.",
+  "speak": "Andoo-ril says it flies more than 500 nautical miles, carries a payload of more than 100 pounds, and cruises at up to 500 knots.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "That range is in the same class as the extended-range JASSM, and well past the ranges usually quoted for the original JASSM and for LRASM.",
+  "speak": "That range is in the same class as the extended-range Jazzum, and well past the ranges usually quoted for the original Jazzum and for L-Rasm.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Weight is harder.",
+  "speak": "Weight is harder.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Anduril hasn't published it.",
+  "speak": "Andoo-ril hasn't published it.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Reference sources say the number in the name is the weight class in pounds, so about 500.",
+  "speak": "Reference sources say the number in the name is the weight class in pounds, so about 500.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A JASSM is a 2,000-pound-class weapon.",
+  "speak": "A Jazzum is a 2,000-pound-class weapon.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "If that's right, the new missile matches the old one's reach at a quarter of the weight and a sixth of the price.",
+  "speak": "If that's right, the new missile matches the old one's reach at a quarter of the weight and a sixth of the price.",
+  "flag": "inference",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "So the instinct is mostly right.",
+  "speak": "So the instinct is mostly right.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "But it's worth saying how the trick is done, because it isn't magic.",
+  "speak": "But it's worth saying how the trick is done, because it isn't magic.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "A JASSM carries a warhead of about a thousand pounds inside a stealthy airframe.",
+  "speak": "A Jazzum carries a warhead of about a thousand pounds inside a stealthy airframe.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It was designed to get through good defenses alone and destroy something hardened when it arrived.",
+  "speak": "It was designed to get through good defenses alone and destroy something hardened when it arrived.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The Barracuda carries a tenth of that.",
+  "speak": "The Barracuda carries a tenth of that.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Take nine hundred pounds of warhead and the stealth shaping out of a missile, and a small jet engine will carry what's left a very long way.",
+  "speak": "Take nine hundred pounds of warhead and the stealth shaping out of a missile, and a small jet engine will carry what's left a very long way.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "That's a choice, and the old programs made the other one.",
+  "speak": "That's a choice, and the old programs made the other one.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And the old missiles still do things the cheap ones don't.",
+  "speak": "And the old missiles still do things the cheap ones don't.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "LRASM can pick one particular ship out of a defended group by itself.",
+  "speak": "L-Rasm can pick one particular ship out of a defended group by itself.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A hundred-pound warhead won't sink that ship.",
+  "speak": "A hundred-pound warhead won't sink that ship.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "So the fair version is this.",
+  "speak": "So the fair version is this.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The cheap missile wins on reach, on weight and on price.",
+  "speak": "The cheap missile wins on reach, on weight and on price.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It loses on punch, and on its odds of arriving alone.",
+  "speak": "It loses on punch, and on its odds of arriving alone.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "It's built to arrive in a crowd.",
+  "speak": "It's built to arrive in a crowd.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "And the old companies have noticed.",
+  "speak": "And the old companies have noticed.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "Lockheed Martin is offering a glide weapon it expects to sell for $150,000.",
+  "speak": "Lockheed Martin is offering a glide weapon it expects to sell for 150,000 dollars.",
+  "flag": "inference",
+  "pause": 1.4
+ },
+ {
+  "section": "p2",
+  "text": "Now put that on the airplane.",
+  "speak": "Now put that on the airplane.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "3f's plan was six LRASMs on six stations, for about nineteen million dollars.",
+  "speak": "three F's plan was six L-Rasms on six stations, for about nineteen million dollars.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "A P-8 wing pylon is rated at 3,000 pounds.",
+  "speak": "A P 8 wing pylon is rated at 3,000 pounds.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "If a cheap round weighs about 500, then by weight alone four of them fit on a station, with room left for the rack that holds them.",
+  "speak": "If a cheap round weighs about 500, then by weight alone four of them fit on a station, with room left for the rack that holds them.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Six stations, four rounds each: twenty-four missiles.",
+  "speak": "Six stations, four rounds each: twenty-four missiles.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "At the FAMM target price, about $5.2 million.",
+  "speak": "At the Fam target price, about 5.2 million dollars.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "Four times the shots for about a quarter of the money.",
+  "speak": "Four times the shots for about a quarter of the money.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "And for the first time in this series, the load costs less than the airplane carrying it.",
+  "speak": "And for the first time in this series, the load costs less than the airplane carrying it.",
+  "flag": "inference",
+  "pause": 0.8
+ },
+ {
+  "section": "p2",
+  "text": "That's the author's arithmetic.",
+  "speak": "That's the author's arithmetic.",
+  "flag": "inference",
+  "pause": 0.35
+ },
+ {
+  "section": "p2",
+  "text": "The thread hasn't found a rack that carries four of these on one pylon, and until someone builds one, twenty-four is a hope.",
+  "speak": "The thread hasn't found a rack that carries four of these on one pylon, and until someone builds one, twenty-four is a hope.",
+  "flag": "inference",
+  "pause": 2.0
+ },
+ {
+  "section": "p3",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Three — An Airliner That Shoots at Airplanes"
+ },
+ {
+  "section": "p3",
+  "text": "The author's idea goes one step further, and it's the strangest step.",
+  "speak": "The author's idea goes one step further, and it's the strangest step.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Put air-to-air missiles on the truck too.",
+  "speak": "Put air-to-air missiles on the truck too.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Very long-range ones.",
+  "speak": "Very long-range ones.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "That sounds absurd until you look at what the long-range programs have become.",
+  "speak": "That sounds absurd until you look at what the long-range programs have become.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "The Air Force and Navy are bringing in the AIM-260, built in answer to China's long-range air-to-air missiles.",
+  "speak": "The Air Force and Navy are bringing in the AIM two sixty, built in answer to China's long-range air-to-air missiles.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It was supposed to be in service in 2022.",
+  "speak": "It was supposed to be in service in twenty twenty-two.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "In September 2026 the Pentagon signed a framework deal to speed up production, and declined to say how many or at what price.",
+  "speak": "In September twenty twenty-six the Pentagahn signed a framework deal to speed up production, and declined to say how many or at what price.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The Navy has fielded an air-launched version of a ship's missile, the AIM-174B, and in August it revealed another, the AIM-424, already in flight test.",
+  "speak": "The Navy has fielded an air-launched version of a ship's missile, the AIM one seventy-four B, and in August it revealed another, the AIM four twenty-four, already in flight test.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "And then there's the one this series has been getting slightly wrong.",
+  "speak": "And then there's the one this series has been getting slightly wrong.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Since Episode 2, the thread has treated the Air Force Long Range Weapon, AFLRW, as a strike missile, the standoff magazine for the arsenal jet.",
+  "speak": "Since Episode 2, the thread has treated the Air Force Long Range Weapon, A F L R W, as a strike missile, the standoff magazine for the arsenal jet.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The reporting describes it as an air-to-air missile first, with a target range of at least a thousand nautical miles, and a surface-attack version wanted as well.",
+  "speak": "The reporting describes it as an air-to-air missile first, with a target range of at least a thousand nautical miles, and a surface-attack version wanted as well.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "A thousand nautical miles is not a dogfight.",
+  "speak": "A thousand nautical miles is not a dogfight.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "A missile like that isn't aimed by the airplane that carries it.",
+  "speak": "A missile like that isn't aimed by the airplane that carries it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Something far forward finds the target and guides the shot.",
+  "speak": "Something far forward finds the target and guides the shot.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The launching airplane only has to be in the air, pointed the right way, with missiles on it.",
+  "speak": "The launching airplane only has to be in the air, pointed the right way, with missiles on it.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "That's a description of a truck.",
+  "speak": "That's a description of a truck.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p3",
+  "text": "The idea isn't new.",
+  "speak": "The idea isn't new.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Around 1960 the U.S. Navy designed an airplane called the F6D Missileer.",
+  "speak": "Around nineteen sixty the U S Navy designed an airplane called the F six D Missile-eer.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It was slow and straight-winged, and it was meant to do one thing: orbit near the fleet with a load of very long-range missiles and let the missiles do the flying.",
+  "speak": "It was slow and straight-winged, and it was meant to do one thing: orbit near the fleet with a load of very long-range missiles and let the missiles do the flying.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It was cancelled before it was built.",
+  "speak": "It was cancelled before it was built.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The objection was simple.",
+  "speak": "The objection was simple.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "Once its missiles were gone, it couldn't fight and couldn't run.",
+  "speak": "Once its missiles were gone, it couldn't fight and couldn't run.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "That objection hasn't gone anywhere.",
+  "speak": "That objection hasn't gone anywhere.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It applies to a 737 exactly.",
+  "speak": "It applies to a seven thirty-seven exactly.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "And the cheap end of air-to-air barely exists yet.",
+  "speak": "And the cheap end of air-to-air barely exists yet.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The Air Force has asked industry about a low-cost, high-speed air-to-air missile in two sizes:",
+  "speak": "The Air Force has asked industry about a low-cost, high-speed air-to-air missile in two sizes:",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "one the size of today's AMRAAM, built for range, and one half that size, so an airplane can carry twice as many.",
+  "speak": "one the size of today's Am-ram, built for range, and one half that size, so an airplane can carry twice as many.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It's a request for information.",
+  "speak": "It's a request for information.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "It isn't a missile.",
+  "speak": "It isn't a missile.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p3",
+  "text": "So the cruise-missile half of the cheap magazine is real and under contract.",
+  "speak": "So the cruise-missile half of the cheap magazine is real and under contract.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p3",
+  "text": "The air-to-air half is, for now, a good question.",
+  "speak": "The air-to-air half is, for now, a good question.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p4",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Four — The Dumb Truck"
+ },
+ {
+  "section": "p4",
+  "text": "The author added a rule, and it may be the most important sentence in the plan.",
+  "speak": "The author added a rule, and it may be the most important sentence in the plan.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The airplane is a truck.",
+  "speak": "The airplane is a truck.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Always.",
+  "speak": "Always.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Never a sensor platform.",
+  "speak": "Never a sensor platform.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "It's tempting to break that rule.",
+  "speak": "It's tempting to break that rule.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Two of the best sensor airplanes in the world are 737s: the P-8, which hunts submarines, and the E-7, which is a flying radar station.",
+  "speak": "Two of the best sensor airplanes in the world are seven thirty-sevens: the P 8, which hunts submarines, and the E 7, which is a flying radar station.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Once you're rebuilding a 737 anyway, why not give it a radar?",
+  "speak": "Once you're rebuilding a seven thirty-seven anyway, why not give it a radar?",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Because of what 3f found.",
+  "speak": "Because of what three F found.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The P-8 carries three times the wiring of an airliner, nearly a hundred antennas, and a crew of specialists.",
+  "speak": "The P 8 carries three times the wiring of an airliner, nearly a hundred antennas, and a crew of specialists.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It costs $173 million.",
+  "speak": "It costs 173 million dollars.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Every sensor you add makes the airplane more useful and more precious, until it's too valuable to send anywhere dangerous.",
+  "speak": "Every sensor you add makes the airplane more useful and more precious, until it's too valuable to send anywhere dangerous.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Then it isn't a truck anymore.",
+  "speak": "Then it isn't a truck anymore.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "So the truck gets pylons, wiring to the pylons, a way to release what's on them, and one smart thing: a datalink.",
+  "speak": "So the truck gets pylons, wiring to the pylons, a way to release what's on them, and one smart thing: a datalink.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "A target comes in from somewhere else.",
+  "speak": "A target comes in from somewhere else.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The truck passes it to the missile and lets go.",
+  "speak": "The truck passes it to the missile and lets go.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p4",
+  "text": "That keeps the ten-million-dollar airplane honest.",
+  "speak": "That keeps the ten-million-dollar airplane honest.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It also keeps something else honest.",
+  "speak": "It also keeps something else honest.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "A dumb truck is worth exactly as much as the network that tells it where to shoot.",
+  "speak": "A dumb truck is worth exactly as much as the network that tells it where to shoot.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "If the drones forward are destroyed, if the satellites are blinded, if the link is jammed, then what's left is an airliner full of missiles with nothing to aim at.",
+  "speak": "If the drones forward are destroyed, if the satellites are blinded, if the link is jammed, then what's left is an airliner full of missiles with nothing to aim at.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "Episode 11 said the real center of gravity in the Pacific is the kill chain: the layer that finds, decides and directs.",
+  "speak": "Episode 11 said the real center of gravity in the Pacific is the kill chain: the layer that finds, decides and directs.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "This plan doesn't escape that.",
+  "speak": "This plan doesn't escape that.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "It leans its whole weight on it.",
+  "speak": "It leans its whole weight on it.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p4",
+  "text": "There's one more thing a truck has that a fighter doesn't.",
+  "speak": "There's one more thing a truck has that a fighter doesn't.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "People who can drive it.",
+  "speak": "People who can drive it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The 737 is one of the two most common airliners on earth.",
+  "speak": "The seven thirty-seven is one of the two most common airliners on earth.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "The pilots already exist, in every country on the map this episode is about to draw.",
+  "speak": "The pilots already exist, in every country on the map this episode is about to draw.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p4",
+  "text": "Whether an airline pilot would fly this mission is a different question, and a human one.",
+  "speak": "Whether an airline pilot would fly this mission is a different question, and a human one.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p5",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Five — The New Wing"
+ },
+ {
+  "section": "p5",
+  "text": "3f had two objections it couldn't answer.",
+  "speak": "three F had two objections it couldn't answer.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "An old airliner's wing was never built to have 3,000-pound loads hung from it.",
+  "speak": "An old airliner's wing was never built to have 3,000-pound loads hung from it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "And an old wing has a fatigue history, so every airplane would have to be checked one at a time.",
+  "speak": "And an old wing has a fatigue history, so every airplane would have to be checked one at a time.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "The author's answer is the bluntest idea in the episode.",
+  "speak": "The author's answer is the bluntest idea in the episode.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Don't modify the wing.",
+  "speak": "Don't modify the wing.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Replace it.",
+  "speak": "Replace it.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Build a new wing that bolts to the existing wing box.",
+  "speak": "Build a new wing that bolts to the existing wing box.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Same span.",
+  "speak": "Same span.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Fuel inside it, as before.",
+  "speak": "Fuel inside it, as before.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "And designed from the first drawing with three weapons stations under each side, plus a fourth at the tip.",
+  "speak": "And designed from the first drawing with three weapons stations under each side, plus a fourth at the tip.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "Half of that wing already exists.",
+  "speak": "Half of that wing already exists.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The P-8's wing is a strengthened 737 wing with two pylons a side, built on the same Renton line as the airline ones.",
+  "speak": "The P 8's wing is a strengthened seven thirty-seven wing with two pylons a side, built on the same Renton line as the airline ones.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The author's wing is that one, taken further.",
+  "speak": "The author's wing is that one, taken further.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "And replacing the wings on an old fleet has been done.",
+  "speak": "And replacing the wings on an old fleet has been done.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Starting in 2011, the Air Force put new Boeing-built wings on 173 A-10 attack jets, under a program worth about $1.1 billion.",
+  "speak": "Starting in twenty eleven, the Air Force put new Boeing-built wings on 173 A 10 attack jets, under a program worth about 1.1 billion dollars.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A second contract followed, worth up to $999 million for as many as 112 more sets.",
+  "speak": "A second contract followed, worth up to 999 million dollars for as many as 112 more sets.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The A-10 was older than any 737-800 in the desert.",
+  "speak": "The A 10 was older than any seven thirty-seven eight hundred in the desert.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It got a second life out of new wings.",
+  "speak": "It got a second life out of new wings.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Here is the part the plan has to face.",
+  "speak": "Here is the part the plan has to face.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Divide those contracts out, and an A-10 wing set runs somewhere between six and nine million dollars.",
+  "speak": "Divide those contracts out, and an A 10 wing set runs somewhere between six and nine million dollars.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A 737's wing is far larger than an A-10's.",
+  "speak": "A seven thirty-seven's wing is far larger than an A 10's.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "There's no public price for one, but it's hard to see it costing less.",
+  "speak": "There's no public price for one, but it's hard to see it costing less.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "So the new wing may cost more than the airplane it's bolted to.",
+  "speak": "So the new wing may cost more than the airplane it's bolted to.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It may cost more than the whole ten-million-dollar rebuild that Episode 3d promised.",
+  "speak": "It may cost more than the whole ten-million-dollar rebuild that Episode three D promised.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The truck in this episode is probably a twenty or thirty million dollar airplane.",
+  "speak": "The truck in this episode is probably a twenty or thirty million dollar airplane.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "That's still a fraction of a new one.",
+  "speak": "That's still a fraction of a new one.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "But 3d's headline doesn't survive, and the episode should say so plainly.",
+  "speak": "But three D's headline doesn't survive, and the episode should say so plainly.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p5",
+  "text": "What the money buys is real, though.",
+  "speak": "What the money buys is real, though.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "It answers both of 3f's objections at once.",
+  "speak": "It answers both of three F's objections at once.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The hardpoints are designed in, with the wiring kept out of the fuel.",
+  "speak": "The hardpoints are designed in, with the wiring kept out of the fuel.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "And the part of an old airliner that wears out is new.",
+  "speak": "And the part of an old airliner that wears out is new.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "It also changes where the work happens.",
+  "speak": "It also changes where the work happens.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "3f pictured each airplane spending months in a hangar, one at a time, and worried that a hundred and thirty of them would take a decade.",
+  "speak": "three F pictured each airplane spending months in a hangar, one at a time, and worried that a hundred and thirty of them would take a decade.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Wings can be built on a line, in a factory, in numbers, and then fitted.",
+  "speak": "Wings can be built on a line, in a factory, in numbers, and then fitted.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "That's how the airline ones are made.",
+  "speak": "That's how the airline ones are made.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "And it brushes against 3f's wall.",
+  "speak": "And it brushes against three F's wall.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A new wing is a new drawing.",
+  "speak": "A new wing is a new drawing.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Whoever pays for it could own it.",
+  "speak": "Whoever pays for it could own it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The joint where it meets the airplane would still be Boeing's.",
+  "speak": "The joint where it meets the airplane would still be Boeing's.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Then the wingtip.",
+  "speak": "Then the wingtip.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The author wants a four-pack of air-to-air missiles out there.",
+  "speak": "The author wants a four-pack of air-to-air missiles out there.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "Weight at a wingtip isn't crazy.",
+  "speak": "Weight at a wingtip isn't crazy.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It actually relieves the bending load on a wing in flight, which is why tip tanks work, and fighters have carried missiles there for decades.",
+  "speak": "It actually relieves the bending load on a wing in flight, which is why tip tanks work, and fighters have carried missiles there for decades.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "The danger is flutter.",
+  "speak": "The danger is flutter.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "A 737 wing is long and flexible, and four full-size missiles and a launcher is the better part of a ton, hung at the very end of it, beside the ailerons.",
+  "speak": "A seven thirty-seven wing is long and flexible, and four full-size missiles and a launcher is the better part of a ton, hung at the very end of it, beside the ailerons.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "But Part Three mentioned a missile half the size of an AMRAAM.",
+  "speak": "But Part Three mentioned a missile half the size of an Am-ram.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "Four of those weigh about what two full-size ones do.",
+  "speak": "Four of those weigh about what two full-size ones do.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "If that missile is ever built, the wingtip is where it belongs.",
+  "speak": "If that missile is ever built, the wingtip is where it belongs.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p5",
+  "text": "One idea in this episode keeps rescuing another.",
+  "speak": "One idea in this episode keeps rescuing another.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "That's usually a sign of something.",
+  "speak": "That's usually a sign of something.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p5",
+  "text": "It isn't proof.",
+  "speak": "It isn't proof.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p6",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Six — Every Runway"
+ },
+ {
+  "section": "p6",
+  "text": "Now the map.",
+  "speak": "Now the map.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Episode 2 and Episode 3d both said this airplane is a deterrent.",
+  "speak": "Episode 2 and Episode three D both said this airplane is a deterrent.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "A fleet in being.",
+  "speak": "A fleet in being.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Its job is to exist, and to be counted in someone else's plans.",
+  "speak": "Its job is to exist, and to be counted in someone else's plans.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "The author's basing idea takes that seriously.",
+  "speak": "The author's basing idea takes that seriously.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "In peacetime the trucks sit somewhere dry and far away.",
+  "speak": "In peacetime the trucks sit somewhere dry and far away.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "In a crisis they move.",
+  "speak": "In a crisis they move.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "They go to every airfield that can land a 737 in Japan, the Philippines, South Korea, Australia, India, Singapore and Indonesia.",
+  "speak": "They go to every airfield that can land a seven thirty-seven in Japan, the Philippines, South Korea, Australia, India, Singapore and Indonesia.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "And all across Taiwan.",
+  "speak": "And all across Taiwan.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "To see why that would matter, start with how a Chinese planner is thought to see the problem today.",
+  "speak": "To see why that would matter, start with how a Chinese planner is thought to see the problem today.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "In December 2024 the Stimson Center published a study of what Chinese missiles could do to American air bases.",
+  "speak": "In December twenty twenty-four the Stimson Center published a study of what Chinese missiles could do to American air bases.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It said Chinese strategists regard the forward air bases, and the runways in particular, as the weak point of American airpower.",
+  "speak": "It said Chinese strategists regard the forward air bases, and the runways in particular, as the weak point of American airpower.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Then it said, in its own words, \"Unfortunately, Chinese strategists are correct.\"",
+  "speak": "Then it said, in its own words, Unfortunately, Chinese strategists are correct.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Its model found that missile strikes could close the runways at American bases in Japan to fighters for about the first twelve days of a war, and to tankers for more than a month.",
+  "speak": "Its model found that missile strikes could close the runways at American bases in Japan to fighters for about the first twelve days of a war, and to tankers for more than a month.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "The Pentagon's 2024 report on China's military listed about 900 short-range ballistic missiles, 1,300 medium-range and 500 intermediate-range.",
+  "speak": "The Pentagahn's twenty twenty-four report on China's military listed about 900 short-range ballistic missiles, 1,300 medium-range and 500 intermediate-range.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "An Air Force journal article that year made the comparison directly:",
+  "speak": "An Air Force journal article that year made the comparison directly:",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "the number of places the Air Force could disperse to in the Pacific is dwarfed by the number of Chinese missiles.",
+  "speak": "the number of places the Air Force could disperse to in the Pacific is dwarfed by the number of Chinese missiles.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "And a Hudson Institute study in January 2025 counted the other side's ledger.",
+  "speak": "And a Hudson Institute study in January twenty twenty-five counted the other side's ledger.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "China has 134 air bases within a thousand nautical miles of the Taiwan Strait, with more than 3,000 aircraft shelters.",
+  "speak": "China has 134 air bases within a thousand nautical miles of the Taiwan Strait, with more than 3,000 aircraft shelters.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "American airpower in the region flies from a handful of bases, mostly in the open.",
+  "speak": "American airpower in the region flies from a handful of bases, mostly in the open.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "So today's arithmetic favors the missile.",
+  "speak": "So today's arithmetic favors the missile.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "A few big bases, a known list, and more than enough missiles to cover it.",
+  "speak": "A few big bases, a known list, and more than enough missiles to cover it.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "Now change one thing.",
+  "speak": "Now change one thing.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The airplane.",
+  "speak": "The airplane.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "A fighter needs fuel trucks, weapons crews, shelters and spare parts.",
+  "speak": "A fighter needs fuel trucks, weapons crews, shelters and spare parts.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "It can disperse, but only to places that have been prepared.",
+  "speak": "It can disperse, but only to places that have been prepared.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "A 737 needs what every 737 needs: a mile and a half of pavement, give or take, and jet fuel.",
+  "speak": "A seven thirty-seven needs what every seven thirty-seven needs: a mile and a half of pavement, give or take, and jet fuel.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Airports that can take one are not rare.",
+  "speak": "Airports that can take one are not rare.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "They're what an airport is.",
+  "speak": "They're what an airport is.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "Japan alone has designated 24 civilian airports that its own forces can use, after adding more in April 2026.",
+  "speak": "Japan alone has designated 24 civilian airports that its own forces can use, after adding more in April twenty twenty-six.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The Philippines has nine sites the United States can use under an existing agreement, several of them facing Taiwan or the South China Sea.",
+  "speak": "The Philippines has nine sites the United States can use under an existing agreement, several of them facing Taiwan or the South China Sea.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Those are only the ones already on paper.",
+  "speak": "Those are only the ones already on paper.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The number of runways in those eight places that could physically take a 737 runs to several hundred.",
+  "speak": "The number of runways in those eight places that could physically take a seven thirty-seven runs to several hundred.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The thread hasn't counted them.",
+  "speak": "The thread hasn't counted them.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Somebody should.",
+  "speak": "Somebody should.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "And the truck looks like an airliner.",
+  "speak": "And the truck looks like an airliner.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "From orbit, on a ramp, among the others, a loaded one and an empty one are the same shape.",
+  "speak": "From orbit, on a ramp, among the others, a loaded one and an empty one are the same shape.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "So the planner's list goes from a few dozen aim points to several hundred, and he can't tell which ones matter.",
+  "speak": "So the planner's list goes from a few dozen aim points to several hundred, and he can't tell which ones matter.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "He can try to hit them all, and spend his missiles on empty concrete.",
+  "speak": "He can try to hit them all, and spend his missiles on empty concrete.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Or he can leave some, and accept that an unknown number of trucks will get airborne with twenty-four missiles each.",
+  "speak": "Or he can leave some, and accept that an unknown number of trucks will get airborne with twenty-four missiles each.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "That's the author's plan, and it's the strongest form of the fleet in being this series has drawn.",
+  "speak": "That's the author's plan, and it's the strongest form of the fleet in being this series has drawn.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p6",
+  "text": "It has been tried before.",
+  "speak": "It has been tried before.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "On paper.",
+  "speak": "On paper.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "In September 1979, President Carter approved a way to protect America's new nuclear missile, the MX.",
+  "speak": "In September nineteen seventy-nine, President Carter approved a way to protect America's new nuclear missile, the M X.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Two hundred missiles would be shuttled at random among 4,600 shelters in the deserts of Nevada and Utah, twenty-three shelters for each missile.",
+  "speak": "Two hundred missiles would be shuttled at random among 4,600 shelters in the deserts of Nevada and Utah, twenty-three shelters for each missile.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "To be sure of destroying them, the Soviet Union would have had to hit every shelter.",
+  "speak": "To be sure of destroying them, the Soviet Union would have had to hit every shelter.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "People called it the shell game.",
+  "speak": "People called it the shell game.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "It was never built.",
+  "speak": "It was never built.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "On October 2, 1981, President Reagan cancelled it, saying the scheme would be just as vulnerable as the silos it replaced.",
+  "speak": "On October 2, nineteen eighty-one, President Reagan cancelled it, saying the scheme would be just as vulnerable as the silos it replaced.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "But that wasn't the only thing that killed it.",
+  "speak": "But that wasn't the only thing that killed it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The people of Utah and Nevada didn't want to live among 4,600 targets.",
+  "speak": "The people of Utah and Nevada didn't want to live among 4,600 targets.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "Ranchers said so.",
+  "speak": "Ranchers said so.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "The Mormon church said so, publicly.",
+  "speak": "The Mormon church said so, publicly.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p6",
+  "text": "The shell game depended on the shells.",
+  "speak": "The shell game depended on the shells.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p6",
+  "text": "And the shells turned out to have opinions.",
+  "speak": "And the shells turned out to have opinions.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p7",
+  "text": "",
+  "speak": "",
+  "flag": "interpretation",
+  "pause": 2.6,
+  "chapter": "Part Seven — Nobody Asked Them"
+ },
+ {
+  "section": "p7",
+  "text": "The plan in Part Six lists seven countries and one island.",
+  "speak": "The plan in Part Six lists seven countries and one island.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It hasn't asked any of them.",
+  "speak": "It hasn't asked any of them.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "So go down the list, honestly.",
+  "speak": "So go down the list, honestly.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Japan is a treaty ally.",
+  "speak": "Japan is a treaty ally.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "But those 24 airports are designated for Japan's own Self-Defense Forces and coast guard, and the government has promised they stay civilian first.",
+  "speak": "But those 24 airports are designated for Japan's own Self-Defense Forces and coast guard, and the government has promised they stay civilian first.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "When Yamaguchi Ube Airport was added in 2025,",
+  "speak": "When Yamagoochee Oobay Airport was added in twenty twenty-five,",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "a prefectural assembly member cited the Geneva Conventions and said that once the military uses a civilian airport, it becomes a target.",
+  "speak": "a prefectural assembly member cited the Geneva Conventions and said that once the military uses a civilian airport, it becomes a target.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "He's from an opposition party.",
+  "speak": "He's from an opposition party.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The legal point is a real one.",
+  "speak": "The legal point is a real one.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "The Philippines is a treaty ally with nine agreed sites.",
+  "speak": "The Philippines is a treaty ally with nine agreed sites.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Its government has been careful about what those sites are for, and Manila has its own citizens in Taiwan to think about, somewhere between 150,000 and 250,000 of them.",
+  "speak": "Its government has been careful about what those sites are for, and Manila has its own citizens in Taiwan to think about, somewhere between 150,000 and 250,000 of them.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "South Korea and Australia are treaty allies.",
+  "speak": "South Korea and Australia are treaty allies.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Each would make its own decision in its own parliament, on its own timeline.",
+  "speak": "Each would make its own decision in its own parliament, on its own timeline.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "India is not an ally of the United States, and has never wanted to be.",
+  "speak": "India is not an ally of the United States, and has never wanted to be.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The logistics agreement the two signed in 2016 lets each use the other's facilities for fuel and supplies, case by case, by mutual consent.",
+  "speak": "The logistics agreement the two signed in twenty sixteen lets each use the other's facilities for fuel and supplies, case by case, by mutual consent.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Indian officials have said from the start that it is not a basing agreement and nothing in it is automatic.",
+  "speak": "Indian officials have said from the start that it is not a basing agreement and nothing in it is automatic.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Indonesia has built its foreign policy since independence on a principle called bebas aktif, free and active: aligned with no one.",
+  "speak": "Indonesia has built its foreign policy since independence on a principle called bay-bahs ahk-teef, free and active: aligned with no one.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "In April 2026 Jakarta and Washington signed a defense cooperation partnership.",
+  "speak": "In April twenty twenty-six Jakarta and Washington signed a defense cooperation partnership.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That same month, a proposal to let American military aircraft cross Indonesian airspace on notification alone set off a national argument about sovereignty.",
+  "speak": "That same month, a proposal to let American military aircraft cross Indonesian airspace on notification alone set off a national argument about sovereignty.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Officials said no such agreement had been reached.",
+  "speak": "Officials said no such agreement had been reached.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "And that argument was about flying over.",
+  "speak": "And that argument was about flying over.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "This plan is about landing, loaded.",
+  "speak": "This plan is about landing, loaded.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "Singapore hosts American forces on rotation and has always stopped short of an alliance.",
+  "speak": "Singapore hosts American forces on rotation and has always stopped short of an alliance.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "And Taiwan.",
+  "speak": "And Taiwan.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The United States has had no bases there, and no defense treaty with it, since the end of the 1970s.",
+  "speak": "The United States has had no bases there, and no defense treaty with it, since the end of the nineteen seventies.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "American airplanes carrying cruise missiles, landing at airfields across the island in the middle of a crisis,",
+  "speak": "American airplanes carrying cruise missiles, landing at airfields across the island in the middle of a crisis,",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "could be the single act most likely to turn that crisis into a war.",
+  "speak": "could be the single act most likely to turn that crisis into a war.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Taiwan's runways are also the closest of all to those 900 short-range missiles.",
+  "speak": "Taiwan's runways are also the closest of all to those 900 short-range missiles.",
+  "flag": "interpretation",
+  "pause": 1.4
+ },
+ {
+  "section": "p7",
+  "text": "So the map in Part Six is really two maps.",
+  "speak": "So the map in Part Six is really two maps.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "One shows where a 737 can land.",
+  "speak": "One shows where a seven thirty-seven can land.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The other shows where a government would say yes, quickly, in the worst week of its decade.",
+  "speak": "The other shows where a government would say yes, quickly, in the worst week of its decade.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The second map is much smaller, and nobody knows its shape until the week arrives.",
+  "speak": "The second map is much smaller, and nobody knows its shape until the week arrives.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "And there's a harder thought underneath.",
+  "speak": "And there's a harder thought underneath.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "The plan says the trucks deploy in a crisis.",
+  "speak": "The plan says the trucks deploy in a crisis.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That means the deterrent has to move at the most dangerous moment there is.",
+  "speak": "That means the deterrent has to move at the most dangerous moment there is.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "From Beijing, hundreds of airliners fanning out to runways around China's coast, some unknown number of them armed, wouldn't look like a bluff.",
+  "speak": "From Beijing, hundreds of airliners fanning out to runways around China's coast, some unknown number of them armed, wouldn't look like a bluff.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It could look like the hour before an attack.",
+  "speak": "It could look like the hour before an attack.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "In 1914, each great power's mobilization was meant partly to warn the others off, and each one made the others move faster.",
+  "speak": "In nineteen fourteen, each great power's mobilization was meant partly to warn the others off, and each one made the others move faster.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "That's one reading.",
+  "speak": "That's one reading.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "But a deterrent that only shows itself in a crisis is also a signal that the crisis has become something else.",
+  "speak": "But a deterrent that only shows itself in a crisis is also a signal that the crisis has become something else.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "p7",
+  "text": "There's an obvious repair.",
+  "speak": "There's an obvious repair.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Make it routine.",
+  "speak": "Make it routine.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "Fly the trucks through these airports in peacetime, in exercises, empty and announced, until it's as ordinary as a port call.",
+  "speak": "Fly the trucks through these airports in peacetime, in exercises, empty and announced, until it's as ordinary as a port call.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "That would take the alarm out of it.",
+  "speak": "That would take the alarm out of it.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "p7",
+  "text": "It would also require every one of those governments to say yes in public, in peacetime, over and over.",
+  "speak": "It would also require every one of those governments to say yes in public, in peacetime, over and over.",
+  "flag": "interpretation",
+  "pause": 2.0
+ },
+ {
+  "section": "p8",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Eight — What the Planner Has to Assume"
+ },
+ {
+  "section": "p8",
+  "text": "The author's answer to Part Seven is short.",
+  "speak": "The author's answer to Part Seven is short.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "What those governments would say matters less than what the planner has to assume.",
+  "speak": "What those governments would say matters less than what the planner has to assume.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "A man planning a war can't build it on the hope that other countries will hold to their peacetime positions in a crisis years away.",
+  "speak": "A man planning a war can't build it on the hope that other countries will hold to their peacetime positions in a crisis years away.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "He plans against what's possible.",
+  "speak": "He plans against what's possible.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "If a 737 can land there, and the government hasn't ruled it out, the runway goes on his list.",
+  "speak": "If a seven thirty-seven can land there, and the government hasn't ruled it out, the runway goes on his list.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "And history gives him reasons to worry.",
+  "speak": "And history gives him reasons to worry.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "In 1940, Britain didn't ask Iceland.",
+  "speak": "In nineteen forty, Britain didn't ask Iceland.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "It landed troops.",
+  "speak": "It landed troops.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 1941, Britain and the Soviet Union did the same to Iran.",
+  "speak": "In nineteen forty-one, Britain and the Soviet Union did the same to Iran.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 1943, Portugal, neutral, handed over airfields in the Azores under heavy pressure.",
+  "speak": "In nineteen forty-three, Portugal, neutral, handed over airfields in the Azores under heavy pressure.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 1990, Saudi Arabia accepted American troops within days of Iraq taking Kuwait.",
+  "speak": "In nineteen ninety, Saudi Arabia accepted American troops within days of Iraq taking Kuwait.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 2001, Pakistan opened its airspace after an American ultimatum.",
+  "speak": "In two thousand one, Pakistan opened its airspace after an American ultimatum.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In a crisis, the room to say no can shrink very fast.",
+  "speak": "In a crisis, the room to say no can shrink very fast.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p8",
+  "text": "The record runs the other way too, and the thread should say so.",
+  "speak": "The record runs the other way too, and the thread should say so.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 1973, almost every European ally refused to let the American airlift to Israel land or fly over.",
+  "speak": "In nineteen seventy-three, almost every European ally refused to let the American airlift to Israel land or fly over.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 1986, France and Spain refused overflight for the raid on Libya, and the bombers flew around them.",
+  "speak": "In nineteen eighty-six, France and Spain refused overflight for the raid on Libya, and the bombers flew around them.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "In 2003, Turkey's parliament voted down the passage of an American division into Iraq.",
+  "speak": "In two thousand three, Turkey's parliament voted down the passage of an American division into Iraq.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Ireland kept its ports closed to Britain for the whole of the Second World War.",
+  "speak": "Ireland kept its ports closed to Britain for the whole of the Second World War.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "What separates the two lists looks like this.",
+  "speak": "What separates the two lists looks like this.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Countries said yes when the same enemy threatened them, or when a great power was willing to force the matter.",
+  "speak": "Countries said yes when the same enemy threatened them, or when a great power was willing to force the matter.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "They said no when it was someone else's war and saying yes would make them a target.",
+  "speak": "They said no when it was someone else's war and saying yes would make them a target.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "Nobody is going to force India or Indonesia.",
+  "speak": "Nobody is going to force India or Indonesia.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "And a deterrent that had to coerce its own hosts would have no hosts.",
+  "speak": "And a deterrent that had to coerce its own hosts would have no hosts.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "But the planner has read all of this as well.",
+  "speak": "But the planner has read all of this as well.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "He can't know which list a country will land on until the week arrives.",
+  "speak": "He can't know which list a country will land on until the week arrives.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "So he has to carry the whole map.",
+  "speak": "So he has to carry the whole map.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p8",
+  "text": "Now the author's number.",
+  "speak": "Now the author's number.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Picture six to eight trucks at an airfield.",
+  "speak": "Picture six to eight trucks at an airfield.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "At twenty-four missiles each, that's between 144 and 192 cruise missiles, leaving from one ordinary airport.",
+  "speak": "At twenty-four missiles each, that's between 144 and 192 cruise missiles, leaving from one ordinary airport.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "3f imagined a fleet of about a hundred and thirty airplanes.",
+  "speak": "three F imagined a fleet of about a hundred and thirty airplanes.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "At six to eight to a field, that fleet fills somewhere between sixteen and twenty-two airfields.",
+  "speak": "At six to eight to a field, that fleet fills somewhere between sixteen and twenty-two airfields.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Out of several hundred.",
+  "speak": "Out of several hundred.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "So nearly all of the runways on the planner's list would be empty.",
+  "speak": "So nearly all of the runways on the planner's list would be empty.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "That's the design.",
+  "speak": "That's the design.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The MX plan put one missile among twenty-three shelters.",
+  "speak": "The M X plan put one missile among twenty-three shelters.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "This is about the same ratio, with one difference: nobody had to pour the shelters.",
+  "speak": "This is about the same ratio, with one difference: nobody had to pour the shelters.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "They're already there, and they're called airports.",
+  "speak": "They're already there, and they're called airports.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "And think about what covering them would mean.",
+  "speak": "And think about what covering them would mean.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "To be safe, he would have to strike hundreds of civilian airports, in seven countries, in the first hour, before the trucks are off the ground.",
+  "speak": "To be safe, he would have to strike hundreds of civilian airports, in seven countries, in the first hour, before the trucks are off the ground.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "That would make enemies of countries that might have stayed out.",
+  "speak": "That would make enemies of countries that might have stayed out.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A war he wanted to keep small would have to begin by being made enormous.",
+  "speak": "A war he wanted to keep small would have to begin by being made enormous.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "That is the strongest thing this idea does.",
+  "speak": "That is the strongest thing this idea does.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "It doesn't have to win a fight.",
+  "speak": "It doesn't have to win a fight.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "It raises the price of starting one.",
+  "speak": "It raises the price of starting one.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p8",
+  "text": "Three cautions, so the thread stays honest.",
+  "speak": "Three cautions, so the thread stays honest.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "It only works if it's believable.",
+  "speak": "It only works if it's believable.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A planner can discount something that has never once happened.",
+  "speak": "A planner can discount something that has never once happened.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "A few close allies would have to host these airplanes in the open, in peacetime, before the rest of the map counts for anything.",
+  "speak": "A few close allies would have to host these airplanes in the open, in peacetime, before the rest of the map counts for anything.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "He has other moves.",
+  "speak": "He has other moves.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "He can work on the answer years ahead, with trade and diplomacy, in the capitals.",
+  "speak": "He can work on the answer years ahead, with trade and diplomacy, in the capitals.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "He can go after the kill chain and leave the trucks blind.",
+  "speak": "He can go after the kill chain and leave the trucks blind.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "Or he can leave the airports alone and shoot down the missiles, which are slow and small.",
+  "speak": "Or he can leave the airports alone and shoot down the missiles, which are slow and small.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "And the cost lands on people who weren't asked.",
+  "speak": "And the cost lands on people who weren't asked.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "If he has to assume Indonesia says yes, then Indonesian airports are on a target list whether or not Indonesia ever agrees to anything.",
+  "speak": "If he has to assume Indonesia says yes, then Indonesian airports are on a target list whether or not Indonesia ever agrees to anything.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The same is true of India.",
+  "speak": "The same is true of India.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "An idea drawn up in one country puts another country's airports in a third country's war plan.",
+  "speak": "An idea drawn up in one country puts another country's airports in a third country's war plan.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p8",
+  "text": "That is a real cost.",
+  "speak": "That is a real cost.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p8",
+  "text": "The author's plan gets its strength from other people's silence, and it should say so.",
+  "speak": "The author's plan gets its strength from other people's silence, and it should say so.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p9",
+  "text": "",
+  "speak": "",
+  "flag": "plan",
+  "pause": 2.6,
+  "chapter": "Part Nine — Ten Airplanes and a Name"
+ },
+ {
+  "section": "p9",
+  "text": "Part Eight's first caution was that the idea has to be believable.",
+  "speak": "Part Eight's first caution was that the idea has to be believable.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The author's answer to that is a program, and a small one.",
+  "speak": "The author's answer to that is a program, and a small one.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Give it a name.",
+  "speak": "Give it a name.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Build ten first articles.",
+  "speak": "Build ten first articles.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Then keep building three a year.",
+  "speak": "Then keep building three a year.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "A name sounds like the least of it.",
+  "speak": "A name sounds like the least of it.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "But a name means a budget line, an office, a contractor and a test report.",
+  "speak": "But a name means a budget line, an office, a contractor and a test report.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A planner can wave away an idea.",
+  "speak": "A planner can wave away an idea.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "He has a harder time waving away a line in a budget with ten tail numbers behind it.",
+  "speak": "He has a harder time waving away a line in a budget with ten tail numbers behind it.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Ten is enough to do the things this episode has said nobody has done.",
+  "speak": "Ten is enough to do the things this episode has said nobody has done.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Prove the wing.",
+  "speak": "Prove the wing.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Prove the rack.",
+  "speak": "Prove the rack.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Prove that twenty-four missiles come off cleanly.",
+  "speak": "Prove that twenty-four missiles come off cleanly.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "And then fly through allied airports in peacetime exercises, empty and announced, until it's ordinary.",
+  "speak": "And then fly through allied airports in peacetime exercises, empty and announced, until it's ordinary.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "That was Part Seven's repair, and ten airplanes can make it.",
+  "speak": "That was Part Seven's repair, and ten airplanes can make it.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p9",
+  "text": "And three a year is a number this series has seen before.",
+  "speak": "And three a year is a number this series has seen before.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "3f worked out that one conversion line, at the pace the freighter shops keep, turns out about three airplanes a year.",
+  "speak": "three F worked out that one conversion line, at the pace the freighter shops keep, turns out about three airplanes a year.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "So three a year is one line, kept warm.",
+  "speak": "So three a year is one line, kept warm.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "At that rate the fleet grows slowly, and that's fine, because the fleet was never the point.",
+  "speak": "At that rate the fleet grows slowly, and that's fine, because the fleet was never the point.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The planner counts what could be built.",
+  "speak": "The planner counts what could be built.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "He can see the airframes parked in the desert.",
+  "speak": "He can see the airframes parked in the desert.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "He can see a missile program aiming at thousands of rounds a year.",
+  "speak": "He can see a missile program aiming at thousands of rounds a year.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "If the new wing is the slow part, then wing sets can be built ahead and stored, and the distance between ten trucks and a hundred becomes a matter of months in a hangar.",
+  "speak": "If the new wing is the slow part, then wing sets can be built ahead and stored, and the distance between ten trucks and a hundred becomes a matter of months in a hangar.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "A bluff only works if the player is sometimes holding the cards.",
+  "speak": "A bluff only works if the player is sometimes holding the cards.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Ten airplanes are the cards.",
+  "speak": "Ten airplanes are the cards.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The warm line is the rest of the deck, face down.",
+  "speak": "The warm line is the rest of the deck, face down.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p9",
+  "text": "And the author would write a number on the back of that deck.",
+  "speak": "And the author would write a number on the back of that deck.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A thousand.",
+  "speak": "A thousand.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "A program of record for a thousand trucks.",
+  "speak": "A program of record for a thousand trucks.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Authorized, announced, and in the author's view never built, because the point of announcing it is that nobody makes it necessary.",
+  "speak": "Authorized, announced, and in the author's view never built, because the point of announcing it is that nobody makes it necessary.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Run the number anyway, because the planner will.",
+  "speak": "Run the number anyway, because the planner will.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A thousand trucks at six to eight to a field fills between 125 and 167 airfields.",
+  "speak": "A thousand trucks at six to eight to a field fills between 125 and 167 airfields.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "At twenty-four missiles each, that's 24,000 cruise missiles, about three years of the low-cost program's hoped-for output.",
+  "speak": "At twenty-four missiles each, that's 24,000 cruise missiles, about three years of the low-cost program's hoped-for output.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "At Part Five's guess of twenty to thirty million dollars an airplane, it's twenty to thirty billion dollars, plus about five billion for the missiles.",
+  "speak": "At Part Five's guess of twenty to thirty million dollars an airplane, it's twenty to thirty billion dollars, plus about five billion for the missiles.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "That's a great deal of money.",
+  "speak": "That's a great deal of money.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "It's also less than some single programs this series has already walked through.",
+  "speak": "It's also less than some single programs this series has already walked through.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "And at a thousand, something changes.",
+  "speak": "And at a thousand, something changes.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "With a hundred and thirty trucks, most of the runways are empty and the idea is a shell game.",
+  "speak": "With a hundred and thirty trucks, most of the runways are empty and the idea is a shell game.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "With a thousand, the shells are mostly full.",
+  "speak": "With a thousand, the shells are mostly full.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "It stops being a bluff about where the airplanes are and becomes a plain statement about how many there could be.",
+  "speak": "It stops being a bluff about where the airplanes are and becomes a plain statement about how many there could be.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p9",
+  "text": "There's a difficulty here, and it's an old one.",
+  "speak": "There's a difficulty here, and it's an old one.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "A number only deters if the other side believes it would be built.",
+  "speak": "A number only deters if the other side believes it would be built.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "So it can't be announced as theoretical.",
+  "speak": "So it can't be announced as theoretical.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The authority has to be real.",
+  "speak": "The authority has to be real.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The options on retiring airliners have to be signed.",
+  "speak": "The options on retiring airliners have to be signed.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The wing line has to be able to speed up.",
+  "speak": "The wing line has to be able to speed up.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "The program has to be one decision away from happening.",
+  "speak": "The program has to be one decision away from happening.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "Which means the best outcome is a strange one.",
+  "speak": "Which means the best outcome is a strange one.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "If it works, almost none of it ever exists, and there will be nothing to point to as proof that it worked.",
+  "speak": "If it works, almost none of it ever exists, and there will be nothing to point to as proof that it worked.",
+  "flag": "plan",
+  "pause": 1.4
+ },
+ {
+  "section": "p9",
+  "text": "The risks are the ordinary ones.",
+  "speak": "The risks are the ordinary ones.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Small, odd programs are the first to be cut, and this one belongs to no tribe in the Air Force.",
+  "speak": "Small, odd programs are the first to be cut, and this one belongs to no tribe in the Air Force.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "Three a year can look like a token unless the line shows, at least once, that it can go faster.",
+  "speak": "Three a year can look like a token unless the line shows, at least once, that it can go faster.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "And the first ten carry all the engineering, so they'll cost far more each than the hundredth would.",
+  "speak": "And the first ten carry all the engineering, so they'll cost far more each than the hundredth would.",
+  "flag": "plan",
+  "pause": 0.8
+ },
+ {
+  "section": "p9",
+  "text": "But as deterrents go, this is a cheap one to make real.",
+  "speak": "But as deterrents go, this is a cheap one to make real.",
+  "flag": "plan",
+  "pause": 0.35
+ },
+ {
+  "section": "p9",
+  "text": "And real, even in small numbers, is what separates it from a slide.",
+  "speak": "And real, even in small numbers, is what separates it from a slide.",
+  "flag": "plan",
+  "pause": 2.0
+ },
+ {
+  "section": "p10",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Part Ten — The Other Side of the Ledger"
+ },
+ {
+  "section": "p10",
+  "text": "Now the rest of the case against.",
+  "speak": "Now the rest of the case against.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "The truck is soft.",
+  "speak": "The truck is soft.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "A 737 on an open ramp, loaded with missiles, has no shelter and no armor.",
+  "speak": "A seven thirty-seven on an open ramp, loaded with missiles, has no shelter and no armor.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "In June 2025, Ukraine destroyed Russian bombers on their own airfields with small drones launched from trucks parked nearby.",
+  "speak": "In June twenty twenty-five, Ukraine destroyed Russian bombers on their own airfields with small drones launched from trucks parked nearby.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "An airliner full of fuel and warheads at a civilian airport, with a public road beside the fence, is a much easier target than that.",
+  "speak": "An airliner full of fuel and warheads at a civilian airport, with a public road beside the fence, is a much easier target than that.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "Civilian airports are full of civilians.",
+  "speak": "Civilian airports are full of civilians.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Putting a weapon on a civil ramp doesn't only make the airport a lawful target.",
+  "speak": "Putting a weapon on a civil ramp doesn't only make the airport a lawful target.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "It puts the terminal next to it.",
+  "speak": "It puts the terminal next to it.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "The idea is easy to copy.",
+  "speak": "The idea is easy to copy.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "China's airlines fly hundreds of 737s and Airbus A320s, and China builds an airliner of its own.",
+  "speak": "China's airlines fly hundreds of seven thirty-sevens and Airbus A three twentys, and China builds an airliner of its own.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Episode 11 called this the symmetry trap.",
+  "speak": "Episode 11 called this the symmetry trap.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Whatever is cheap and clever for one side is cheap and clever for the other.",
+  "speak": "Whatever is cheap and clever for one side is cheap and clever for the other.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "The missiles may not be enough.",
+  "speak": "The missiles may not be enough.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Twenty-four hundred-pound warheads will wreck radars, fuel, parked aircraft and soft ships.",
+  "speak": "Twenty-four hundred-pound warheads will wreck radars, fuel, parked aircraft and soft ships.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "They won't stop a fleet.",
+  "speak": "They won't stop a fleet.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "A plan that swaps all of its heavy missiles for light ones has given up the hard targets.",
+  "speak": "A plan that swaps all of its heavy missiles for light ones has given up the hard targets.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "The wing broke the budget.",
+  "speak": "The wing broke the budget.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Part Five said it.",
+  "speak": "Part Five said it.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "This is no longer a ten-million-dollar airplane.",
+  "speak": "This is no longer a ten-million-dollar airplane.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "The rack doesn't exist, the half-size missile doesn't exist, and the Missileer was cancelled for a reason.",
+  "speak": "The rack doesn't exist, the half-size missile doesn't exist, and the Missile-eer was cancelled for a reason.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Three of this episode's ideas rest on hardware nobody has built.",
+  "speak": "Three of this episode's ideas rest on hardware nobody has built.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "p10",
+  "text": "And 3f's objections still stand.",
+  "speak": "And three F's objections still stand.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "Somebody has to own the engineering.",
+  "speak": "Somebody has to own the engineering.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "The first article takes years.",
+  "speak": "The first article takes years.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "p10",
+  "text": "An airliner caught in the air doesn't survive.",
+  "speak": "An airliner caught in the air doesn't survive.",
+  "flag": "",
+  "pause": 2.0
+ },
+ {
+  "section": "close",
+  "text": "",
+  "speak": "",
+  "flag": "interpretation",
+  "pause": 2.6,
+  "chapter": "The Airplane Nobody Looks at"
+ },
+ {
+  "section": "close",
+  "text": "So go back to the airplane at the remote stand.",
+  "speak": "So go back to the airplane at the remote stand.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "This episode started with a number, nineteen million dollars of missiles on a ten-million-dollar airplane, and tried to make the number smaller.",
+  "speak": "This episode started with a number, nineteen million dollars of missiles on a ten-million-dollar airplane, and tried to make the number smaller.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It got there.",
+  "speak": "It got there.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "A quarter of the cost, four times the shots, on a truck that knows nothing and carries a lot.",
+  "speak": "A quarter of the cost, four times the shots, on a truck that knows nothing and carries a lot.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Then it tried to fix the wing, and made the airplane more expensive than it promised.",
+  "speak": "Then it tried to fix the wing, and made the airplane more expensive than it promised.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Then it drew a map, and found that the strongest part of the idea is also the part that belongs to other people.",
+  "speak": "Then it drew a map, and found that the strongest part of the idea is also the part that belongs to other people.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "A runway is a physical thing.",
+  "speak": "A runway is a physical thing.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Anyone can measure it.",
+  "speak": "Anyone can measure it.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Permission is not, and it can't be stockpiled in a desert.",
+  "speak": "Permission is not, and it can't be stockpiled in a desert.",
+  "flag": "interpretation",
+  "pause": 1.4
+ },
+ {
+  "section": "close",
+  "text": "One reading is that this is the pattern of the whole arsenal-jet story.",
+  "speak": "One reading is that this is the pattern of the whole arsenal-jet story.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Every time the thread solves the hardware, the problem moves somewhere softer.",
+  "speak": "Every time the thread solves the hardware, the problem moves somewhere softer.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "From the airframe to the hangar.",
+  "speak": "From the airframe to the hangar.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "From the hangar to the drawings.",
+  "speak": "From the hangar to the drawings.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "From the drawings to the missiles.",
+  "speak": "From the drawings to the missiles.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "And now from the missiles to seven governments and an island, each with its own history of being someone else's battlefield.",
+  "speak": "And now from the missiles to seven governments and an island, each with its own history of being someone else's battlefield.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Episode 3 began with the Navy's wasted years.",
+  "speak": "Episode 3 began with the Navy's wasted years.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "It followed its own questions through engines, old airliners and a hangar, and it has ended somewhere it didn't plan to:",
+  "speak": "It followed its own questions through engines, old airliners and a hangar, and it has ended somewhere it didn't plan to:",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "with the cheapest airplane in the series, and a question about other people's permission.",
+  "speak": "with the cheapest airplane in the series, and a question about other people's permission.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "This may be where that thread rests.",
+  "speak": "This may be where that thread rests.",
+  "flag": "interpretation",
+  "pause": 1.4
+ },
+ {
+  "section": "close",
+  "text": "Would a Chinese planner have to deal with it?",
+  "speak": "Would a Chinese planner have to deal with it?",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "If even a few of those governments said yes, he would.",
+  "speak": "If even a few of those governments said yes, he would.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "He'd have to plan against an airplane he can't tell from the ones around it, on runways he can't afford to hit and can't afford to ignore.",
+  "speak": "He'd have to plan against an airplane he can't tell from the ones around it, on runways he can't afford to hit and can't afford to ignore.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "Would they say yes?",
+  "speak": "Would they say yes?",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The episode doesn't know.",
+  "speak": "The episode doesn't know.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "Neither does anyone in Washington, and neither do they, yet.",
+  "speak": "Neither does anyone in Washington, and neither do they, yet.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "The author's point is that the planner doesn't know either, and he's the one who can't afford to guess wrong.",
+  "speak": "The author's point is that the planner doesn't know either, and he's the one who can't afford to guess wrong.",
+  "flag": "interpretation",
+  "pause": 0.8
+ },
+ {
+  "section": "close",
+  "text": "That's the honest ending.",
+  "speak": "That's the honest ending.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The cheapest part of this deterrent is the airplane.",
+  "speak": "The cheapest part of this deterrent is the airplane.",
+  "flag": "interpretation",
+  "pause": 0.35
+ },
+ {
+  "section": "close",
+  "text": "The most expensive part isn't for sale.",
+  "speak": "The most expensive part isn't for sale.",
+  "flag": "interpretation",
+  "pause": 2.0
+ },
+ {
+  "section": "thread",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 2.6,
+  "chapter": "Open Thread"
+ },
+ {
+  "section": "thread",
+  "text": "The plan needed hundreds of runways and found it needed permission.",
+  "speak": "The plan needed hundreds of runways and found it needed permission.",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "What makes a country say yes to hosting someone else's weapons, and what did it cost the ones that did?",
+  "speak": "What makes a country say yes to hosting someone else's weapons, and what did it cost the ones that did?",
+  "flag": "",
+  "pause": 0.35
+ },
+ {
+  "section": "thread",
+  "text": "That may be the next pull.",
+  "speak": "That may be the next pull.",
+  "flag": "",
+  "pause": 0.8
+ },
+ {
+  "section": "end",
+  "text": "",
+  "speak": "",
+  "flag": "",
+  "pause": 10.0
+ }
+]
