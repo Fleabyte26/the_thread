@@ -6,7 +6,7 @@ import { EP } from "./episode";
 
 const SCENES: Record<string, React.FC<{ now: number }>> = {
   cold: S.Cold, title: S.Title, p1: S.P1, p2: S.P2, p3: S.P3, p4: S.P4, p5: S.P5,
-  p6: S.P6, p7: S.P7, p8: S.P8, close: S.Close, thread: S.Thread, end: S.End,
+  p6: S.P6, p7: S.P7, p8: S.P8, p9: (S as any).P9, p10: (S as any).P10, close: S.Close, thread: S.Thread, end: S.End,
 };
 
 const FADE = 0.9;
