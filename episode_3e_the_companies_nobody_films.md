@@ -263,6 +263,8 @@ But it knows somebody still has to build the box.
 - F-35 cooling: the 80 kW objective, Honeywell's ~40 kW phase-one claim, Collins' 2024 lab result and August 24, 2026 altitude-test announcement. Recheck whether Lockheed has decided.
 - Neros: ~1,200 drones/week (company), $500M Army PBAS ceiling, Office of Strategic Capital loan up to $450M (November 2026). Founders' FPV racing background (Pickdrones, Tectonic).
 
+**Future episode (parked, maybe Episode 50):** an In-Q-Tel episode. A Part Six passage on Oracle and In-Q-Tel was added to 3e, failed YouTube community standards, and was reverted. Next time, frame it as industrial policy and technology transfer ("The Government's Venture Fund" / "The First Check"): source it from IQT's own publications, its public nonprofit filings and GAO/congressional material; set it alongside DARPA, DIU, AFWERX, the Office of Strategic Capital and NSF small-business grants; tell the commercial stories (Keyhole/Google Earth, leverage, transitions to government use); include the counter-thread (conflicts of interest, picking winners, secrecy, no European equivalent); keep agency names and spy framing out of the title and thumbnail.
+
 **Visual references:** a generic grey heat exchanger (no real product shots needed); the Ohio farmland; maps with pins for the factories; funding bars with source labels; a small turbine on a stand; a generic FPV drone and racing goggles (no real people); a machinist at a five-axis mill (generic).
 
 **Ancient parallels:** none forced.
