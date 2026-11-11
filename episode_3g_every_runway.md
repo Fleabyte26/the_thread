@@ -1,6 +1,6 @@
 # THE THREAD — Episode 3g: Every Runway
 
-**Status:** Draft 1, long cut
+**Status:** Draft 2, long cut (Part Eight added)
 **Working title:** "Every Runway" (alternative: "The Truck, the Wing and the Map")
 **Numbering:** Kris asked for this as 3f. "The Hangar Year" already holds 3f in this repo and has a video build (`production/episodes/ep3f`), so this draft is filed as 3g to avoid overwriting it. Renumber if wanted.
 **Format:** Third-person narration throughout. No first-person breaks.
@@ -26,7 +26,7 @@ It kept turning over the nineteen million instead. And from that one number, fou
 
 What if the missiles were cheap? What if the airplane stayed dumb on purpose? What if the answer to the old wing was a new wing? And if this whole thing is a deterrent, where do the airplanes go on the day it matters?
 
-That last one ends on a map. The map is where the idea gets strong, and where it gets into trouble.
+That last one ends on a map. The map is where the idea gets strong, and where it gets into trouble, and then where it gets strong again.
 
 ---
 
@@ -256,7 +256,55 @@ There's an obvious repair. Make it routine. Fly the trucks through these airport
 
 ---
 
-## PART EIGHT — THE OTHER SIDE OF THE LEDGER
+## PART EIGHT — WHAT THE PLANNER HAS TO ASSUME
+
+The author's answer to Part Seven is short. What those governments would say matters less than what the planner has to assume.
+
+A man planning a war can't build it on the hope that other countries will hold to their peacetime positions in a crisis years away. He plans against what's possible. If a 737 can land there, and the government hasn't ruled it out, the runway goes on his list.
+
+And history gives him reasons to worry.
+
+In 1940, Britain didn't ask Iceland. It landed troops. In 1941, Britain and the Soviet Union did the same to Iran. In 1943, Portugal, neutral, handed over airfields in the Azores under heavy pressure. In 1990, Saudi Arabia accepted American troops within days of Iraq taking Kuwait. In 2001, Pakistan opened its airspace after an American ultimatum. In a crisis, the room to say no can shrink very fast.
+
+*(Beat.)*
+
+The record runs the other way too, and the thread should say so. In 1973, almost every European ally refused to let the American airlift to Israel land or fly over. In 1986, France and Spain refused overflight for the raid on Libya, and the bombers flew around them. In 2003, Turkey's parliament voted down the passage of an American division into Iraq. Ireland kept its ports closed to Britain for the whole of the Second World War.
+
+What separates the two lists looks like this. Countries said yes when the same enemy threatened them, or when a great power was willing to force the matter. They said no when it was someone else's war and saying yes would make them a target.
+
+Nobody is going to force India or Indonesia. And a deterrent that had to coerce its own hosts would have no hosts.
+
+But the planner has read all of this as well. He can't know which list a country will land on until the week arrives. So he has to carry the whole map.
+
+*(Beat.)*
+
+Now the author's number. Picture six to eight trucks at an airfield.
+
+At twenty-four missiles each, that's between 144 and 192 cruise missiles, leaving from one ordinary airport.
+
+3f imagined a fleet of about a hundred and thirty airplanes. At six to eight to a field, that fleet fills somewhere between sixteen and twenty-two airfields. Out of several hundred.
+
+So nearly all of the runways on the planner's list would be empty. That's the design. The MX plan put one missile among twenty-three shelters. This is about the same ratio, with one difference: nobody had to pour the shelters. They're already there, and they're called airports.
+
+And think about what covering them would mean. To be safe, he would have to strike hundreds of civilian airports, in seven countries, in the first hour, before the trucks are off the ground. That would make enemies of countries that might have stayed out. A war he wanted to keep small would have to begin by being made enormous.
+
+That is the strongest thing this idea does. It doesn't have to win a fight. It raises the price of starting one.
+
+*(Beat.)*
+
+Three cautions, so the thread stays honest.
+
+It only works if it's believable. A planner can discount something that has never once happened. A few close allies would have to host these airplanes in the open, in peacetime, before the rest of the map counts for anything.
+
+He has other moves. He can work on the answer years ahead, with trade and diplomacy, in the capitals. He can go after the kill chain and leave the trucks blind. Or he can leave the airports alone and shoot down the missiles, which are slow and small.
+
+And the cost lands on people who weren't asked. If he has to assume Indonesia says yes, then Indonesian airports are on a target list whether or not Indonesia ever agrees to anything. The same is true of India. An idea drawn up in one country puts another country's airports in a third country's war plan.
+
+That is a real cost. The author's plan gets its strength from other people's silence, and it should say so.
+
+---
+
+## PART NINE — THE OTHER SIDE OF THE LEDGER
 
 Now the rest of the case against.
 
@@ -296,6 +344,8 @@ Would a Chinese planner have to deal with it? If even a few of those governments
 
 Would they say yes? The episode doesn't know. Neither does anyone in Washington, and neither do they, yet.
 
+The author's point is that the planner doesn't know either, and he's the one who can't afford to guess wrong.
+
 That's the honest ending. The cheapest part of this deterrent is the airplane. The most expensive part isn't for sale.
 
 ---
@@ -312,6 +362,7 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - Part Two (rack loadout and cost), Part Five (wing cost), Part Six (runway counts): INFERENCE · AUTHOR'S ARITHMETIC.
 - Parts One through Six, wherever the plan itself is described (cheap magazine, dumb truck, new wing, crisis basing): INFERENCE · THE AUTHOR'S PLAN.
 - Part Seven (how Beijing and the host governments would read a crisis deployment; the 1914 comparison) and the Close: INTERPRETATION · ONE READING.
+- Part Eight: the planner's-assumption argument and six to eight trucks per airfield are INFERENCE · THE AUTHOR'S PLAN; the fleet and airfield arithmetic is INFERENCE · AUTHOR'S ARITHMETIC; the reading of what separates the yes cases from the no cases is INTERPRETATION · ONE READING.
 
 **Corrections and care, said on air:**
 - AFLRW: Episode 2 treated it as a strike weapon. Reporting describes it as air-to-air first. Part Three says so.
@@ -319,6 +370,7 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - The Barracuda-500's weight is not published. The episode says "if that's right."
 - No four-round rack for FAMM-class missiles was found. The episode says "hasn't found," not "doesn't exist."
 - The count of 737-capable runways is not done. The episode says so.
+- Part Eight gives Kris's counter to Part Seven and both halves of the historical record. Kris's stronger claim, that in a crisis countries are left with no choice, is not asserted on air; the episode says the room to refuse "can shrink very fast" and then gives the refusals.
 - India, Indonesia and Singapore are not U.S. allies, and the episode does not speak for them. With roughly 90 percent of the audience in Hindi and Bahasa Indonesia, Part Seven should be checked by someone who knows how these lines land in each country before recording.
 
 **Figures to recheck before recording:**
@@ -345,10 +397,12 @@ That's the honest ending. The cheapest part of this deterrent is the airplane. T
 - Singapore's access arrangements; South Korea and Australia decision processes; U.S.–Taiwan treaty ended 1979 (terminated at the start of 1980): **from memory. Check.**
 - MX: Carter approval September 1979; 200 missiles, 4,600 shelters, 23 per missile, Nevada and Utah; Reagan cancellation October 2, 1981; LDS Church statement of opposition (1981).
 - Ukraine drone strike on Russian bomber bases, June 2025: **from memory. Check date and details.**
+- Part Eight history, **all from memory, check each**: British occupation of Iceland (May 1940); Anglo-Soviet invasion of Iran (August 1941); Azores agreement with Portugal (1943); U.S. deployment to Saudi Arabia (August 1990); Pakistan's post-September 2001 access; European refusals during the October 1973 airlift (Portugal's Lajes the exception); France and Spain refusing overflight for the April 1986 Libya raid; Turkish parliament vote of March 1, 2003; Irish neutrality and the treaty ports.
+- Part Eight arithmetic: 6 to 8 trucks × 24 = 144 to 192 missiles per airfield; 130 trucks (3f's fleet) ÷ 8 and ÷ 6 = about 16 to 22 airfields; MX ratio 1 missile to 23 shelters. "Six to eight per airfield" and "they must assume yes" are Kris's.
 
 **Visual references:** a generic 737 at a remote stand (no airline markings, no real people); price bars, $1.3M against $218,000; missile silhouettes to scale, 2,000-lb class against 500-lb class; a pylon with a four-round rack (schematic, labelled as not yet built); a straight-winged missile carrier silhouette for the Missileer (schematic); an airliner with an empty mission cabin (schematic); a wing coming off a wing box and a new one going on (schematic); a wingtip with four small missiles (schematic); a map of the western Pacific, first with a few large base markers, then with several hundred small unlabelled airport dots; the same map with most dots greyed out for Part Seven; a desert grid of shelters for the MX (schematic).
 
-**Ancient parallels:** none forced. The MX shell game and the Missileer are modern precedents that came up in drafting on November 11, 2026, not from Kris. Keep or cut.
+**Ancient parallels:** none forced. The MX shell game and the Missileer are modern precedents that came up in drafting on November 11, 2026, not from Kris. Keep or cut. The historical cases in Part Eight follow Kris's "look at history."
 
 **Audience note:** this episode names India and Indonesia directly. It treats both as countries that decide for themselves. Keep that.
 
