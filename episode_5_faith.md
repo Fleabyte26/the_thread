@@ -138,7 +138,7 @@ There were about thirty trucks. Into them went the wounded, close to six hundred
 
 There was another way out, and it matters that he did not take it. The lake was frozen. Men on foot could walk across the ice, straight to the Marines, away from the road and the hills above it. But the ice would not hold a loaded truck. To go by the ice was to leave the wounded. Faith took the road.
 
-The column moved at about one in the afternoon, with Marine aircraft overhead. Within minutes one of those aircraft dropped its napalm short. It fell on the front of the column, on the Americans. The accounts do not agree on the number, but men were killed and others burned, in front of everyone, by their own side. Faith had watched that happen once before, from a hillside in Sicily.
+The column moved at about one in the afternoon, with Marine aircraft overhead. Within minutes one of those aircraft dropped its napalm short. It fell on the front of the column, on the Americans. The accounts do not agree on the number, but men were killed and others burned, in front of everyone, by their own side. The same thing had happened in Sicily, seven years before, when he was Ridgway's aide.
 
 He got them moving again. Then the bridge. The Chinese had blown it, and the trucks had to be dragged across the gap one at a time, by a winch, while rifle and machine-gun fire came down from the high ground into the truck beds. It took about two hours. Drivers were shot at the wheel. Other men climbed in and took their places, knowing what had happened to the last one.
 
@@ -271,7 +271,7 @@ She still has the books.
 
 8. Sicily losses. All sources agree on 23 transports shot down on July 11, 1943 (one says 33). Deaths range from 81 to more than 300; the script gives no number.
 
-9. "Faith had watched that happen once before, from a hillside in Sicily." He was Ridgway's aide in Sicily, and the photograph puts him there on July 25. Where he was on the night of July 11 is not sourced. Safer wording if this cannot be confirmed: "He had seen that once before, in Sicily."
+9. Sicily and the napalm. The narration says only that the same thing had happened in Sicily when he was Ridgway's aide. Where Faith was on the night of July 11, 1943 is not sourced, so the script does not say he watched it.
 
 10. Almond and China. His published career summaries list the Philippines, Italy and Tokyo and no China service. The script says "so far as his record shows." If a fuller biography shows otherwise, the closing contrast in section 3 must change.
 
