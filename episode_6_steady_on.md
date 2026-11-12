@@ -1,6 +1,6 @@
 # THE THREAD — Episode 6: Steady On
 
-**Status:** Draft 1 (about 14 minutes)
+**Status:** Published November 12, 2026: https://youtu.be/jlbiP5MwWqk (14 min 0 s with the Piper voice)
 **Series slot:** Thread B, the human cost and memory. Pulled from the Open Thread of Episode 5, "Faith." Built from the treatment in `episode_12_yultong_the_line_that_held.md`. (SERIES_MAP.md lists "American-Canadian Rejuvenation" as Episode 6; this episode takes the number in published order.)
 **Format:** Third-person narration throughout. No first-person breaks.
 **Rule for this episode (Kris, November 12, 2026):** tell the possibilities as we know them. Nobody alive knows exactly what happened on the hill. The narration never says "what happened was." It says who wrote what, sets the versions side by side, and says what they have in common.
