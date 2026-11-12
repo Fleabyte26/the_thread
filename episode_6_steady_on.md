@@ -227,7 +227,7 @@ Steady on.
 1. Fort Knox, 1949. Taken from the earlier treatment (Wikipedia). Not re-verified in this pass.
 2. "His class was sent out early." From a Filipino-language profile (Abante). One source.
 3. "Operations chief in the guerrilla army" and the Death March. From the Korean ambassador's 2018 column. One source, though a careful one.
-4. The 65th Infantry as "an American regiment from Puerto Rico." Stated from general knowledge of that regiment; confirm.
+4. CONFIRMED 12 Nov 2026 (search, several sources): the U.S. 65th Infantry was the Puerto Rican regiment, attached to the 3rd Infantry Division.
 5. Which side each neighbor was on. Sources place the Turkish Brigade on one flank and the 65th on the other but word it differently; the script says only "on one side" and "on the other."
 6. Enemy strength. Philippine accounts: 40,000 (marked as failing verification in the reference work), or 15,000, or "ten to one." Chinese account: two battalions, 600 to 1,000. The script gives the two extremes and says so.
 7. Artiaga's position. Battle histories: commander of B Company on Yultong Hill. Both citations: a platoon leader in Yap's Tank Company. The script gives both.
@@ -242,7 +242,7 @@ Steady on.
 16. The Bataan Death March paragraph (April 1942, about sixty-five miles, thousands dead, most of them Filipino) is general history, not from this episode's sources. The figures are deliberately round. "He was twenty-one" follows from his birth date.
 17. "Kept fighting for three more years." The guerrilla service is sourced; its length is inferred from the dates of the occupation.
 18. Miudong, November 11, 1950, two North Korean battalions, first victory on foreign soil: several Philippine sources. "More than three hundred years a colony, four years independent" is general history.
-19. President Quirino's wife and three children killed in the battle for Manila in 1945: general history, not from this episode's sources. Confirm before the build. Who received the medal from him in December 1951 is not established, so the script does not say.
+19. CONFIRMED 12 Nov 2026 (search, several sources): President Quirino's wife Alicia and three of their children were killed on 9 February 1945 in the battle for Manila. Who received the medal from him in December 1951 is not established, so the script does not say.
 20. Aurora. Nothing was found about her life after 1951. The line says so.
 
 ---
