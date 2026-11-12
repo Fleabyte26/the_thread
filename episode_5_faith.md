@@ -1,6 +1,6 @@
 # THE THREAD — Episode 5: Faith
 
-**Status:** Draft 1, long cut (about 26 minutes)
+**Status:** Published November 12, 2026: https://youtu.be/p18gWaxWQ0M (20 min 16 s with the Piper voice)
 **Series slot:** Thread B, the human cost and memory. Pulled from the Open Thread of Episode 4. (SERIES_MAP.md lists "The Legion" as Episode 5; this episode takes the number in published order.)
 **Format:** Third-person narration throughout. No first-person breaks.
 **Structure:** The five days at the reservoir are the spine. Each day cuts back to a piece of the life.
