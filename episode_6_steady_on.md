@@ -222,28 +222,28 @@ Steady on.
 
 **Pronunciations for the voice:** Yap as "Yahp"; Candelaria as "Kan-deh-LAH-ree-ah"; Zambales as "Zam-BAH-les"; Artiaga as "Ar-tee-AH-gah"; Ojeda as "Oh-HEH-dah"; Yultong as "Yool-tong"; Yeoncheon as "Yun-chun"; Taegeuk as "Teh-gook"; Imjin as "Im-jin"; Isabelita as "Ee-sah-beh-LEE-tah"; Aurora de la Llana as "Ow-ROH-rah deh lah YAH-nah".
 
-### Open flags, to settle before the video is built
+### Open flags (verification pass of 12 Nov 2026 recorded below; episode already published)
 
-1. Fort Knox, 1949. Taken from the earlier treatment (Wikipedia). Not re-verified in this pass.
-2. "His class was sent out early." From a Filipino-language profile (Abante). One source.
-3. "Operations chief in the guerrilla army" and the Death March. From the Korean ambassador's 2018 column. One source, though a careful one.
+1. STILL OPEN. Fort Knox, 1949. Checked 12 Nov 2026: only the Wikipedia entry and its copies say it. No second source found.
+2. CONFIRMED 12 Nov 2026. Philippine Daily Inquirer ("PH wartime heroes get honors from US"): after the attack of December 8, 1941, the cadets of PMA Classes 1942 and 1943 were sent to Manila and commissioned as junior officers. https://newsinfo.inquirer.net/1980984/ph-wartime-heroes-get-honors-from-us
+3. PARTLY CONFIRMED 12 Nov 2026. World War II service is corroborated (Philippine Information Agency; the 2023 U.S. Congressional Gold Medal for Filipino WWII veterans). The Death March and "operations chief in the guerrilla army" still rest on the Korean ambassador's 2018 column alone.
 4. CONFIRMED 12 Nov 2026 (search, several sources): the U.S. 65th Infantry was the Puerto Rican regiment, attached to the 3rd Infantry Division.
 5. Which side each neighbor was on. Sources place the Turkish Brigade on one flank and the 65th on the other but word it differently; the script says only "on one side" and "on the other."
 6. Enemy strength. Philippine accounts: 40,000 (marked as failing verification in the reference work), or 15,000, or "ten to one." Chinese account: two battalions, 600 to 1,000. The script gives the two extremes and says so.
 7. Artiaga's position. Battle histories: commander of B Company on Yultong Hill. Both citations: a platoon leader in Yap's Tank Company. The script gives both.
 8. Casualties. Official report: 12 killed, 38 wounded, 6 missing. Other accounts: 15 killed; 12 killed, 28 wounded, 15 missing; one tourism source claims far more. The script says twelve, and that others say fifteen.
-9. "Very few foreigners have ever received" the Taegeuk. One Philippine news agency report gives 15 allied soldiers; not independently confirmed, so no number is spoken.
-10. The president "made the award himself." The Official Gazette lists remarks by President Quirino at the award, dated December 8, 1951. The text of the remarks was not read in this pass.
+9. WEAK, checked 12 Nov 2026. "Very few foreigners have ever received" the Taegeuk is looser than the record supports. The Philippine News Agency figure is 15 allied soldiers during the war itself; the reference list of recipients also includes a number of foreign generals and later honorees. Two Filipinos have received it (Maj. Maximo Young, 2016; Capt. Yap, 2018). If this line is ever reused, say "two Filipinos have received it."
+10. CONFIRMED 12 Nov 2026. Official Gazette, vol. 47 no. 12, pp. 6095-6099: extemporaneous remarks by President Quirino at the award, Malacañan Social Hall, December 8, 1951, before senior officers of the armed forces. He addresses "Mrs. Yap" in the salutation, so the widow was present. He does not name her, the children or Lt. Artiaga. https://www.officialgazette.gov.ph/1951/12/08/extemporaneous-remarks-of-president-quirino-at-the-award-of-medal-for-valor-to-capt-conrado-yap-posthumously/
 11. "Twice in five years." July 2018 (Seoul, the Taegeuk) and September 2023 (Baguio, the U.S. Congressional Gold Medal) are both sourced.
-12. The ship's thirty years. Commissioned into the South Korean navy in 1987, decommissioned December 2016, handed over August 5, 2019. "Thirty years" is 1987 to 2016.
-13. The ship's motto. Listed as "Steady on" in the reference entry for the ship. Confirm against a Philippine Navy source.
+12. The ship's thirty years. Launched January 24, 1986; commissioned into the South Korean navy in late 1986 or May 1987 (sources differ); decommissioned December 27, 2016; handed over August 5, 2019. "Thirty years" holds either way. Hull number changed from PS-39 to PS-30 after the episode's sources were written.
+13. SUPPORTED, not from an official Navy page. Checked 12 Nov 2026: the motto "Steady on" is in the reference entries for the ship, and the ship's own official Facebook page signs its posts "Steady on." No navy.mil.ph page was found stating it.
 14. The Iliad passage is commentary and is said to be commentary.
 15. Open Thread. The battalion's attachment to the British 29th Brigade and the attempt to reach the Gloucestershire Regiment at the Imjin are in the battle histories. Whether that is the next episode is Kris's call; Edson's Ridge is next in the series map's valor thread.
 16. The Bataan Death March paragraph (April 1942, about sixty-five miles, thousands dead, most of them Filipino) is general history, not from this episode's sources. The figures are deliberately round. "He was twenty-one" follows from his birth date.
 17. "Kept fighting for three more years." The guerrilla service is sourced; its length is inferred from the dates of the occupation.
 18. Miudong, November 11, 1950, two North Korean battalions, first victory on foreign soil: several Philippine sources. "More than three hundred years a colony, four years independent" is general history.
 19. CONFIRMED 12 Nov 2026 (search, several sources): President Quirino's wife Alicia and three of their children were killed on 9 February 1945 in the battle for Manila. Who received the medal from him in December 1951 is not established, so the script does not say.
-20. Aurora. Nothing was found about her life after 1951. The line says so.
+20. Aurora. Nothing was found about her life after 1951, except that the president addressed "Mrs. Yap" at the award on December 8, 1951 (see flag 10). The line in the script stands.
 
 ---
 
